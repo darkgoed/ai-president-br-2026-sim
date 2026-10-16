@@ -254,8 +254,10 @@
         "rui-costa-pimenta-E11"
       ],
       "description": "Jornada semanal proposta; não efeito estimado no emprego.",
-      "value": null,
-      "unit": null,
+      "value": 35,
+      "unit": "hours_per_week",
+      "horizon_years": null,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     },
@@ -264,8 +266,10 @@
         "rui-costa-pimenta-E12"
       ],
       "description": "Piso proposto, sem custo agregado identificado.",
-      "value": null,
-      "unit": null,
+      "value": 8500,
+      "unit": "BRL_teacher_salary_floor_lower_target",
+      "horizon_years": null,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     }

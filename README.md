@@ -59,6 +59,8 @@ Há independência artificial entre variáveis/anos; faltam câmbio, ajustes pat
 
 `data/strategies.json` usa o mesmo esquema para os 12 nomes. Propostas qualitativas e metas declaradas não viram coeficientes. O motor rejeita efeitos políticos preenchidos sem modelo identificado. Pesos alternativos não fabricam resultados sociais ausentes; por isso não há índice composto nem inversões de ranking a reportar.
 
+Os compromissos também estão preservados nos snapshots documentais de `data/strategies.json` e `research/impacts.json`. Esses snapshots correspondem à versão usada na execução publicada. Campos numéricos documentais complementares (unidades, metas e horizontes) foram posteriormente explicitados nos dossiers `research/candidates/`, que são a referência atual para essa catalogação. Isso não preenche efeitos causais nem altera as trajetórias; uma meta de dez anos não foi dividida para fabricar entrega em quatro anos.
+
 ## Reprodutibilidade e testes
 
 Verifique novamente os 199 excertos nos PDFs oficiais com `python tools/verify_sources.py` (requer rede). A ferramenta confere hashes e páginas; mudanças posteriores da fonte são reportadas. `evidence/terminal.png` é uma renderização literal de stdout real, não uma foto de emulador GUI. O log e o hash acompanham a imagem. Para regenerar, instale Pillow e execute `python tools/capture_terminal.py`.

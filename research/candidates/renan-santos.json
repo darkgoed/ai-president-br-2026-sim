@@ -254,8 +254,10 @@
         "renan-santos-E11"
       ],
       "description": "Projeção fiscal do próprio programa, não estimativa validada.",
-      "value": null,
-      "unit": null,
+      "value": 1100000000000,
+      "unit": "BRL_projected_savings",
+      "target_year": 2031,
+      "classification": "candidate_estimate_not_independent_costing",
       "cost_validated": false,
       "causal_effect": null
     },
@@ -264,8 +266,10 @@
         "renan-santos-E12"
       ],
       "description": "Meta de resolução na atenção primária; horizonte não definido no trecho.",
-      "value": null,
-      "unit": null,
+      "value": 80,
+      "unit": "percent_resolution_in_primary_care",
+      "horizon_years": null,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     }

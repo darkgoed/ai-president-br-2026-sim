@@ -241,8 +241,10 @@
         "wilson-grassi-E11"
       ],
       "description": "Estimativa do próprio plano; não validada causalmente. O mesmo parágrafo contém comparação aritmética inconsistente, auditada separadamente.",
-      "value": null,
-      "unit": null,
+      "value": 266000000000,
+      "unit": "BRL_candidate_estimate_income_tax_exemption_cost",
+      "horizon_years": null,
+      "classification": "candidate_estimate_not_independent_costing",
       "cost_validated": false,
       "causal_effect": null
     }

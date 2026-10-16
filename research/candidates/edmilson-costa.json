@@ -254,8 +254,10 @@
         "edmilson-costa-E11"
       ],
       "description": "Jornada proposta, não efeito de emprego.",
-      "value": null,
-      "unit": null,
+      "value": 30,
+      "unit": "hours_per_week",
+      "horizon_years": null,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     },
@@ -264,8 +266,10 @@
         "edmilson-costa-E12"
       ],
       "description": "Percentuais de cotas propostos no documento.",
-      "value": null,
-      "unit": null,
+      "value": 54,
+      "unit": "percent_quota_black_population",
+      "horizon_years": null,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     }

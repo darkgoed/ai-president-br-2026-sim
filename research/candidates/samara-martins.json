@@ -254,8 +254,10 @@
         "samara-martins-E11"
       ],
       "description": "Compromisso de elevação do mínimo, não efeito de renda real.",
-      "value": null,
-      "unit": null,
+      "value": 100,
+      "unit": "percent_increase_in_minimum_wage",
+      "horizon_years": null,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     },
@@ -264,8 +266,10 @@
         "samara-martins-E12"
       ],
       "description": "Meta de recursos educacionais em proporção do PIB.",
-      "value": null,
-      "unit": null,
+      "value": 10,
+      "unit": "percent_gdp_education_funding_lower_target",
+      "horizon_years": null,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     }

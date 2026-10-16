@@ -241,8 +241,10 @@
         "hertz-dias-E11"
       ],
       "description": "Limite proposto de isenção; sem estimativa independente de arrecadação.",
-      "value": null,
-      "unit": null,
+      "value": 10,
+      "unit": "minimum_wages_income_tax_exemption_threshold",
+      "horizon_years": null,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     }

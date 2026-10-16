@@ -254,8 +254,10 @@
         "augusto-cury-E11"
       ],
       "description": "Meta habitacional declarada.",
-      "value": null,
-      "unit": null,
+      "value": 5000000,
+      "unit": "homes_regularized_upper_target",
+      "horizon_years": 10,
+      "classification": "quantified_commitment_not_effect_estimate",
       "cost_validated": false,
       "causal_effect": null
     },
@@ -264,8 +266,10 @@
         "augusto-cury-E12"
       ],
       "description": "Estimativa preliminar do programa; inclui crédito retornável, não apenas gasto orçamentário.",
-      "value": null,
-      "unit": null,
+      "value": [145000000000, 280000000000],
+      "unit": "BRL_total_preliminary_financing_range_not_net_public_spending",
+      "horizon_years": 10,
+      "classification": "candidate_estimate_not_independent_costing",
       "cost_validated": false,
       "causal_effect": null
     }
