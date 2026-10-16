@@ -33,4 +33,16 @@ A imagem de terminal é renderização literal do stdout capturado de processo r
 
 ## Limitações de conclusão
 
-Esta auditoria aprova o benchmark e a documentação no escopo descrito, não uma comparação quantitativa de mandatos. Auditoria audiovisual é separada e fica pendente até o render e seus controles técnicos. A publicação GitHub deve ser confirmada por leitura remota antes de liberar CTA.
+Esta auditoria aprova o benchmark e a documentação no escopo descrito, não uma comparação quantitativa de mandatos. A publicação GitHub foi confirmada por leitura remota pública antes da liberação do CTA.
+
+## Auditoria audiovisual concluída
+
+O vídeo é produzido e armazenado separadamente, sem arquivos audiovisuais neste repositório. Versão final disponível com silhuetas-placeholder explícitas, não retratos definitivos. Os 12 nomes/partidos e percentuais eleitorais vêm do JSON TSE; o roster dos dez nomes após os finalistas mantém a ordem de votos. Esses percentuais não são desempenho simulado.
+
+O stdout usado no vídeo coincide integralmente com o relatório publicado. O JSON da sensibilidade capturada também coincide com o exportado: a variação de +2,20 pontos de dívida é arredondamento de 2,2044876858975755 sob redução hipotética de 0,005 no primário, na referência artificial, não previsão de governo. O texto corrigido diz que este modelo não consegue estimar o efeito; não afirma inexistência geral de dados.
+
+Render final: 56,747 s, 1.702 frames, 1080×1920, 30 fps, H264/yuv420p/BT709, AAC 48 kHz. Decodificação integral sem erros; medição independente de áudio: −14,03 LUFS, true peak −3,11 dBTP. Dinamismo: motion 1,05, still 22%, maior trecho quase estático 1,10 s na tese; zero intervalos detectados como pretos por mais de 0,3 s. Inspeção de frames reais de abertura, roster completo, resultado e CTA: sem corte de nomes/percentuais, tratamento visual igual e URL pública presente. A transcrição da narração confirma a ressalva metodológica e o CTA.
+
+A primeira versão final foi reprovada em dinamismo (still 44%); a correção chegou a 22% com deriva suave e movimento de conteúdo, sem cortes bruscos de zoom. Permanecem as limitações científicas descritas e a pendência editorial dos retratos. A imagem de terminal continua identificada como renderização literal de stdout, não fotografia de emulador.
+
+SHA256 do MP4 final externo: 8e9af205e50545a909957691f70761b909a96dd654e1d827ec8b360e88adeee4.
