@@ -1,0 +1,609 @@
+{
+  "supplied_name": "Lula",
+  "supplied_party": "PT",
+  "verified_name": "LUIZ INÁCIO LULA DA SILVA",
+  "verified_ballot_name": "LULA",
+  "verified_party_full": "PT - PARTIDO DOS TRABALHADORES",
+  "verified_party": "PT",
+  "official_status": "Candidatura DEFERIDA (TSE consulta_cand_complementar, DS_SITUACAO_CANDIDATO_TOT=DEFERIDO); 1º turno 04/10/2026: 2º TURNO; 2º turno 25/10/2026 registrado, resultado ainda #NULO (não apurado na geração 15/10/2026)",
+  "official_candidate_id": "280002542548",
+  "ballot_number": "13",
+  "coalition": "BRASIL PRONTO PRA MAIS (PSB / PDT / FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL (13-PT / 65-PC do B / 43-PV) / FEDERAÇÃO PSOL REDE (50-PSOL / 18-REDE))",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002542548_01.pdf",
+  "program_sha256": "e1c162c20c81dafadf69b10bab230b5a6dc48f6b6c27c2cfce853b131a8bcc36",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Promete elevar a taxa de investimento da economia.",
+        "evidence_ids": [
+          "lula-E04"
+        ]
+      },
+      {
+        "statement": "Promete continuar incentivando investimento privado na indústria, com foco em inovação.",
+        "evidence_ids": [
+          "lula-E05"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Promete manter o novo arcabouço fiscal.",
+        "evidence_ids": [
+          "lula-E06"
+        ]
+      },
+      {
+        "statement": "Promete criar condições para redução sustentada dos juros com inflação controlada e política fiscal responsável.",
+        "evidence_ids": [
+          "lula-E07"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Promete fortalecer o Programa Brasil Contra o Crime Organizado.",
+        "evidence_ids": [
+          "lula-E08"
+        ]
+      },
+      {
+        "statement": "Promete criar o Ministério da Segurança Pública, condicionado à aprovação da PEC da Segurança Pública.",
+        "evidence_ids": [
+          "lula-E09"
+        ]
+      },
+      {
+        "statement": "Promete ampliar estímulos ao uso de câmeras corporais, com padrões nacionais.",
+        "evidence_ids": [
+          "lula-E10"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Promete avançar na implantação de novos hospitais universitários articulados ao Agora tem Especialistas.",
+        "evidence_ids": [
+          "lula-E11"
+        ]
+      },
+      {
+        "statement": "Promete manter apoio aos municípios para universalizar a saúde bucal.",
+        "evidence_ids": [
+          "lula-E12"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Declara meta de 80% das crianças alfabetizadas na idade certa (sem prazo explícito no trecho).",
+        "evidence_ids": [
+          "lula-E13"
+        ]
+      },
+      {
+        "statement": "Promete implantar plenamente a Universidade Indígena.",
+        "evidence_ids": [
+          "lula-E14"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Declara ação junto ao Senado pelo fim da escala 6x1 e jornada de 40 horas sem redução salarial.",
+        "evidence_ids": [
+          "lula-E15"
+        ]
+      },
+      {
+        "statement": "Promete continuidade da política de valorização do salário mínimo.",
+        "evidence_ids": [
+          "lula-E16"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Promete ampliar políticas para crianças, incluindo enfrentamento da pobreza infantil.",
+        "evidence_ids": [
+          "lula-E17"
+        ]
+      },
+      {
+        "statement": "Promete fomentar infraestruturas de cuidado (lavanderias públicas, cozinhas solidárias, restaurantes populares).",
+        "evidence_ids": [
+          "lula-E18"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Promete manter concessões rodoviárias e intensificar as ferroviárias.",
+        "evidence_ids": [
+          "lula-E19"
+        ]
+      },
+      {
+        "statement": "Promete reduzir o déficit de fibra óptica (11% dos municípios) e ampliar 5G no campo.",
+        "evidence_ids": [
+          "lula-E20"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Reafirma meta de desmatamento líquido zero até 2030.",
+        "evidence_ids": [
+          "lula-E21"
+        ]
+      },
+      {
+        "statement": "Promete articular políticas para cumprir a nova NDC.",
+        "evidence_ids": [
+          "lula-E22"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Propõe enfrentar o atual sistema de emendas parlamentares.",
+        "evidence_ids": [
+          "lula-E23"
+        ]
+      },
+      {
+        "statement": "Promete aprofundar participação e controle social, mantendo conferências.",
+        "evidence_ids": [
+          "lula-E24"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "archive_member": "consulta_cand_2026_BR.csv",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (Portal de Dados Abertos)",
+      "accessed_at": "2026-10-15",
+      "document_date": "15/10/2026 19:31:28 (DT_GERACAO)",
+      "quote": "280002542548;13;LUIZ INÁCIO LULA DA SILVA;LULA;PT;PRESIDENTE;DS_SITUACAO_CANDIDATURA=#NE;NR_TURNO=1 DS_SIT_TOT_TURNO=2º TURNO;NR_TURNO=2 DS_SIT_TOT_TURNO=#NULO",
+      "classification": "official_tse_dataset",
+      "confidence": "high",
+      "claim": "Identidade, partido, número e resultado de turno do candidato a Presidente no registro oficial TSE.",
+      "id": "lula-E01"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
+      "archive_member": "consulta_cand_complementar_2026_BR.csv",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (Portal de Dados Abertos)",
+      "accessed_at": "2026-10-15",
+      "document_date": "15/10/2026 19:31:28 (DT_GERACAO)",
+      "quote": "SQ_CANDIDATO=280002542548;CD_ELEICAO=6257;DS_SITUACAO_CANDIDATO_TOT=DEFERIDO;DS_SITUACAO_JULGAMENTO=DEFERIDO;NR_PROCESSO=06014268120266000000;DT_ACEITE_CANDIDATURA=2026-08-08 11:39:10;ST_CANDIDATO_INSERIDO_URNA=SIM",
+      "classification": "official_tse_dataset",
+      "confidence": "high",
+      "claim": "Situação jurídica da candidatura: DEFERIDO.",
+      "id": "lula-E02"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (proposta de governo registrada)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "sha256=e1c162c20c81dafadf69b10bab230b5a6dc48f6b6c27c2cfce853b131a8bcc36",
+      "classification": "official_program_document",
+      "confidence": "high",
+      "claim": "Proposta de governo oficial registrada no TSE para este SQ_CANDIDATO (hash confere com repo/research/program_manifest.json).",
+      "id": "lula-E03"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 48,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Para isso, vamos elevar a taxa de investimento da economia.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete elevar a taxa de investimento da economia.",
+      "id": "lula-E04"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 48,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Também continuaremos a incentivar os investimentos privados na indústria, com foco em inovação e em setores portadores de futuro, para que o Brasil avance posições na corrida tecnológica global.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete continuar incentivando investimento privado na indústria, com foco em inovação.",
+      "id": "lula-E05"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 49,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Para isso, manteremos o novo arcabouço fiscal, que controlou o crescimento das despesas sem prejudicar as políticas sociais e permitiu uma redução significativa do déficit primário.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete manter o novo arcabouço fiscal.",
+      "id": "lula-E06"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 49,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Para impulsionar ainda mais os investimentos produtivos e o crescimento econômico de longo prazo, vamos criar as condições para uma redução sustentada das taxas de juros, com inflação controlada e assegurando uma política fiscal responsável.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete criar condições para redução sustentada dos juros com inflação controlada e política fiscal responsável.",
+      "id": "lula-E07"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 27,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Fortaleceremos o Programa Brasil Contra o Crime Organizado, lançado em maio de 2026.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete fortalecer o Programa Brasil Contra o Crime Organizado.",
+      "id": "lula-E08"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 30,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública para coordenar, em articulação com estados e municípios, a execução das políticas nacionais de segurança pública no âmbito do Sistema Único de Segurança Pública (SUSP).",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete criar o Ministério da Segurança Pública, condicionado à aprovação da PEC da Segurança Pública.",
+      "id": "lula-E09"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 30,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Ampliaremos o programa de estímulos para uso de câmeras corporais, com padrões nacionais para utilização, gestão e preservação das imagens.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete ampliar estímulos ao uso de câmeras corporais, com padrões nacionais.",
+      "id": "lula-E10"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 34,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "No próximo mandato, avançaremos na implantação de novos hospitais universitários e na sua articulação com o Agora tem Especialistas.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete avançar na implantação de novos hospitais universitários articulados ao Agora tem Especialistas.",
+      "id": "lula-E11"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 36,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Manteremos o apoio aos municípios para que, conforme a lei aprovada em nosso mandato, universalizem a oferta de saúde bucal.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete manter apoio aos municípios para universalizar a saúde bucal.",
+      "id": "lula-E12"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 31,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Declara meta de 80% das crianças alfabetizadas na idade certa (sem prazo explícito no trecho).",
+      "id": "lula-E13"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 20,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Vamos implantar plenamente a Universidade Indígena, criada em 2026.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete implantar plenamente a Universidade Indígena.",
+      "id": "lula-E14"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 75,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Declara ação junto ao Senado pelo fim da escala 6x1 e jornada de 40 horas sem redução salarial.",
+      "id": "lula-E15"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 74,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Por isto, o novo mandato de Lula dará continuidade à política de valorização do salário mínimo como meio estratégico de distribuição de renda, combate à pobreza e promoção do desenvolvimento econômico e social.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete continuidade da política de valorização do salário mínimo.",
+      "id": "lula-E16"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 24,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Continuaremos buscando ampliar e fortalecer as políticas para nossas crianças, por meio do enfrentamento da pobreza infantil, da garantia de acesso às políticas públicas e do direito ao brincar.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete ampliar políticas para crianças, incluindo enfrentamento da pobreza infantil.",
+      "id": "lula-E17"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 26,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Fomentaremos a construção de infraestruturas que ampliam os cuidados indiretos e comunitários, como as lavanderias públicas, as cozinhas solidárias e os restaurantes populares.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete fomentar infraestruturas de cuidado (lavanderias públicas, cozinhas solidárias, restaurantes populares).",
+      "id": "lula-E18"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 53,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Manteremos o ritmo nas concessões rodoviárias e intensificaremos as de ferrovias em duas frentes: leilão de novos projetos e repactuação dos contratos existentes.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete manter concessões rodoviárias e intensificar as ferroviárias.",
+      "id": "lula-E19"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 55,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Vamos reduzir o déficit de fibra óptica que ainda atinge 11% dos municípios e ampliar o 5G no campo, com prioridade para Norte, Nordeste e periferias.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete reduzir o déficit de fibra óptica (11% dos municípios) e ampliar 5G no campo.",
+      "id": "lula-E20"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 70,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "No próximo mandato, continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030, meta que reafirmamos.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Reafirma meta de desmatamento líquido zero até 2030.",
+      "id": "lula-E21"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 71,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Articularemos as políticas e mobilizaremos todos os atores governamentais, privados e da sociedade civil para que cumpramos a nossa nova NDC.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete articular políticas para cumprir a nova NDC.",
+      "id": "lula-E22"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Propomos ainda enfrentar uma grave distorção na elaboração e gestão do orçamento federal – o atual sistema de emendas parlamentares.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe enfrentar o atual sistema de emendas parlamentares.",
+      "id": "lula-E23"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Vamos aprofundar a participação. o controle social nas políticas públicas e continuaremos realizando conferências para implantar e aprimorar políticas e programas sob responsabilidade federal.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete aprofundar participação e controle social, mantendo conferências.",
+      "id": "lula-E24"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 31,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: 80% das crianças alfabetizadas na idade certa",
+      "id": "lula-E25"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 70,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "No próximo mandato, continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030, meta que reafirmamos.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: desmatamento líquido zero",
+      "id": "lula-E26"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 75,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: jornada de 40 horas sem redução salarial (fim da escala 6x1)",
+      "id": "lula-E27"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 69,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "A nova NDC, entregue em Baku durante a COP29, estabeleceu uma meta de redução de 59% a 67% das emissões líquidas de gases de efeito estufa até 2035, em relação a 2005.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: redução de 59% a 67% das emissões líquidas vs 2005 (NDC já entregue; plano promete cumpri-la)",
+      "id": "lula-E28"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002542548_01.pdf",
+      "page": 10,
+      "publisher": "Candidatura Lula / PT (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-07 (PDF CreationDate)",
+      "quote": "Voltamos ao governo em 2023 para reconstruir o Estado, retomar políticas públicas, recuperar o crescimento econômico, reduzir desigualdades, ampliar a sustentabilidade ambiental, recompor o protagonismo internacional e reconstruir a presença do Brasil no mundo.",
+      "classification": "self_reported_in_program",
+      "confidence": "medium",
+      "claim": "Programa afirma retorno ao governo federal em 2023 (autodeclaração; não verificada independentemente).",
+      "id": "lula-E29"
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "commitment": "80% das crianças alfabetizadas na idade certa",
+      "deadline": null,
+      "evidence_ids": [
+        "lula-E25"
+      ]
+    },
+    {
+      "commitment": "desmatamento líquido zero",
+      "deadline": "2030",
+      "evidence_ids": [
+        "lula-E26"
+      ]
+    },
+    {
+      "commitment": "jornada de 40 horas sem redução salarial (fim da escala 6x1)",
+      "deadline": null,
+      "evidence_ids": [
+        "lula-E27"
+      ]
+    },
+    {
+      "commitment": "redução de 59% a 67% das emissões líquidas vs 2005 (NDC já entregue; plano promete cumpri-la)",
+      "deadline": "2035",
+      "evidence_ids": [
+        "lula-E28",
+        "lula-E22"
+      ]
+    }
+  ],
+  "administrative_history": [
+    {
+      "statement": "Ocupação declarada ao TSE: TORNEIRO MECÂNICO",
+      "evidence_ids": [
+        "lula-E01"
+      ]
+    },
+    {
+      "statement": "Programa afirma retorno ao governo federal em 2023 (autodeclaração; não verificada independentemente).",
+      "evidence_ids": [
+        "lula-E29"
+      ]
+    }
+  ],
+  "legal_constraints": [],
+  "unknowns": [
+    "DS_SITUACAO_CANDIDATURA em consulta_cand_2026_BR.csv = \"#NE\" (não informado); situação jurídica tomada do arquivo complementar.",
+    "Extração por amostragem: axes contém trechos representativos, não inventário exaustivo do plano.",
+    "Autodeclarações históricas do plano não foram verificadas em fonte independente.",
+    "legal_constraints: nenhuma restrição legal pesquisada além do status TSE DEFERIDO; inelegibilidades/processos não investigados.",
+    "Página TSE de propostas (tse.jus.br) e divulgacandcontas retornaram HTTP 403 (Akamai) a partir deste host; usado o ZIP oficial do CDN TSE."
+  ],
+  "searches": [
+    {
+      "query": "Lula candidatura 2026 registro TSE plano de governo",
+      "tool": "web_search",
+      "result": "0 resultados (backend falhou; fallback exa sem resultados)",
+      "used_as_evidence": false
+    },
+    {
+      "query": "(sem busca) download parcial por HTTP Range dos ZIPs oficiais TSE consulta_cand_2026, consulta_cand_complementar_2026, proposta_governo_2026_BR",
+      "tool": "curl/urllib",
+      "result": "sucesso",
+      "used_as_evidence": true
+    }
+  ]
+}

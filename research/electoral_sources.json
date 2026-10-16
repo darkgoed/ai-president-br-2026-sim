@@ -1,0 +1,30 @@
+[
+  {
+    "id": "register",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+    "sha256": "b7ff7aac82056aa674373b606f5d6b58184e051991607841c1dff2782ce59d9e",
+    "bytes": 3244961,
+    "accessed_at": "2026-10-16T02:26:37.967965+00:00"
+  },
+  {
+    "id": "complementary",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
+    "sha256": "6cdba5f365136d5ff0e2102ef6e5707fc874c627405fbe07af95d43651c825f3",
+    "bytes": 1368120,
+    "accessed_at": "2026-10-16T02:26:37.970705+00:00"
+  },
+  {
+    "id": "programs",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+    "sha256": "406c2562687283f58ed9547ac6cea5bc01f282d78f4428b6a10d063e7a3d6753",
+    "bytes": 18275613,
+    "accessed_at": "2026-10-16T02:26:38.025244+00:00"
+  },
+  {
+    "id": "first-round",
+    "url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+    "sha256": "2866703eb4fc0ad6f17f0e081a00ab1175490b0786325e700cff1d8b40d25bca",
+    "bytes": 9349,
+    "accessed_at": "2026-10-16T02:26:38.025354+00:00"
+  }
+]

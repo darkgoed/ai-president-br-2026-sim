@@ -1,0 +1,238 @@
+{
+  "supplied_name": "CLARIANA BARAO",
+  "supplied_party": "DC",
+  "verified_name": "CLARIANA ZACARKIM BARAO",
+  "verified_party": "DC",
+  "official_status": "DEFERIDO",
+  "official_candidate_id": "280002552484",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002552484_01.pdf",
+  "program_sha256": "6390152c66285558ecd5459f4f73f3f65650beb77022b14e7750190b1b536d68",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E01"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E02"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E03"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E04"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E05"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E06"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E07"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E08"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E09"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "clariana-barao-E10"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "clariana-barao-E01",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 5,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Simplificação regulatória • Digitalização e abertura rápida de empresas • Segurança jurídica e avaliação de normas Indicadores sugeridos: tempo e custo para abrir empresa; estoque regulatório revisado; investimento privado; produtividade. 2.2 Pequenos negócios e empreendedorismo Objetivo. Transformar o eixo em uma agenda executável, com responsabilidades claras, coordenação federativa e acompanhamento público. • Crédito produtivo e garantias • Capacitação gerencial e digital",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E02",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Revisão de gastos e subsídios • Planejamento plurianual orientado a metas • Transparência de benefícios e avaliação de impacto Indicadores sugeridos: resultado fiscal; dívida/PIB; programas avaliados; economia obtida por revisão de gastos.",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E03",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 9,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Sensores, radares e monitoramento remoto • Drones e análise de imagens dentro do marco legal • Centros integrados de comando e compartilhamento de dados Indicadores sugeridos: cobertura monitorada; apreensões qualificadas; tempo de resposta; operações integradas. 4.2 Combate ao narcotráfico e ao tráfico de armas Objetivo. Transformar o eixo em uma agenda executável, com responsabilidades claras, coordenação federativa e",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E04",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 11,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Vacinação e rastreamento baseado em evidências • Saúde da mulher e da criança • Promoção de alimentação, sono e hábitos saudáveis Indicadores sugeridos: cobertura vacinal; rastreamento adequado; mortalidade materna/infantil; fatores de risco populacionais. 5.3 Inovação e terapias com avaliação científica Objetivo. Transformar o eixo em uma agenda executável, com",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E05",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 7,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Qualidade pedagógica na educação infantil • Apoio ao desenvolvimento e às famílias • Transição estruturada para alfabetização Indicadores sugeridos: cobertura; qualidade observada; desenvolvimento infantil; frequência. 3.2 Alfabetização e aprendizagem essencial Objetivo. Transformar o eixo em uma agenda executável, com responsabilidades claras, coordenação federativa e acompanhamento público. • Alfabetização na",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E06",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 8,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Expansão de formação técnica conectada às vocações regionais • Orientação de carreira e aprendizagem profissional • Parcerias com setor produtivo e ensino superior Indicadores sugeridos: matrículas técnicas; conclusão; emprego após formação; aderência entre curso e ocupação.",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E07",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 3,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Pré-natal e cuidado materno-infantil • Nutrição, vacinação e desenvolvimento infantil • Creches e apoio às famílias vulneráveis Indicadores sugeridos: cobertura pré-natal; vacinação; déficit de vagas em creche; indicadores de desenvolvimento infantil. 1.3 Autonomia econômica das mulheres Objetivo. Transformar o eixo em uma agenda",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E08",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 5,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Rodovias e manutenção baseada em desempenho • Ferrovias, hidrovias, portos e cabotagem • Concessões, PPPs e planejamento de longo prazo Indicadores sugeridos: custo logístico; tempo de transporte; investimento contratado; qualidade da infraestrutura. 2.4 Energia, conectividade e competitividade Objetivo. Transformar o eixo em uma agenda executável, com",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E09",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 5,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Segurança e confiabilidade energética • Expansão de conectividade • Ambiente para indústria, inovação e economia digital Indicadores sugeridos: custo e interrupções de energia; cobertura de banda larga; investimento produtivo; exportações de maior valor agregado. 2.5 Responsabilidade fiscal com foco em resultado",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "clariana-barao-E10",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552484_01.pdf",
+      "page": 13,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Identidade e serviços digitais integrados • Princípio de pedir dados uma única vez • Atendimento multicanal para não excluir quem está offline Indicadores sugeridos: serviços digitalizados; satisfação; tempo de atendimento; redução de exigências. 6.2 Gestão por metas e evidências Objetivo. Transformar o eixo em uma agenda executável, com responsabilidades claras,",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal."
+    }
+  ],
+  "quantitative_commitments": [],
+  "administrative_history": [],
+  "legal_constraints": [],
+  "unknowns": [
+    "Histórico administrativo não validado por fontes independentes neste recorte documental.",
+    "Legalidade e probabilidade de aprovação de cada proposta não estimadas.",
+    "Ausência de modelo causal identificado para efeitos diferenciais de governo.",
+    "Custos agregados e cronogramas não são presumidos; estimativas do plano não são dados observados."
+  ],
+  "searches": [
+    "Plano original TSE, leitura paginada e busca temática local; nenhuma busca externa duplicada."
+  ],
+  "researcher": "orchestrator_after_worker_dispatch_blocked"
+}

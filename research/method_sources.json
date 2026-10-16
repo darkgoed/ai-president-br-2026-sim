@@ -1,0 +1,25 @@
+[
+  {
+    "id": "imf-debt",
+    "url": "https://www.imf.org/external/pubs/ft/tnm/2010/tnm1002.pdf",
+    "accessed_at": "2026-10-16T02:28:19.094621+00:00",
+    "status": "retrieved",
+    "sha256": "074aab1d8f768783b487dea9d6a7763cde108792def88c8c3e5e4783686a491b",
+    "bytes": 175954,
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "lrf",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm",
+    "accessed_at": "2026-10-16T02:28:19.553885+00:00",
+    "status": "blocked",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "fiscal-framework",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm",
+    "accessed_at": "2026-10-16T02:28:59.657104+00:00",
+    "status": "blocked",
+    "error": "The read operation timed out"
+  }
+]

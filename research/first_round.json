@@ -1,0 +1,142 @@
+{
+  "source_url": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+  "generated_date": "05/10/2026",
+  "generated_time": "12:51:47",
+  "election": "6257",
+  "round": 1,
+  "valid_votes": 119300788,
+  "candidates": [
+    {
+      "id": "280002551544",
+      "name": "FLAVIO BOLSONARO",
+      "full_name": "FLAVIO NANTES BOLSONARO",
+      "party": "PL",
+      "votes": 56104503,
+      "valid_vote_percent_official": "47,03",
+      "valid_vote_percent_precise": "47,027772356",
+      "status": "2º turno",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002542548",
+      "name": "LULA",
+      "full_name": "LUIZ INÁCIO LULA DA SILVA",
+      "party": "PT",
+      "votes": 53879538,
+      "valid_vote_percent_official": "45,16",
+      "valid_vote_percent_precise": "45,162767911",
+      "status": "2º turno",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002551547",
+      "name": "ESCRITOR AUGUSTO CURY",
+      "full_name": "AUGUSTO JORGE CURY",
+      "party": "AVANTE",
+      "votes": 3448569,
+      "valid_vote_percent_official": "2,89",
+      "valid_vote_percent_precise": "2,890650647",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002540694",
+      "name": "RENAN SANTOS",
+      "full_name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "party": "MISSÃO",
+      "votes": 2675887,
+      "valid_vote_percent_official": "2,24",
+      "valid_vote_percent_precise": "2,242975126",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002551932",
+      "name": "RONALDO CAIADO",
+      "full_name": "RONALDO RAMOS CAIADO",
+      "party": "PSD",
+      "votes": 2605148,
+      "valid_vote_percent_official": "2,18",
+      "valid_vote_percent_precise": "2,183680463",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002539826",
+      "name": "ZEMA",
+      "full_name": "ROMEU ZEMA NETO",
+      "party": "NOVO",
+      "votes": 326488,
+      "valid_vote_percent_official": "0,27",
+      "valid_vote_percent_precise": "0,273667933",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002538811",
+      "name": "SAMARA",
+      "full_name": "SAMARA MARTINS DA SILVA FEITOSA",
+      "party": "UP",
+      "votes": 122911,
+      "valid_vote_percent_official": "0,10",
+      "valid_vote_percent_precise": "0,103026143",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002541457",
+      "name": "HERTZ DIAS",
+      "full_name": "HERTZ DA CONCEICAO DIAS",
+      "party": "PSTU",
+      "votes": 43103,
+      "valid_vote_percent_official": "0,04",
+      "valid_vote_percent_precise": "0,036129686",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002552484",
+      "name": "CLARIANA BARAO",
+      "full_name": "CLARIANA ZACARKIM BARAO",
+      "party": "DC",
+      "votes": 40043,
+      "valid_vote_percent_official": "0,03",
+      "valid_vote_percent_precise": "0,033564741",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002551975",
+      "name": "EDMILSON COSTA",
+      "full_name": "EDMILSON SILVA COSTA",
+      "party": "PCB",
+      "votes": 22693,
+      "valid_vote_percent_official": "0,02",
+      "valid_vote_percent_precise": "0,019021668",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002548139",
+      "name": "VETERINÁRIO WILSON GRASSI",
+      "full_name": "WILSON GRASSI JUNIOR",
+      "party": "DEMOCRATA",
+      "votes": 16881,
+      "valid_vote_percent_official": "0,01",
+      "valid_vote_percent_precise": "0,014149948",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    },
+    {
+      "id": "280002552487",
+      "name": "RUI COSTA PIMENTA",
+      "full_name": "RUI COSTA PIMENTA",
+      "party": "PCO",
+      "votes": 15024,
+      "valid_vote_percent_official": "0,01",
+      "valid_vote_percent_precise": "0,012593379",
+      "status": "Não eleito",
+      "vote_destination": "Válido"
+    }
+  ]
+}

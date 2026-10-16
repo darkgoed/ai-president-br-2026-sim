@@ -1,0 +1,7 @@
+{
+  "status": "pass",
+  "profiles": 12,
+  "program_excerpts_verified_in_audit": 199,
+  "scientific_gate": "exploratory_only_no_candidate_ranking",
+  "config_sha256": "3fa54f58f21bd714eba1e1ad94028ef1bd9e371e1f01a4f46ef52df96bdf0c69"
+}

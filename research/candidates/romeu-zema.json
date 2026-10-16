@@ -1,0 +1,588 @@
+{
+  "supplied_name": "Romeu Zema",
+  "supplied_party": "Novo",
+  "verified_name": "ROMEU ZEMA NETO",
+  "verified_ballot_name": "ZEMA",
+  "verified_party_full": "NOVO - PARTIDO NOVO",
+  "verified_party": "NOVO",
+  "official_status": "Candidatura DEFERIDA (TSE consulta_cand_complementar, DS_SITUACAO_CANDIDATO_TOT=DEFERIDO); 1º turno 04/10/2026: NÃO ELEITO",
+  "official_candidate_id": "280002539826",
+  "ballot_number": "30",
+  "coalition": "PARTIDO ISOLADO (NOVO)",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002539826_01.pdf",
+  "program_sha256": "5a5804622017a8e9c123fb64540a5ee3d06009de681026b505bc2a152d5e646e",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Propõe reduzir o IOF e custos das operações financeiras.",
+        "evidence_ids": [
+          "romeu-zema-E04"
+        ]
+      },
+      {
+        "statement": "Propõe o programa Sócios do Brasil: R$ 1.000 por nascido, aplicado em fundos de ações, sacável aos 18 anos.",
+        "evidence_ids": [
+          "romeu-zema-E05"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Propõe nova Reforma da Previdência envolvendo estados e municípios.",
+        "evidence_ids": [
+          "romeu-zema-E06"
+        ]
+      },
+      {
+        "statement": "Propõe privatizar todas as empresas estatais.",
+        "evidence_ids": [
+          "romeu-zema-E07"
+        ]
+      },
+      {
+        "statement": "Propõe revisar crescimento automático de despesas obrigatórias, inclusive emendas.",
+        "evidence_ids": [
+          "romeu-zema-E08"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Propõe empregar Forças Armadas com polícias para retomar territórios dominados pelo crime.",
+        "evidence_ids": [
+          "romeu-zema-E09"
+        ]
+      },
+      {
+        "statement": "Propõe reformar o Código Penal com penas mais duras para crimes violentos, hediondos e patrimoniais.",
+        "evidence_ids": [
+          "romeu-zema-E10"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Propõe expandir hospitais/UPAs/especialistas via concessões, PPPs e OSs.",
+        "evidence_ids": [
+          "romeu-zema-E11"
+        ]
+      },
+      {
+        "statement": "Propõe pré-natal completo para todas as gestantes.",
+        "evidence_ids": [
+          "romeu-zema-E12"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Propõe ampliar ensino integral via financiamento e parcerias privadas condicionadas a resultados.",
+        "evidence_ids": [
+          "romeu-zema-E13"
+        ]
+      },
+      {
+        "statement": "Propõe diretrizes nacionais de carreira docente baseadas em desenvolvimento e desempenho.",
+        "evidence_ids": [
+          "romeu-zema-E14"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Propõe regime alternativo à CLT com mais liberdade de negociação.",
+        "evidence_ids": [
+          "romeu-zema-E15"
+        ]
+      },
+      {
+        "statement": "Propõe reduzir encargos e contribuições sobre a folha.",
+        "evidence_ids": [
+          "romeu-zema-E16"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Propõe cruzamento de bases para eliminar fraudes em transferências de renda.",
+        "evidence_ids": [
+          "romeu-zema-E17"
+        ]
+      },
+      {
+        "statement": "Propõe fortalecer o Programa Criança Feliz com foco em resultados.",
+        "evidence_ids": [
+          "romeu-zema-E18"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Propõe regime de Projetos de Interesse Nacional com tramitação prioritária.",
+        "evidence_ids": [
+          "romeu-zema-E19"
+        ]
+      },
+      {
+        "statement": "Propõe expandir e modernizar o sistema portuário.",
+        "evidence_ids": [
+          "romeu-zema-E20"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Propõe ambiente para comercialização voluntária de créditos de carbono.",
+        "evidence_ids": [
+          "romeu-zema-E21"
+        ]
+      },
+      {
+        "statement": "Propõe avançar no Novo Marco do Saneamento e na gestão de resíduos.",
+        "evidence_ids": [
+          "romeu-zema-E22"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Propõe reforma administrativa reduzindo ministérios e cargos comissionados.",
+        "evidence_ids": [
+          "romeu-zema-E23"
+        ]
+      },
+      {
+        "statement": "Propõe penas maiores para corrupção e progressão de regime só após devolução do dinheiro.",
+        "evidence_ids": [
+          "romeu-zema-E24"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "archive_member": "consulta_cand_2026_BR.csv",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (Portal de Dados Abertos)",
+      "accessed_at": "2026-10-15",
+      "document_date": "15/10/2026 19:31:28 (DT_GERACAO)",
+      "quote": "280002539826;30;ROMEU ZEMA NETO;ZEMA;NOVO;PRESIDENTE;DS_SITUACAO_CANDIDATURA=#NE;NR_TURNO=1 DS_SIT_TOT_TURNO=NÃO ELEITO",
+      "classification": "official_tse_dataset",
+      "confidence": "high",
+      "claim": "Identidade, partido, número e resultado de turno do candidato a Presidente no registro oficial TSE.",
+      "id": "romeu-zema-E01"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
+      "archive_member": "consulta_cand_complementar_2026_BR.csv",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (Portal de Dados Abertos)",
+      "accessed_at": "2026-10-15",
+      "document_date": "15/10/2026 19:31:28 (DT_GERACAO)",
+      "quote": "SQ_CANDIDATO=280002539826;CD_ELEICAO=6257;DS_SITUACAO_CANDIDATO_TOT=DEFERIDO;DS_SITUACAO_JULGAMENTO=DEFERIDO;NR_PROCESSO=06014042320266000000;DT_ACEITE_CANDIDATURA=2026-08-06 18:16:29;ST_CANDIDATO_INSERIDO_URNA=SIM",
+      "classification": "official_tse_dataset",
+      "confidence": "high",
+      "claim": "Situação jurídica da candidatura: DEFERIDO.",
+      "id": "romeu-zema-E02"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (proposta de governo registrada)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "sha256=5a5804622017a8e9c123fb64540a5ee3d06009de681026b505bc2a152d5e646e",
+      "classification": "official_program_document",
+      "confidence": "high",
+      "claim": "Proposta de governo oficial registrada no TSE para este SQ_CANDIDATO (hash confere com repo/research/program_manifest.json).",
+      "id": "romeu-zema-E03"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 18,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Reduzir os impostos dos empréstimos: Reduzir os custos diretos das operações financeiras começando pela redução do IOF, alinhando o Brasil às práticas dos países desenvolvidos.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe reduzir o IOF e custos das operações financeiras.",
+      "id": "romeu-zema-E04"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 18,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Criar uma cultura de educação financeira na sociedade brasileira a partir do programa Sócios do Brasil: Depositar R$1.000 para cada brasileiro ao nascer, com o valor aplicado em fundos de ações e saque permitido apenas aos 18 anos, para estimular desde cedo a formação de patrimônio e a educação financeira.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe o programa Sócios do Brasil: R$ 1.000 por nascido, aplicado em fundos de ações, sacável aos 18 anos.",
+      "id": "romeu-zema-E05"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 14,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Por isso, defendemos um plano de ação dividido em três eixos principais: REALIZAR UM CHOQUE FISCAL NOS GASTOS DO GOVERNO Reformar a Previdência de forma definitiva: Fazer uma Reforma da Previdência envolvendo estados e municípios, bem como a previdência rural e militar, criando também um mecanismo de reajuste automático da idade mínima para aposentadoria com base na expectativa de vida da populaçã…",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe nova Reforma da Previdência envolvendo estados e municípios.",
+      "id": "romeu-zema-E06"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "RETIRAR O GOVERNO DE ONDE ELE NÃO É ESSENCIAL Privatizar todas as empresas estatais: Privatizar todas as empresas estatais para que o governo possa se concentrar naquilo que de fato lhe cabe, como segurança pública e educação, reduzindo o espaço para escândalos de corrupção e garantindo maior eficiência no uso dos recursos públicos e mais competição na economia brasileira.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe privatizar todas as empresas estatais.",
+      "id": "romeu-zema-E07"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 14,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Desengessar o orçamento público, contendo os gastos que crescem no piloto automático: Revisar o crescimento automático das despesas obrigatórias e das regras que fazem o gasto público se expandir sozinho, inclusive as emendas parlamentares, ampliando o espaço do orçamento destinado a investimento e devolvendo ao país a capacidade de realizar obras, equipar hospitais e melhorar escolas.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe revisar crescimento automático de despesas obrigatórias, inclusive emendas.",
+      "id": "romeu-zema-E08"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 5,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Empregar as Forças Armadas de forma integrada às polícias para retomar territórios dominados pelo crime organizado: Retomar os territórios dominados pelas facções com operações que envolvam colaboração entre as Forças Armadas, as polícias estaduais e a Polícia Federal, garantindo a paz aos brasileiros que vivem nessas regiões.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe empregar Forças Armadas com polícias para retomar territórios dominados pelo crime.",
+      "id": "romeu-zema-E09"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Reformar o Código Penal garantindo penas duras e proporcionais à gravidade de crimes violentos, hediondos e patrimoniais: Adequar o Código Penal ao contexto de combate à criminalidade no país, com uma sistematização clara das penas que garanta punições duras para crimes violentos e hediondos como homicídio, latrocínio, pedofilia e estupro, e corrija distorções que hoje permitem que crimes graves s…",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe reformar o Código Penal com penas mais duras para crimes violentos, hediondos e patrimoniais.",
+      "id": "romeu-zema-E10"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 60,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Expandir a rede de hospitais, UPAs e atendimentos com especialistas por meio de concessões, PPPs e parcerias com OSs: Ampliar o uso de parcerias público-privadas para construir e gerir as unidades de saúde, garantindo maior eficiência operacional, melhor experiência para o paciente e controle rigoroso de resultados por parte do poder público.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe expandir hospitais/UPAs/especialistas via concessões, PPPs e OSs.",
+      "id": "romeu-zema-E11"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 58,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Garantir acompanhamento pré-natal de qualidade para todas as gestantes do Brasil: Assegurar que todas as gestantes, independentemente de onde vivam, realizem o conjunto completo de consultas e exames do pré-natal, reduzindo riscos para a mãe e para a criança e prevenindo complicações evitáveis no parto e nos primeiros anos de vida.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe pré-natal completo para todas as gestantes.",
+      "id": "romeu-zema-E12"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 51,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Ampliar a oferta de ensino integral com foco em aprendizagem e desenvolvimento: Ampliar a oferta de ensino integral por meio de financiamento ao EMI e parcerias com organizações privadas, condicionadas a critérios de qualidade e resultados educacionais.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe ampliar ensino integral via financiamento e parcerias privadas condicionadas a resultados.",
+      "id": "romeu-zema-E13"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 52,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Criar diretrizes nacionais para carreiras docentes baseadas em desenvolvimento e desempenho: Avançar na adoção de modelos mais modernos de valorização docente, para que a progressão na carreira dependa do desenvolvimento profissional, do desempenho pedagógico e da atuação em contextos vulneráveis, e não do tempo de serviço.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe diretrizes nacionais de carreira docente baseadas em desenvolvimento e desempenho.",
+      "id": "romeu-zema-E14"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 23,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Por isso, propomos enfrentar esses desafios em quatro eixos principais: CRIAR UMA ALTERNATIVA FLEXÍVEL À CLT Oferecer ao trabalhador e ao empregador um regime alternativo à CLT, com mais liberdade para negociarem as regras da contratação: Permitir que trabalhador e empregador ajustem o modelo de contratação às suas preferências e à realidade de cada atividade, com prevalência do negociado sobre o …",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe regime alternativo à CLT com mais liberdade de negociação.",
+      "id": "romeu-zema-E15"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 24,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Reduzir burocracias, encargos e contribuições sobre a folha de pagamento: Acabar com contribuições sobre a folha sem relação com o trabalho, como o repasse ao INCRA, e simplificar obrigações acessórias, como exames ocupacionais, gestão de vales, preenchimento do e-Social e o aviso prévio de concessão de férias, reduzindo o custo oculto de contratar.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe reduzir encargos e contribuições sobre a folha.",
+      "id": "romeu-zema-E16"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 64,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Eliminar as fraudes nos programas de transferência de renda: Intensificar o cruzamento de informações entre bases de dados federais para identificar beneficiários que não atendem aos critérios de elegibilidade, e incentivar os CRAS a manterem o CadÚnico atualizado com mais agilidade e precisão, reduzindo o recebimento indevido de benefícios.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe cruzamento de bases para eliminar fraudes em transferências de renda.",
+      "id": "romeu-zema-E17"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 65,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Fortalecer os mecanismos de proteção ao desenvolvimento saudável das crianças: Fortalecer o Programa Criança Feliz com foco em resultados mensuráveis de desenvolvimento infantil, condicionando os repasses de outros programas de transferência de renda às famílias ao cumprimento das visitas domiciliares e integrando o programa aos serviços de saúde e educação infantil para garantir uma rede coordena…",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe fortalecer o Programa Criança Feliz com foco em resultados.",
+      "id": "romeu-zema-E18"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 27,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Criar um regime de “Projetos de Interesse Nacional”, com tramitação prioritária: Estabelecer uma via rápida para obras estratégicas, com prazos e ritos mais céleres e prioridade junto a todos os órgãos licenciadores e intervenientes do processo, assegurando previsibilidade e um rito simplificado de aprovações nas diversas instâncias e com o aval também dos órgãos de controle.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe regime de Projetos de Interesse Nacional com tramitação prioritária.",
+      "id": "romeu-zema-E19"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 29,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Expandir a capacidade e aumentar a eficiência do sistema portuário nacional: Expandir a infraestrutura portuária, por meio da modernização da gestão e dos processos operacionais, da melhoria dos acessos terrestres e aquaviários, da integração logística dos portos com as malhas ferroviária e rodoviária e do aperfeiçoamento dos modelos de gestão, ampliando a participação privada, observadas as carac…",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe expandir e modernizar o sistema portuário.",
+      "id": "romeu-zema-E20"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 48,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Aproveitar oportunidades de atração de recursos internacionais em mercados de carbono: Estabelecer um ambiente de negócios seguro e desburocratizado para a comercialização voluntária de créditos de carbono com o mercado internacional, garantindo que o patrimônio ambiental seja um ativo lucrativo para produtores e comunidades, sem criar novos tributos ou custos para os brasileiros.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe ambiente para comercialização voluntária de créditos de carbono.",
+      "id": "romeu-zema-E21"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 48,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Melhorar o saneamento básico e a gestão de resíduos no país, atraindo investimentos para alcançar as metas do Novo Marco do Saneamento: Avançar na implementação do Novo Marco do Saneamento, atraindo investimentos nacionais e internacionais para universalizar o acesso à água potável, à coleta e ao tratamento de esgoto e viabilizar a eliminação de lixões.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe avançar no Novo Marco do Saneamento e na gestão de resíduos.",
+      "id": "romeu-zema-E22"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Fazer uma ampla Reforma Administrativa que reduza gastos e deixe o governo enxuto e eficiente: Fazer uma Reforma Administrativa para enxugar a estrutura do Governo Federal e deixá-la mais eficiente, reduzindo os ministérios, cortando cargos comissionados e revisando as autarquias e fundações do governo.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe reforma administrativa reduzindo ministérios e cargos comissionados.",
+      "id": "romeu-zema-E23"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 8,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Endurecer a pena do crime de corrupção e autorizar a progressão de regime somente após a devolução do dinheiro desviado: Aumentar as penas aplicáveis aos crimes de corrupção e condicionar a progressão de regime à devolução integral dos recursos desviados, para que ninguém fique com os recursos dos brasileiros indevidamente.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe penas maiores para corrupção e progressão de regime só após devolução do dinheiro.",
+      "id": "romeu-zema-E24"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 18,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Criar uma cultura de educação financeira na sociedade brasileira a partir do programa Sócios do Brasil: Depositar R$1.000 para cada brasileiro ao nascer, com o valor aplicado em fundos de ações e saque permitido apenas aos 18 anos, para estimular desde cedo a formação de patrimônio e a educação financeira.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: R$ 1.000 por brasileiro ao nascer (Sócios do Brasil)",
+      "id": "romeu-zema-E25"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "RETIRAR O GOVERNO DE ONDE ELE NÃO É ESSENCIAL Privatizar todas as empresas estatais: Privatizar todas as empresas estatais para que o governo possa se concentrar naquilo que de fato lhe cabe, como segurança pública e educação, reduzindo o espaço para escândalos de corrupção e garantindo maior eficiência no uso dos recursos públicos e mais competição na economia brasileira.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: privatização de todas as estatais",
+      "id": "romeu-zema-E26"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 3,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Concorri ao governo de Minas em 2018 contra tudo e contra todos.",
+      "classification": "self_reported_in_program",
+      "confidence": "medium",
+      "claim": "Carta afirma ter vencido a eleição para governador de MG em 2018 (autodeclaração).",
+      "id": "romeu-zema-E27"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002539826_01.pdf",
+      "page": 4,
+      "publisher": "Candidatura Romeu Zema / NOVO (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-06 (PDF CreationDate)",
+      "quote": "Em 2022, fui reeleito no primeiro turno.",
+      "classification": "self_reported_in_program",
+      "confidence": "medium",
+      "claim": "Carta afirma reeleição em 2022 no primeiro turno (autodeclaração; não verificada independentemente).",
+      "id": "romeu-zema-E28"
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "commitment": "R$ 1.000 por brasileiro ao nascer (Sócios do Brasil)",
+      "deadline": null,
+      "evidence_ids": [
+        "romeu-zema-E25"
+      ]
+    },
+    {
+      "commitment": "privatização de todas as estatais",
+      "deadline": null,
+      "evidence_ids": [
+        "romeu-zema-E26"
+      ]
+    }
+  ],
+  "administrative_history": [
+    {
+      "statement": "Ocupação declarada ao TSE: EMPRESÁRIO",
+      "evidence_ids": [
+        "romeu-zema-E01"
+      ]
+    },
+    {
+      "statement": "Carta afirma ter vencido a eleição para governador de MG em 2018 (autodeclaração).",
+      "evidence_ids": [
+        "romeu-zema-E27"
+      ]
+    },
+    {
+      "statement": "Carta afirma reeleição em 2022 no primeiro turno (autodeclaração; não verificada independentemente).",
+      "evidence_ids": [
+        "romeu-zema-E28"
+      ]
+    }
+  ],
+  "legal_constraints": [],
+  "unknowns": [
+    "DS_SITUACAO_CANDIDATURA em consulta_cand_2026_BR.csv = \"#NE\" (não informado); situação jurídica tomada do arquivo complementar.",
+    "Extração por amostragem: axes contém trechos representativos, não inventário exaustivo do plano.",
+    "Autodeclarações históricas do plano não foram verificadas em fonte independente.",
+    "legal_constraints: nenhuma restrição legal pesquisada além do status TSE DEFERIDO; inelegibilidades/processos não investigados.",
+    "Página TSE de propostas (tse.jus.br) e divulgacandcontas retornaram HTTP 403 (Akamai) a partir deste host; usado o ZIP oficial do CDN TSE.",
+    "Snippet de busca (Facebook/SBT, não verificado) menciona crítica de Zema a decisão do TSE que indeferiu algo na véspera da votação; objeto não identificado; não usado como evidência."
+  ],
+  "searches": [
+    {
+      "query": "Romeu Zema candidato presidente 2026 Novo registro TSE plano de governo",
+      "tool": "web_search",
+      "result": "6 resultados (TSE propostas/zema, PDF Poder360, G1, Instagram, Facebook); usados só para localizar fontes; não citados como evidência",
+      "used_as_evidence": false
+    },
+    {
+      "query": "(sem busca) download parcial por HTTP Range dos ZIPs oficiais TSE consulta_cand_2026, consulta_cand_complementar_2026, proposta_governo_2026_BR",
+      "tool": "curl/urllib",
+      "result": "sucesso",
+      "used_as_evidence": true
+    }
+  ]
+}

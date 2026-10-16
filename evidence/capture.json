@@ -1,0 +1,11 @@
+{
+  "command": [
+    "python",
+    "-m",
+    "src.cli",
+    "report"
+  ],
+  "exit_code": 0,
+  "stdout_sha256": "2ebdf354ad380a42b8cb25700321a6bdbd02d7b65fc6ec3d35a329495ce014ff",
+  "representation": "Literal rendering of real process stdout; not a GUI emulator screenshot."
+}

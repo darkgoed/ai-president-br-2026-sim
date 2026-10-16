@@ -1,0 +1,285 @@
+{
+  "supplied_name": "ESCRITOR AUGUSTO CURY",
+  "supplied_party": "AVANTE",
+  "verified_name": "AUGUSTO JORGE CURY",
+  "verified_party": "AVANTE",
+  "official_status": "DEFERIDO",
+  "official_candidate_id": "280002551547",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002551547_01.pdf",
+  "program_sha256": "fc0872d2b68aad863c8d62575323cf413a616b23d0f7ca4fd7f4558112c07b38",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E01"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E02"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E03"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E04"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E05"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E06"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E07"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E08"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E09"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "augusto-cury-E10"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "augusto-cury-E01",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 37,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Defenderemos estabilidade regulatória, respeito aos contratos, fortalecimento das instituições e rapidez na solução de conflitos. Investidores precisam confiar que as regras não mudarão conforme o governo de ocasião, criando um ambiente favorável ao desenvolvimento econômico. f)",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E02",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 36,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Nossa meta será perseguir o déficit próximo de zero, sem aventuras fiscais, preservando investimentos estratégicos e fortalecendo a confiança dos brasileiros e dos investidores nacionais e internacionais. b) Controle rigoroso dos gastos públicos O dinheiro público pertence ao cidadão. Cada ministério deverá estabelecer metas de",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E03",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 45,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Promoveremos integração plena entre Polícia Federal, Polícias Civis, Polícias Militares, Guardas Municipais (polícia FOCO - Força de Combate Preventivo), onde 5% dos colaboradores dos municípios devem ser convertidos na polícia FOCO, sem aumento, portanto, do efetivo municipal), Ministério Público, Poder Judiciário e órgãos de inteligência, compartilhando informações em tempo real e fortalecendo operações conjuntas. Diretor-Geral da Polícia Federal escolhido entre delegados de classe especial,",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E04",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 44,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Nossa prioridade será fortalecer sua gestão por meio da digitalização dos prontuários, integração dos sistemas, redução das filas, melhoria da eficiência administrativa e utilização de indicadores de desempenho para aprimorar continuamente os serviços prestados. c) Expansão da telemedicina Creremos transformar o Brasil em um maior centro de telemedicina do mundo. A tecnologia",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E05",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 43,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Investiremos na alfabetização na idade certa, na melhoria da aprendizagem, na valorização dos professores e na redução das desigualdades educacionais. Nenhum país alcançou elevado desenvolvimento econômico sem colocar a educação básica como prioridade",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E06",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 57,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Criaremos um grande programa nacional de inserção produtiva da juventude, com incentivos fiscais para empresas que contratarem jovens em seu primeiro emprego, estágios ampliados e programas de aprendizagem tecnológica. O objetivo é reduzir o desemprego juvenil e acelerar a entrada qualificada no mercado de trabalho. c) Empreendedorismo jovem e inovação Há cerca de 8 milhões de jovens que nem trabalham e nem estudam",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E07",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 99,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Bolsa Família não será punida se assinar a carteira ou se abrir uma microempresa, por determinado tempo. Ao contrário, serão premiados, com incentivos e juros mais baixos. Bem-vindos ao Ministério Revolucionário do empreendedorismo e da",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E08",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 50,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Por isso, ampliaremos as concessões e as parcerias público-privadas, sempre com regras claras, segurança jurídica e rigorosa fiscalização. O objetivo será acelerar obras, melhorar a qualidade dos serviços públicos, atrair investimentos nacionais e internacionais e reduzir o custo da infraestrutura para a sociedade. b) Modernização da logística nacional Rodovias, ferrovias, hidrovias, portos e aeroportos formam a espinha dorsal da economia brasileira. Implantaremos um grande",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E09",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 51,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Ampliaremos investimentos em energia solar, eólica, biomassa, pequenas centrais hidrelétricas e outras fontes renováveis, transformando o país em referência internacional em sustentabilidade e segurança energética. b) Hidrogênio verde O hidrogênio verde representa uma das maiores oportunidades econômicas das próximas décadas.",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E10",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 37,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Uma ampla reforma administrativa buscará simplificar estruturas, eliminar sobreposições de funções, estudos para redução de ministérios e criação do ministério da segurança para reduzir a criminalidade. Além disso, modernizar carreiras públicas, valorizar os servidores competentes e criar mecanismos permanentes de avaliação de desempenho. O objetivo será promover maior eficiência na gestão pública e elevar a qualidade dos serviços prestados à população, preservando direitos e valorizando aqueles que contribuem para a construção de um Estado mais",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "augusto-cury-E11",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 106,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "META: Regularizar até 5 milhões de moradias em dez anos. Isso significa aproximadamente: 500 mil famílias por ano. O programa dará prioridade às famílias de",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Meta habitacional declarada."
+    },
+    {
+      "id": "augusto-cury-E12",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551547_01.pdf",
+      "page": 111,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "R$ 145 bilhões a R$ 280 bilhões em dez anos. Entretanto, essa cifra não deve ser confundida integralmente com gasto orçamentário. Parte relevante corresponde ao fundo de crédito, cujo capital retorna à medida que os financiamentos são pagos. Além disso, os investimentos poderão ser divididos entre União, Estados, municípios, fundos existentes, bancos públicos, instituições financeiras, setor privado e organismos multilaterais. A estimativa definitiva somente poderá ser produzida após o levantamento nacional dos territórios e a elaboração dos respectivos projetos executivos. 11. EXPERIÊNCIAS INTERNACIONAIS O Brasil não precisa começar do zero. Podemos estudar experiências internacionais e brasileiras bem-sucedidas, adaptando-as às nossas dimensões continentais. ➢ PERU — FORMALIZAÇÃO FUNDIÁRIA O programa COFOPRI mostrou que processos de regularização podem ganhar escala quando burocracias",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Estimativa preliminar do programa; inclui crédito retornável, não apenas gasto orçamentário."
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "evidence_ids": [
+        "augusto-cury-E11"
+      ],
+      "description": "Meta habitacional declarada.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    },
+    {
+      "evidence_ids": [
+        "augusto-cury-E12"
+      ],
+      "description": "Estimativa preliminar do programa; inclui crédito retornável, não apenas gasto orçamentário.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    }
+  ],
+  "administrative_history": [],
+  "legal_constraints": [],
+  "unknowns": [
+    "Histórico administrativo não validado por fontes independentes neste recorte documental.",
+    "Legalidade e probabilidade de aprovação de cada proposta não estimadas.",
+    "Ausência de modelo causal identificado para efeitos diferenciais de governo.",
+    "Custos agregados e cronogramas não são presumidos; estimativas do plano não são dados observados."
+  ],
+  "searches": [
+    "Plano original TSE, leitura paginada e busca temática local; nenhuma busca externa duplicada."
+  ],
+  "researcher": "orchestrator_after_worker_dispatch_blocked"
+}

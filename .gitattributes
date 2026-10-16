@@ -1,0 +1,6 @@
+# Preserve downloaded primary responses byte-for-byte, including CRLF.
+research/snapshots/* -text -diff
+*.csv text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf

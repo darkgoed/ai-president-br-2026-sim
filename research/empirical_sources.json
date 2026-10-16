@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ipea-hours",
+    "url": "https://repositorio.ipea.gov.br/server/api/core/bitstreams/7083c3f2-81ee-48e6-a525-c9fe4b56d5e7/content",
+    "accessed_at": "2026-10-16T02:35:27.182071+00:00",
+    "status": "retrieved",
+    "sha256": "b3738aa0b8d3623fdae3369d057ca167574d161db97f9ee186494423e7e985f2",
+    "bytes": 1307822,
+    "text_characters": 78908
+  },
+  {
+    "id": "ipea-transfers",
+    "url": "https://repositorio.ipea.gov.br/bitstreams/3ce619b8-9b5b-4b4f-ad16-1a02c0d0e2b7/download",
+    "accessed_at": "2026-10-16T02:35:27.183141+00:00",
+    "status": "retrieved",
+    "sha256": "30791f1bf531c8b52fd976289b116bbf9c3357c3cfb2519a5c6a2e3da804eb4d",
+    "bytes": 1838873,
+    "text_characters": 76596
+  },
+  {
+    "id": "ipea-upa",
+    "url": "https://repositorio.ipea.gov.br/bitstreams/feb1fb1f-e439-44f8-b0e1-55492227a28a/download",
+    "accessed_at": "2026-10-16T02:35:27.184029+00:00",
+    "status": "retrieved",
+    "sha256": "5bbcc2231263a68079ebc287ee0ce54081fd43a41f4f09df51e8a4800ee7bd2b",
+    "bytes": 204574,
+    "text_characters": 50274
+  },
+  {
+    "id": "rfb-tax",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+    "accessed_at": "2026-10-16T02:35:27.810072+00:00",
+    "status": "retrieved",
+    "sha256": "11df9b83c7014f2b49364ec305876ae80aa076474ea5d085a81f0a7fb5f0db2a",
+    "bytes": 197119,
+    "text_characters": 19335
+  },
+  {
+    "id": "constitution",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "accessed_at": "2026-10-16T02:35:27.995940+00:00",
+    "status": "retrieved",
+    "sha256": "199b15de4f98f1ae8323c9da6202e455afceb206ec94f9f5177933c14e1ab5e6",
+    "bytes": 1840587,
+    "text_characters": 890962
+  }
+]

@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "280002551547",
+    "name": "AUGUSTO JORGE CURY",
+    "party": "AVANTE",
+    "research_file": "research/candidates/augusto-cury.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E03"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "augusto-cury-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "evidence_ids": [
+          "augusto-cury-E11"
+        ],
+        "description": "Meta habitacional declarada.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      },
+      {
+        "evidence_ids": [
+          "augusto-cury-E12"
+        ],
+        "description": "Estimativa preliminar do programa; inclui crédito retornável, não apenas gasto orçamentário.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      }
+    ]
+  },
+  {
+    "id": "280002552484",
+    "name": "CLARIANA ZACARKIM BARAO",
+    "party": "DC",
+    "research_file": "research/candidates/clariana-barao.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E03"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "clariana-barao-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": []
+  },
+  {
+    "id": "280002551975",
+    "name": "EDMILSON SILVA COSTA",
+    "party": "PCB",
+    "research_file": "research/candidates/edmilson-costa.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E03"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "edmilson-costa-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "evidence_ids": [
+          "edmilson-costa-E11"
+        ],
+        "description": "Jornada proposta, não efeito de emprego.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      },
+      {
+        "evidence_ids": [
+          "edmilson-costa-E12"
+        ],
+        "description": "Percentuais de cotas propostos no documento.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      }
+    ]
+  },
+  {
+    "id": "280002551544",
+    "name": "FLAVIO NANTES BOLSONARO",
+    "party": "PL",
+    "research_file": "research/candidates/flavio-bolsonaro.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E05",
+          "flavio-bolsonaro-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E05",
+          "flavio-bolsonaro-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E14",
+          "flavio-bolsonaro-E15"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E07",
+          "flavio-bolsonaro-E08",
+          "flavio-bolsonaro-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E12",
+          "flavio-bolsonaro-E13"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E10",
+          "flavio-bolsonaro-E11"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E16",
+          "flavio-bolsonaro-E17"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E18",
+          "flavio-bolsonaro-E19"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "flavio-bolsonaro-E20",
+          "flavio-bolsonaro-E21"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "commitment": "crescimento sustentado de 4% ao ano",
+        "deadline": "próxima década",
+        "evidence_ids": [
+          "flavio-bolsonaro-E25"
+        ]
+      },
+      {
+        "commitment": "500 mil novas vagas prisionais e déficit carcerário zero",
+        "deadline": "4 anos",
+        "evidence_ids": [
+          "flavio-bolsonaro-E26"
+        ]
+      },
+      {
+        "commitment": "mais de 1 milhão de novas câmeras",
+        "deadline": null,
+        "evidence_ids": [
+          "flavio-bolsonaro-E27"
+        ]
+      },
+      {
+        "commitment": "R$ 900 bilhões em infraestrutura de transporte",
+        "deadline": "4 anos",
+        "evidence_ids": [
+          "flavio-bolsonaro-E28"
+        ]
+      },
+      {
+        "commitment": "2,5 milhões de residências",
+        "deadline": null,
+        "evidence_ids": [
+          "flavio-bolsonaro-E29"
+        ]
+      },
+      {
+        "commitment": "desmatamento ilegal zero",
+        "deadline": "2029",
+        "evidence_ids": [
+          "flavio-bolsonaro-E30"
+        ]
+      },
+      {
+        "commitment": "100% dos serviços federais digitalizáveis digitalizados",
+        "deadline": null,
+        "evidence_ids": [
+          "flavio-bolsonaro-E31"
+        ]
+      },
+      {
+        "commitment": "nenhuma escola sem água",
+        "deadline": "2030",
+        "evidence_ids": [
+          "flavio-bolsonaro-E32"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "280002541457",
+    "name": "HERTZ DA CONCEICAO DIAS",
+    "party": "PSTU",
+    "research_file": "research/candidates/hertz-dias.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E03"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "hertz-dias-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "evidence_ids": [
+          "hertz-dias-E11"
+        ],
+        "description": "Limite proposto de isenção; sem estimativa independente de arrecadação.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      }
+    ]
+  },
+  {
+    "id": "280002542548",
+    "name": "LUIZ INÁCIO LULA DA SILVA",
+    "party": "PT",
+    "research_file": "research/candidates/lula.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E04",
+          "lula-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E06",
+          "lula-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E06",
+          "lula-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E15",
+          "lula-E16"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E08",
+          "lula-E09",
+          "lula-E10"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E13",
+          "lula-E14"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E11",
+          "lula-E12"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E04",
+          "lula-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E17",
+          "lula-E18"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E19",
+          "lula-E20"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "lula-E21",
+          "lula-E22"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "commitment": "80% das crianças alfabetizadas na idade certa",
+        "deadline": null,
+        "evidence_ids": [
+          "lula-E25"
+        ]
+      },
+      {
+        "commitment": "desmatamento líquido zero",
+        "deadline": "2030",
+        "evidence_ids": [
+          "lula-E26"
+        ]
+      },
+      {
+        "commitment": "jornada de 40 horas sem redução salarial (fim da escala 6x1)",
+        "deadline": null,
+        "evidence_ids": [
+          "lula-E27"
+        ]
+      },
+      {
+        "commitment": "redução de 59% a 67% das emissões líquidas vs 2005 (NDC já entregue; plano promete cumpri-la)",
+        "deadline": "2035",
+        "evidence_ids": [
+          "lula-E28",
+          "lula-E22"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "280002540694",
+    "name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+    "party": "MISSÃO",
+    "research_file": "research/candidates/renan-santos.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E03"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "renan-santos-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "evidence_ids": [
+          "renan-santos-E11"
+        ],
+        "description": "Projeção fiscal do próprio programa, não estimativa validada.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      },
+      {
+        "evidence_ids": [
+          "renan-santos-E12"
+        ],
+        "description": "Meta de resolução na atenção primária; horizonte não definido no trecho.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      }
+    ]
+  },
+  {
+    "id": "280002539826",
+    "name": "ROMEU ZEMA NETO",
+    "party": "NOVO",
+    "research_file": "research/candidates/romeu-zema.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E04",
+          "romeu-zema-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E06",
+          "romeu-zema-E07",
+          "romeu-zema-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E06",
+          "romeu-zema-E07",
+          "romeu-zema-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E15",
+          "romeu-zema-E16"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E09",
+          "romeu-zema-E10"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E13",
+          "romeu-zema-E14"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E11",
+          "romeu-zema-E12"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E04",
+          "romeu-zema-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E17",
+          "romeu-zema-E18"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E19",
+          "romeu-zema-E20"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "romeu-zema-E21",
+          "romeu-zema-E22"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "commitment": "R$ 1.000 por brasileiro ao nascer (Sócios do Brasil)",
+        "deadline": null,
+        "evidence_ids": [
+          "romeu-zema-E25"
+        ]
+      },
+      {
+        "commitment": "privatização de todas as estatais",
+        "deadline": null,
+        "evidence_ids": [
+          "romeu-zema-E26"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "280002551932",
+    "name": "RONALDO RAMOS CAIADO",
+    "party": "PSD",
+    "research_file": "research/candidates/ronaldo-caiado.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E04",
+          "ronaldo-caiado-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E06",
+          "ronaldo-caiado-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E06",
+          "ronaldo-caiado-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E14",
+          "ronaldo-caiado-E15"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E08",
+          "ronaldo-caiado-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E12",
+          "ronaldo-caiado-E13"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E10",
+          "ronaldo-caiado-E11"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E04",
+          "ronaldo-caiado-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E16"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E17",
+          "ronaldo-caiado-E18"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "ronaldo-caiado-E19",
+          "ronaldo-caiado-E20"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "commitment": "≥50% de redução no tempo mediano das filas prioritárias (base 2027)",
+        "deadline": "2030",
+        "evidence_ids": [
+          "ronaldo-caiado-E23"
+        ]
+      },
+      {
+        "commitment": "-20% internações sensíveis à APS; 100% das equipes de Saúde da Família com teleconsultoria",
+        "deadline": "2030",
+        "evidence_ids": [
+          "ronaldo-caiado-E24"
+        ]
+      },
+      {
+        "commitment": "-30% mortalidade cardiovascular prematura (meta indicativa)",
+        "deadline": "2030",
+        "evidence_ids": [
+          "ronaldo-caiado-E25"
+        ]
+      },
+      {
+        "commitment": "-30% razão de mortalidade materna (meta indicativa)",
+        "deadline": "2030",
+        "evidence_ids": [
+          "ronaldo-caiado-E26"
+        ]
+      },
+      {
+        "commitment": "≥95% cobertura nas vacinas prioritárias",
+        "deadline": "2030",
+        "evidence_ids": [
+          "ronaldo-caiado-E27"
+        ]
+      },
+      {
+        "commitment": "100% cobertura do SAMU",
+        "deadline": "2030",
+        "evidence_ids": [
+          "ronaldo-caiado-E28"
+        ]
+      },
+      {
+        "commitment": "preço do gás industrial próximo de US$ 8/MMBtu (referência)",
+        "deadline": null,
+        "evidence_ids": [
+          "ronaldo-caiado-E29"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "280002552487",
+    "name": "RUI COSTA PIMENTA",
+    "party": "PCO",
+    "research_file": "research/candidates/rui-costa-pimenta.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E03"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "rui-costa-pimenta-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "evidence_ids": [
+          "rui-costa-pimenta-E11"
+        ],
+        "description": "Jornada semanal proposta; não efeito estimado no emprego.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      },
+      {
+        "evidence_ids": [
+          "rui-costa-pimenta-E12"
+        ],
+        "description": "Piso proposto, sem custo agregado identificado.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      }
+    ]
+  },
+  {
+    "id": "280002538811",
+    "name": "SAMARA MARTINS DA SILVA FEITOSA",
+    "party": "UP",
+    "research_file": "research/candidates/samara-martins.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E03"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "samara-martins-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "evidence_ids": [
+          "samara-martins-E11"
+        ],
+        "description": "Compromisso de elevação do mínimo, não efeito de renda real.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      },
+      {
+        "evidence_ids": [
+          "samara-martins-E12"
+        ],
+        "description": "Meta de recursos educacionais em proporção do PIB.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      }
+    ]
+  },
+  {
+    "id": "280002548139",
+    "name": "WILSON GRASSI JUNIOR",
+    "party": "DEMOCRATA",
+    "research_file": "research/candidates/wilson-grassi.json",
+    "axes": {
+      "growth": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "inflation": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "fiscal": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "debt": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E02"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "employment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E06"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "security": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E03"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "education": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E05"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "health": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E04"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "investment": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E01"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "social": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E07"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "infrastructure": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E08"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      },
+      "sustainability": {
+        "policy_effect": null,
+        "origin": "informacao_indisponivel",
+        "evidence_ids": [
+          "wilson-grassi-E09"
+        ],
+        "reason": "Propostas documentadas não identificam efeito causal quantitativo."
+      }
+    },
+    "commitments": [
+      {
+        "evidence_ids": [
+          "wilson-grassi-E11"
+        ],
+        "description": "Estimativa do próprio plano; não validada causalmente. O mesmo parágrafo contém comparação aritmética inconsistente, auditada separadamente.",
+        "value": null,
+        "unit": null,
+        "cost_validated": false,
+        "causal_effect": null
+      }
+    ]
+  }
+]

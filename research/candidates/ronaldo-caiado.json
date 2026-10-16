@@ -1,0 +1,630 @@
+{
+  "supplied_name": "Ronaldo Caiado",
+  "supplied_party": "PSD",
+  "verified_name": "RONALDO RAMOS CAIADO",
+  "verified_ballot_name": "RONALDO CAIADO",
+  "verified_party_full": "PSD - PARTIDO SOCIAL DEMOCRÁTICO",
+  "verified_party": "PSD",
+  "official_status": "Candidatura DEFERIDA (TSE consulta_cand_complementar, DS_SITUACAO_CANDIDATO_TOT=DEFERIDO); 1º turno 04/10/2026: NÃO ELEITO",
+  "official_candidate_id": "280002551932",
+  "ballot_number": "55",
+  "coalition": "PARTIDO ISOLADO (PSD)",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002551932_01.pdf",
+  "program_sha256": "b0ba46eb58d1827c99167a0df60e539b6bfa8a70fa247e4653ba2fcca8ade415",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Propõe instituir a Estratégia Brasil 2040 com metas de produtividade e investimento.",
+        "evidence_ids": [
+          "ronaldo-caiado-E04"
+        ]
+      },
+      {
+        "statement": "Propõe simplificar obrigações e ampliar crédito para micro e pequenas empresas.",
+        "evidence_ids": [
+          "ronaldo-caiado-E05"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Propõe estratégia fiscal plurianual para estabilizar dívida/PIB e recuperar superávits primários.",
+        "evidence_ids": [
+          "ronaldo-caiado-E06"
+        ]
+      },
+      {
+        "statement": "Propõe rever subsídios e benefícios tributários com avaliação independente.",
+        "evidence_ids": [
+          "ronaldo-caiado-E07"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Propõe criar o Ministério da Segurança Pública e um conselho nacional de segurança e combate ao terrorismo doméstico.",
+        "evidence_ids": [
+          "ronaldo-caiado-E08"
+        ]
+      },
+      {
+        "statement": "Propõe Comando Nacional de Proteção de Fronteiras e Corredores Logísticos.",
+        "evidence_ids": [
+          "ronaldo-caiado-E09"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Meta 2030: reduzir em ≥50% o tempo mediano das filas prioritárias nas regiões de maior espera.",
+        "evidence_ids": [
+          "ronaldo-caiado-E10"
+        ]
+      },
+      {
+        "statement": "Meta 2030: 100% de cobertura do SAMU.",
+        "evidence_ids": [
+          "ronaldo-caiado-E11"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Propõe meta (não quantificada) de reduzir alunos abaixo do básico em português, matemática e ciências.",
+        "evidence_ids": [
+          "ronaldo-caiado-E12"
+        ]
+      },
+      {
+        "statement": "Propõe expandir o ensino técnico e profissional.",
+        "evidence_ids": [
+          "ronaldo-caiado-E13"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Propõe regra de transição gradual de benefício para quem ingressa no trabalho formal.",
+        "evidence_ids": [
+          "ronaldo-caiado-E14"
+        ]
+      },
+      {
+        "statement": "Propõe transição tecnológica que gere empregos e agregue valor à produção nacional.",
+        "evidence_ids": [
+          "ronaldo-caiado-E15"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Promete manter a rede de transferência de renda, conectada a qualificação, creche, habitação etc.",
+        "evidence_ids": [
+          "ronaldo-caiado-E16"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Propõe estabilidade contratual e solução consensual de conflitos em infraestrutura.",
+        "evidence_ids": [
+          "ronaldo-caiado-E17"
+        ]
+      },
+      {
+        "statement": "Adota como referência a convergência do preço do gás industrial para cerca de US$ 8/MMBtu.",
+        "evidence_ids": [
+          "ronaldo-caiado-E18"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Promete combater desmatamento, grilagem e mineração ilegal, com remuneração a quem conserva.",
+        "evidence_ids": [
+          "ronaldo-caiado-E19"
+        ]
+      },
+      {
+        "statement": "Propõe encerrar lixões e fortalecer logística reversa e reciclagem.",
+        "evidence_ids": [
+          "ronaldo-caiado-E20"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Propõe tornar o financiamento político integralmente rastreável em formato aberto.",
+        "evidence_ids": [
+          "ronaldo-caiado-E21"
+        ]
+      },
+      {
+        "statement": "Propõe padrões de integridade e verificação prévia de conflitos para altas autoridades.",
+        "evidence_ids": [
+          "ronaldo-caiado-E22"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "archive_member": "consulta_cand_2026_BR.csv",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (Portal de Dados Abertos)",
+      "accessed_at": "2026-10-15",
+      "document_date": "15/10/2026 19:31:28 (DT_GERACAO)",
+      "quote": "280002551932;55;RONALDO RAMOS CAIADO;RONALDO CAIADO;PSD;PRESIDENTE;DS_SITUACAO_CANDIDATURA=#NE;NR_TURNO=1 DS_SIT_TOT_TURNO=NÃO ELEITO",
+      "classification": "official_tse_dataset",
+      "confidence": "high",
+      "claim": "Identidade, partido, número e resultado de turno do candidato a Presidente no registro oficial TSE.",
+      "id": "ronaldo-caiado-E01"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
+      "archive_member": "consulta_cand_complementar_2026_BR.csv",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (Portal de Dados Abertos)",
+      "accessed_at": "2026-10-15",
+      "document_date": "15/10/2026 19:31:28 (DT_GERACAO)",
+      "quote": "SQ_CANDIDATO=280002551932;CD_ELEICAO=6257;DS_SITUACAO_CANDIDATO_TOT=DEFERIDO;DS_SITUACAO_JULGAMENTO=DEFERIDO;NR_PROCESSO=06015523420266000000;DT_ACEITE_CANDIDATURA=2026-08-14 14:12:35;ST_CANDIDATO_INSERIDO_URNA=SIM",
+      "classification": "official_tse_dataset",
+      "confidence": "high",
+      "claim": "Situação jurídica da candidatura: DEFERIDO.",
+      "id": "ronaldo-caiado-E02"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (proposta de governo registrada)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "sha256=b0ba46eb58d1827c99167a0df60e539b6bfa8a70fa247e4653ba2fcca8ade415",
+      "classification": "official_program_document",
+      "confidence": "high",
+      "claim": "Proposta de governo oficial registrada no TSE para este SQ_CANDIDATO (hash confere com repo/research/program_manifest.json).",
+      "id": "ronaldo-caiado-E03"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 14,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Instituir a Estratégia Brasil 2040 Definir visão nacional de longo prazo, metas de produtividade e investimento, prioridades territoriais e missões transversais, com revisão a cada quatro anos e alinhamento do PPA, orçamento, bancos públicos e agências reguladoras.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe instituir a Estratégia Brasil 2040 com metas de produtividade e investimento.",
+      "id": "ronaldo-caiado-E04"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Fortalecer micro e pequenas empresas Simplificar obrigações, ampliar crédito e garantias, qualificação gerencial, transformação digital, compras públicas e acesso a mercados, reduzindo o custo de formalização e crescimento.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe simplificar obrigações e ampliar crédito para micro e pequenas empresas.",
+      "id": "ronaldo-caiado-E05"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 12,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Adotar estratégia fiscal plurianual Definir trajetória para estabilizar a dívida em relação ao PIB, recuperar superávits primários e reduzir a despesa de juros, com metas anuais, bandas de tolerância, cláusulas de correção e prestação periódica de contas.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe estratégia fiscal plurianual para estabilizar dívida/PIB e recuperar superávits primários.",
+      "id": "ronaldo-caiado-E06"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 12,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Rever subsídios, subvenções e benefícios tributários Exigir prazo, objetivo, beneficiário, estimativa de custo, contrapartida e avaliação independente.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe rever subsídios e benefícios tributários com avaliação independente.",
+      "id": "ronaldo-caiado-E07"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 16,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Criar o Ministério da Segurança Pública e instituir o Conselho Estratégico Nacional de Segurança Pública e Combate ao Terrorismo Doméstico, sob liderança da Presidência da República e com participação dos governadores e demais instituições do Estado brasileiro que compartilham a responsabilidades de garantir a",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe criar o Ministério da Segurança Pública e um conselho nacional de segurança e combate ao terrorismo doméstico.",
+      "id": "ronaldo-caiado-E08"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 18,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Implantar o Comando Nacional de Proteção de Fronteiras e Corredores Logísticos, reunindo Forças Armadas, Polícia Federal, Polícia Rodoviária Federal, forças estaduais, órgãos ambientais e autoridades portuárias e aeroportuárias na defesa permanente das fronteiras brasileiras, portos e aeroportos, e na recuperação do controle territorial da Amazônia Legal pelo Estado brasileiro, e, de forma complem…",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe Comando Nacional de Proteção de Fronteiras e Corredores Logísticos.",
+      "id": "ronaldo-caiado-E09"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 77,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "META 2030 Até 2030, reduzir em pelo menos 50% o tempo mediano das filas prioritárias nas regiões com maior espera, usando 2027 como linha de base;",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Meta 2030: reduzir em ≥50% o tempo mediano das filas prioritárias nas regiões de maior espera.",
+      "id": "ronaldo-caiado-E10"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 87,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "META 2030 Até 2030, 100% de cobertura populacional do SAMU;",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Meta 2030: 100% de cobertura do SAMU.",
+      "id": "ronaldo-caiado-E11"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 32,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Estabelecer meta de reduzir drasticamente o contingente abaixo do básico, com prioridade a português, matemática e ciências e acompanhamento público por escola e território.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe meta (não quantificada) de reduzir alunos abaixo do básico em português, matemática e ciências.",
+      "id": "ronaldo-caiado-E12"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 45,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Expandir o ensino técnico e profissional.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe expandir o ensino técnico e profissional.",
+      "id": "ronaldo-caiado-E13"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 61,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Criar regra de transição para quem ingressa no trabalho formal ou amplia renda, reduzindo benefício gradualmente e conectando a qualificação, creche e intermediação.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe regra de transição gradual de benefício para quem ingressa no trabalho formal.",
+      "id": "ronaldo-caiado-E14"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 37,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Fortalecer uma transição tecnológica que gere empregos, agregue valor à produção nacional e reduza a dependência externa, sem impor ao Brasil uma escolha artificial entre eletrificação e bioenergia.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe transição tecnológica que gere empregos e agregue valor à produção nacional.",
+      "id": "ronaldo-caiado-E15"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 2,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Manteremos a rede de transferência de renda para quem precisa, mas conectaremos benefícios a qualificação, cuidado infantil, inclusão produtiva, habitação, saúde e educação.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete manter a rede de transferência de renda, conectada a qualificação, creche, habitação etc.",
+      "id": "ronaldo-caiado-E16"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 47,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Garantir a estabilidade dos contratos como fundamento da atração de investimento e consolidar a solução consensual de conflitos, com repactuações estruturadas e arbitragem, em lugar de disputas que paralisam ativos por anos.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe estabilidade contratual e solução consensual de conflitos em infraestrutura.",
+      "id": "ronaldo-caiado-E17"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 37,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Ter como referência de política a convergência do preço do gás ao consumidor industrial para patamares próximos de US$ 8 por MMBtu, meta viável com a implementação plena da Nova Lei do Gás.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Adota como referência a convergência do preço do gás industrial para cerca de US$ 8/MMBtu.",
+      "id": "ronaldo-caiado-E18"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 3,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Vamos combater com rigor o desmatamento, a grilagem e a mineração ilegal, ao mesmo tempo em que daremos previsibilidade ao empreendedor regular e remuneração a quem conserva.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete combater desmatamento, grilagem e mineração ilegal, com remuneração a quem conserva.",
+      "id": "ronaldo-caiado-E19"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 51,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Encerrar lixões, fortalecer logística reversa, reciclagem e inclusão de catadores, e induzir design circular e aproveitamento de resíduos.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe encerrar lixões e fortalecer logística reversa e reciclagem.",
+      "id": "ronaldo-caiado-E20"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 10,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Tornar o financiamento político integralmente rastreável Publicar em formato aberto receitas, despesas, fornecedores, beneficiários finais, transferências partidárias e critérios de distribuição dos fundos, com auditoria baseada em risco e responsabilização proporcional.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe tornar o financiamento político integralmente rastreável em formato aberto.",
+      "id": "ronaldo-caiado-E21"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 11,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Criar padrões de integridade para altas autoridades Instituir verificação prévia de integridade e conflitos de interesse, quarentena quando necessária, agenda pública, declaração de interesses e acompanhamento de conduta para dirigentes superiores e empresas estatais.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe padrões de integridade e verificação prévia de conflitos para altas autoridades.",
+      "id": "ronaldo-caiado-E22"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 77,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "META 2030 Até 2030, reduzir em pelo menos 50% o tempo mediano das filas prioritárias nas regiões com maior espera, usando 2027 como linha de base;",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: ≥50% de redução no tempo mediano das filas prioritárias (base 2027)",
+      "id": "ronaldo-caiado-E23"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 78,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "META 2030 Até 2030, 100% das equipes de Saúde da Família com acesso a teleconsultoria e ferramentas de estratificação de risco; reduzir em 20% as internações por condições sensíveis à APS, com metas regionais ajustadas à linha de base de 2027.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: -20% internações sensíveis à APS; 100% das equipes de Saúde da Família com teleconsultoria",
+      "id": "ronaldo-caiado-E24"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 79,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "META 2030 Meta nacional indicativa: reduzir em 30% a mortalidade cardiovascular prematura até 2030;",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: -30% mortalidade cardiovascular prematura (meta indicativa)",
+      "id": "ronaldo-caiado-E25"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 81,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "META 2030 Meta nacional indicativa: reduzir em 30% a razão de mortalidade materna até 2030;",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: -30% razão de mortalidade materna (meta indicativa)",
+      "id": "ronaldo-caiado-E26"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 88,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "META 2030 Até 2030, atingir e sustentar pelo menos 95% de cobertura nas vacinas prioritárias em que essa meta for tecnicamente indicada, com redução dos municípios abaixo da meta e plano nacional de preparação para emergências atualizado anualmente.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: ≥95% cobertura nas vacinas prioritárias",
+      "id": "ronaldo-caiado-E27"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 87,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "META 2030 Até 2030, 100% de cobertura populacional do SAMU;",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: 100% cobertura do SAMU",
+      "id": "ronaldo-caiado-E28"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 37,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Ter como referência de política a convergência do preço do gás ao consumidor industrial para patamares próximos de US$ 8 por MMBtu, meta viável com a implementação plena da Nova Lei do Gás.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: preço do gás industrial próximo de US$ 8/MMBtu (referência)",
+      "id": "ronaldo-caiado-E29"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551932_01.pdf",
+      "page": 2,
+      "publisher": "Candidatura Ronaldo Caiado / PSD (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-14 (PDF CreationDate)",
+      "quote": "Plano de Governo 2027 a 2030 · PSD · Caiado e Kassab 2 CARTA DE COMPROMISSO Apresento este Plano de Governo depois de uma longa jornada na vida pública e na vida privada, como médico, produtor rural, parlamentar e governador, e sem nunca ter tido meu nome envolvido em nenhum escândalo.",
+      "classification": "self_reported_in_program",
+      "confidence": "medium",
+      "claim": "Carta afirma trajetória como médico, produtor rural, parlamentar e governador (autodeclaração; não verificada independentemente).",
+      "id": "ronaldo-caiado-E30"
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "commitment": "≥50% de redução no tempo mediano das filas prioritárias (base 2027)",
+      "deadline": "2030",
+      "evidence_ids": [
+        "ronaldo-caiado-E23"
+      ]
+    },
+    {
+      "commitment": "-20% internações sensíveis à APS; 100% das equipes de Saúde da Família com teleconsultoria",
+      "deadline": "2030",
+      "evidence_ids": [
+        "ronaldo-caiado-E24"
+      ]
+    },
+    {
+      "commitment": "-30% mortalidade cardiovascular prematura (meta indicativa)",
+      "deadline": "2030",
+      "evidence_ids": [
+        "ronaldo-caiado-E25"
+      ]
+    },
+    {
+      "commitment": "-30% razão de mortalidade materna (meta indicativa)",
+      "deadline": "2030",
+      "evidence_ids": [
+        "ronaldo-caiado-E26"
+      ]
+    },
+    {
+      "commitment": "≥95% cobertura nas vacinas prioritárias",
+      "deadline": "2030",
+      "evidence_ids": [
+        "ronaldo-caiado-E27"
+      ]
+    },
+    {
+      "commitment": "100% cobertura do SAMU",
+      "deadline": "2030",
+      "evidence_ids": [
+        "ronaldo-caiado-E28"
+      ]
+    },
+    {
+      "commitment": "preço do gás industrial próximo de US$ 8/MMBtu (referência)",
+      "deadline": null,
+      "evidence_ids": [
+        "ronaldo-caiado-E29"
+      ]
+    }
+  ],
+  "administrative_history": [
+    {
+      "statement": "Ocupação declarada ao TSE: MÉDICO",
+      "evidence_ids": [
+        "ronaldo-caiado-E01"
+      ]
+    },
+    {
+      "statement": "Carta afirma trajetória como médico, produtor rural, parlamentar e governador (autodeclaração; não verificada independentemente).",
+      "evidence_ids": [
+        "ronaldo-caiado-E30"
+      ]
+    }
+  ],
+  "legal_constraints": [],
+  "unknowns": [
+    "DS_SITUACAO_CANDIDATURA em consulta_cand_2026_BR.csv = \"#NE\" (não informado); situação jurídica tomada do arquivo complementar.",
+    "Extração por amostragem: axes contém trechos representativos, não inventário exaustivo do plano.",
+    "Autodeclarações históricas do plano não foram verificadas em fonte independente.",
+    "legal_constraints: nenhuma restrição legal pesquisada além do status TSE DEFERIDO; inelegibilidades/processos não investigados.",
+    "Página TSE de propostas (tse.jus.br) e divulgacandcontas retornaram HTTP 403 (Akamai) a partir deste host; usado o ZIP oficial do CDN TSE."
+  ],
+  "searches": [
+    {
+      "query": "Ronaldo Caiado candidato presidente 2026 PSD registro TSE plano de governo",
+      "tool": "web_search",
+      "result": "resultados retornados, não utilizados (substituídos por dados primários TSE)",
+      "used_as_evidence": false
+    },
+    {
+      "query": "(sem busca) download parcial por HTTP Range dos ZIPs oficiais TSE consulta_cand_2026, consulta_cand_complementar_2026, proposta_governo_2026_BR",
+      "tool": "curl/urllib",
+      "result": "sucesso",
+      "used_as_evidence": true
+    }
+  ]
+}

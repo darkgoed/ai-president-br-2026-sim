@@ -1,0 +1,168 @@
+{
+  "baseline_run_id": "255d01afd38f24573a8c12275aacd52aec3a4fc663ac1799942462b0b9c81156",
+  "variants": [
+    {
+      "parameter": "primary",
+      "delta": -0.005,
+      "mean_debt_pct_gdp": 110.0605224195242,
+      "paired_mean_change_pp": 2.2044876858975755,
+      "ranking": null
+    },
+    {
+      "parameter": "primary",
+      "delta": 0.005,
+      "mean_debt_pct_gdp": 105.65154704772908,
+      "paired_mean_change_pp": -2.204487685897547,
+      "ranking": null
+    },
+    {
+      "parameter": "interest",
+      "delta": -0.005,
+      "mean_debt_pct_gdp": 105.96608689355838,
+      "paired_mean_change_pp": -1.8899478400682455,
+      "ranking": null
+    },
+    {
+      "parameter": "interest",
+      "delta": 0.005,
+      "mean_debt_pct_gdp": 109.77160546263345,
+      "paired_mean_change_pp": 1.9155707290068165,
+      "ranking": null
+    },
+    {
+      "parameter": "growth",
+      "delta": -0.005,
+      "mean_debt_pct_gdp": 109.91150789950267,
+      "paired_mean_change_pp": 2.0554731658760375,
+      "ranking": null
+    },
+    {
+      "parameter": "growth",
+      "delta": 0.005,
+      "mean_debt_pct_gdp": 105.84941223741204,
+      "paired_mean_change_pp": -2.0066224962145895,
+      "ranking": null
+    },
+    {
+      "parameter": "uncertainty_scale",
+      "value": 0.9,
+      "summary": {
+        "n": 1000,
+        "mean": 107.82893139038312,
+        "median": 105.51316029023347,
+        "std": 13.211342948696371,
+        "q025": 88.73388043896966,
+        "q975": 140.4133824409469,
+        "min": 83.6913786264346,
+        "max": 148.9290530974883
+      },
+      "ranking": null
+    },
+    {
+      "parameter": "uncertainty_scale",
+      "value": 1.1,
+      "summary": {
+        "n": 1000,
+        "mean": 107.88533991442733,
+        "median": 105.32289663235262,
+        "std": 13.737560054754082,
+        "q025": 87.66870386875021,
+        "q975": 141.63914630155747,
+        "min": 81.7497466246159,
+        "max": 152.20522973791154
+      },
+      "ranking": null
+    },
+    {
+      "parameter": "initial_debt",
+      "value": 0.79,
+      "summary": {
+        "n": 1000,
+        "mean": 106.56679056553338,
+        "median": 104.25464608989199,
+        "std": 13.335317489759454,
+        "q025": 87.18106947867356,
+        "q975": 139.44740756404664,
+        "min": 81.65810582635066,
+        "max": 148.87817798924675
+      },
+      "ranking": null
+    },
+    {
+      "parameter": "initial_debt",
+      "value": 0.81,
+      "summary": {
+        "n": 1000,
+        "mean": 109.14527890171988,
+        "median": 106.81655134850288,
+        "std": 13.596795169556191,
+        "q025": 89.38841586981572,
+        "q975": 142.60331453047894,
+        "min": 83.77378782509147,
+        "max": 152.2392617611017
+      },
+      "ranking": null
+    },
+    {
+      "parameter": "seed",
+      "value": 20261016,
+      "summary": {
+        "n": 1000,
+        "mean": 107.66383763661644,
+        "median": 105.013159695025,
+        "std": 13.174783481636995,
+        "q025": 87.90548765141328,
+        "q975": 140.61032314054637,
+        "min": 76.16452410517137,
+        "max": 149.56975428606904
+      },
+      "ranking": null
+    },
+    {
+      "parameter": "seed",
+      "value": 20261017,
+      "summary": {
+        "n": 1000,
+        "mean": 108.08443930167286,
+        "median": 106.0239430316541,
+        "std": 12.981919415739828,
+        "q025": 89.2498840681283,
+        "q975": 140.39024204567704,
+        "min": 78.54464936630653,
+        "max": 150.80053488927481
+      },
+      "ranking": null
+    },
+    {
+      "parameter": "weights",
+      "value": {
+        "health": 1
+      },
+      "ranking": null,
+      "reference_unchanged": true,
+      "status": "not_identified_missing_social_outcomes"
+    },
+    {
+      "parameter": "weights",
+      "value": {
+        "employment": 1
+      },
+      "ranking": null,
+      "reference_unchanged": true,
+      "status": "not_identified_missing_social_outcomes"
+    },
+    {
+      "parameter": "weights",
+      "value": {
+        "health": 0.5,
+        "education": 0.5
+      },
+      "ranking": null,
+      "reference_unchanged": true,
+      "status": "not_identified_missing_social_outcomes"
+    }
+  ],
+  "executed_reference_trajectories_in_this_sensitivity_call": 16000,
+  "ranking_inversions": null,
+  "reason": "No identified political ranking exists to invert."
+}

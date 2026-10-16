@@ -1,0 +1,285 @@
+{
+  "supplied_name": "EDMILSON COSTA",
+  "supplied_party": "PCB",
+  "verified_name": "EDMILSON SILVA COSTA",
+  "verified_party": "PCB",
+  "official_status": "DEFERIDO",
+  "official_candidate_id": "280002551975",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002551975_01.pdf",
+  "program_sha256": "52f765533f93409a595d780e9ad8634de72db8f05794a2e70e808913c2ed4dff",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E01"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E02"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E03"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E04"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E05"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E06"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E07"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E08"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E09"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "edmilson-costa-E10"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "edmilson-costa-E01",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 13,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Reestatização das empresas estratégicas, com a adoção de uma política de massivos investimentos públicos e ensino técnico de qualidade, visando a ampliação dos setores de tecnologia/informática e telecomunicações, com vistas à criação de empregos. Reestruturação da dívida interna a partir da criação de uma Comissão Especial para analisar todo o processo de",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E02",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 14,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Reforma tributária: redução da tributação sobre o consumo, com cobrança progressiva de impostos, de acordo com o rendimento de cada contribuinte, além da criação de um imposto especial sobre lucros e dividendos, grandes fortunas, transações financeiras e heranças. 17 – Direitos Sociais e Trabalhistas, Previdência e Assistência Social Recuperação gradual do poder de compra dos salários, especialmente do salário-mínimo, visando",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E03",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "completa desmilitarização da segurança pública, com unificação das polícias e instituição do ciclo completo junto com a desvinculação das forças de segurança do exército, sob bases curriculares e formativas completamente reestruturadas numa lógica democrática. Será desenvolvida uma política de segurança dos direitos humanos, no",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E04",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Usaremos o BNDES e demais ferramentas públicas de financiamento para ampliação dos investimentos no Complexo Econômico-Industrial da Saúde (CEIS), vetor importante para a criação de empregos qualificados, para a produção de medicamentos, insumos, material médico-hospitalar e equipamentos, contribuindo para o desenvolvimento de ciência e tecnologia públicas e soberanas. Um SUS forte, público, gratuito e de qualidade só será possível com um CEIS planejado, forte e soberano. A integração do SUS se dará a partir da atenção",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E05",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 7,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Os Institutos Federais e as Escolas Técnicas serão ampliados para o interior do Brasil, haverá um amplo programa de valorização dos profissionais da educação e cada estudante terá acesso a um computador em todos os níveis. Promoveremos o fim do vestibular nas universidades federais e a ampliação das cotas (54% para a população negra, refletindo o censo do IBGE e estabelecendo 70 ou 80% de cota para estudantes das escolas públicas). Universalização das cotas para a população trans. A",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E06",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 14,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "redução da jornada de trabalho para 30 horas sem redução de salário e o fim da escala 6x1. Expansão da previdência pública para a universalidade, com a garantia da",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E07",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 9,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Criação de uma rede de restaurantes e mercados populares nos municípios, começando pelas áreas mais pobres do país, como forma de reduzir emergencialmente a fome e o preço dos alimentos, devendo o governo suprir essas instituições mediante a aquisição de grãos, verduras e legumes diretamente do produtor. Fortalecimento e ampliação dos estoques reguladores através da Conab (Companhia Nacional de Abastecimento) e em parceria com os movimentos populares e a agricultura familiar. Criação em massa de empregos, controle de preços dos itens da cesta",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E08",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "imóveis ociosos serão reformados e destinados à moradia popular, para ocupação imediata das famílias sem teto e vivendo de aluguel, processo que se complementará com a realização de um amplo programa de habitações populares até acabar com o déficit habitacional existente no Brasil. O governo do Poder Popular agirá com rigor no combate ao genocídio da",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E09",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 8,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "ampliação das Unidades de Conservação em todos os biomas brasileiros. Será promovida a integração das políticas ambientais com as políticas industrial, de energia, de ciência e tecnologia, de educação, de agropecuária, de comércio exterior, de cidades e outras. Serão reforçadas as ações voltadas para a redução das emissões de gases do efeito estufa, o combate ao desmatamento, a promoção de ações",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E10",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 9,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Os Conselhos Populares serão a espinha dorsal do novo poder, tanto para a implantação de uma cultura verdadeiramente democrática no país, mas especialmente como instrumento fundamental da democracia direta dos trabalhadores e das trabalhadoras e de defesa da nova ordem institucional, estruturada no poder popular. Em conjunto com os conselhos populares, a população também será chamada a governar através da realização de plebiscitos e referendos sobre todas as questões relevantes em discussão na sociedade, retirando do Congresso a exclusividade",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "edmilson-costa-E11",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 14,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "30 horas sem redução de salário e o fim da escala 6x1. Expansão da previdência pública para a universalidade, com a garantia da cobertura de",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Jornada proposta, não efeito de emprego."
+    },
+    {
+      "id": "edmilson-costa-E12",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551975_01.pdf",
+      "page": 7,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "54% para a população negra, refletindo o censo do IBGE e estabelecendo 70 ou 80% de cota para estudantes das escolas públicas). Universalização das cotas para a população trans. A educação básica pública brasileira constitui o maior sistema",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Percentuais de cotas propostos no documento."
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "evidence_ids": [
+        "edmilson-costa-E11"
+      ],
+      "description": "Jornada proposta, não efeito de emprego.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    },
+    {
+      "evidence_ids": [
+        "edmilson-costa-E12"
+      ],
+      "description": "Percentuais de cotas propostos no documento.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    }
+  ],
+  "administrative_history": [],
+  "legal_constraints": [],
+  "unknowns": [
+    "Histórico administrativo não validado por fontes independentes neste recorte documental.",
+    "Legalidade e probabilidade de aprovação de cada proposta não estimadas.",
+    "Ausência de modelo causal identificado para efeitos diferenciais de governo.",
+    "Custos agregados e cronogramas não são presumidos; estimativas do plano não são dados observados."
+  ],
+  "searches": [
+    "Plano original TSE, leitura paginada e busca temática local; nenhuma busca externa duplicada."
+  ],
+  "researcher": "orchestrator_after_worker_dispatch_blocked"
+}

@@ -1,0 +1,285 @@
+{
+  "supplied_name": "RENAN SANTOS",
+  "supplied_party": "MISSÃO",
+  "verified_name": "RENAN ANTONIO FERREIRA DOS SANTOS",
+  "verified_party": "MISSÃO",
+  "official_status": "DEFERIDO",
+  "official_candidate_id": "280002540694",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002540694_01.pdf",
+  "program_sha256": "cdece60b71117c7820dbf90a7d795f76f3b1d1aaa5ebb8ce11f47e9ca6227b5a",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E01"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E02"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E03"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E04"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E05"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E06"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E07"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E08"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E09"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "renan-santos-E10"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "renan-santos-E01",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 39,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Estabelecimento de zonas econômicas especiais (ZEEs) dedicadas ao processamento e manufatura de componentes de terras raras, com incentivos fiscais e regulatórios que atraiam investimento direto estrangeiro qualificado. Devemos investir na criação de hubs de tecnologia, aproximando a pesquisa, em especial nas áreas sensíveis como geologia, engenharia, geografia e química. ▪ Integração do Brasil às cadeias americanas de semicondutores e defesa, por meio dos instrumentos de financiamento dos EUA para minerais críticos (a DFC e o Defense",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E02",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 10,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "No nosso caso, a PEC de Transição deverá utilizar como base um projeto já protocolado por nosso deputado Kim Kataguiri em 2024, a chamada “PEC do Equilíbrio Fiscal”, que promove a desindexação de benefícios previdenciários e assisten- ciais do salário mínimo (corrigindo-os apenas pela inflação), a desvinculação dos pisos de saúde e educação da receita, a revisão do abono salarial e a redução de renúncias fiscais (gastos tributários), com economia projetada de R$ 1,1 trilhão até 2031. A essa PEC, pretendemos também adicionar uma série de medidas propostas pelo caderno Caminhos do Desenvolvimento: Estabilizar, Crescer, Incluir, publicado pelo",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E03",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 12,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Na contramão do garantismo penal, o governo da Missão vai declarar no primeiro dia de mandato uma grande Guerra ao Crime, visando à adoção imediata do Direito Penal do Inimigo (DPI) como framework jurídico para o combate ao crime organizado no Brasil. Essa doutrina, formulada pelo jurista alemão Günter Jakobs, distingue entre dois regimes penais: o direito penal do cidadão, que preserva garantias plenas, e o direito penal do inimigo, que aplica medidas preventivas e penas desproporcionais àqueles que demonstram",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E04",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 26,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Criação de um sistema digital de saúde, que combine telemedicina, diagnósticos por IA, monitora- mento clínico e histórico permanente, inspirado no DoctorSV, de El Salvador. 2 Expansão do modelo de digitalização da saúde, indicado no ponto anterior, com a inclusão de vigilân- cia epidemiológica preditiva em tempo real, telemedicina, plataforma de mRNA para vacinas e terapias e criação do maior banco de dados",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E05",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 32,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Elevar o nível de qualidade de nossas escolas, com foco especial nas disciplinas básicas do currículo (língua portuguesa e matemática), assegurando formação sólida em ambas. 2 Estabelecer uma ordem disciplinar rígida, que possa restaurar a função de autoridade dos pedagogos e auxiliar na otimização do processo de aprendizado. 3 Criar um programa de retenção",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E06",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "substituição do Bolsa Família por frentes de trabalho remunera- das para a população em idade economicamente ativa. Em seguida, o capítulo “Missão Rondon” descreve os principais projetos de infraestrutura que",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E07",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 49,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Nossa proposta é a desfavelização integral do Brasil em dez anos, transformando as 12.348 fave- las em bairros formais, com títulos de propriedade, regras urbanísticas, presença do Estado e mistura de classes sociais. Essa não é uma agenda de “urbanização de favela”, como foi o Favela-Bairro: é o fim da favela como modalidade de moradia popular no",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E08",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 24,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "aumento do investimento estatal em infraestrutura, condicionado à reforma administrativa e fiscal prévia; 2 mobilização do capital privado por concessões, PPPs e o novo regime de autorização ferroviária; 3 capacitação de engenheiros e órgãos públicos municipais para elaboração e fiscalização de projetos; 4 reforma nas licitações, com fortalecimento dos Tribunais de Contas, profissionalização dos quadros",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E09",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "um melhor aproveitamento do potencial energético da nossa matriz limpa, com a meta de elevar os investimentos em infraestrutura dos atuais 2% do PIB para, pelo menos, 4%. Em “SUS Fila Zero” propomos uma agenda de inovação na área da saúde, com integração da",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E10",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 18,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Criação do Comissariado Federal de Gestão Pública: Uma autarquia especial vinculada ao Ministério da Fazenda, com autonomia técnica e mandatos fixos, inspirada na inde- pendência do Banco Central. O Comissariado alocará Comissários Municipais diretamente no território para prestar assessoria técnica e exercer fiscalização pari passu (em tempo real) sobre a aplicação de recursos federais. ▪ Marco Gerencial Nacional: Instituição de um sistema de metas",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "renan-santos-E11",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 10,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "economia projetada de R$ 1,1 trilhão até 2031. A essa PEC, pretendemos também adicionar uma série de medidas propostas pelo caderno Caminhos do Desenvolvimento: Estabilizar, Crescer, Incluir,",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Projeção fiscal do próprio programa, não estimativa validada."
+    },
+    {
+      "id": "renan-santos-E12",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002540694_01.pdf",
+      "page": 26,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Tencionamos atingir uma média de 80% de resolução na atenção primária. Com uma abordagem interconectada, avançamos algumas propostas, como",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Meta de resolução na atenção primária; horizonte não definido no trecho."
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "evidence_ids": [
+        "renan-santos-E11"
+      ],
+      "description": "Projeção fiscal do próprio programa, não estimativa validada.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    },
+    {
+      "evidence_ids": [
+        "renan-santos-E12"
+      ],
+      "description": "Meta de resolução na atenção primária; horizonte não definido no trecho.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    }
+  ],
+  "administrative_history": [],
+  "legal_constraints": [],
+  "unknowns": [
+    "Histórico administrativo não validado por fontes independentes neste recorte documental.",
+    "Legalidade e probabilidade de aprovação de cada proposta não estimadas.",
+    "Ausência de modelo causal identificado para efeitos diferenciais de governo.",
+    "Custos agregados e cronogramas não são presumidos; estimativas do plano não são dados observados."
+  ],
+  "searches": [
+    "Plano original TSE, leitura paginada e busca temática local; nenhuma busca externa duplicada."
+  ],
+  "researcher": "orchestrator_after_worker_dispatch_blocked"
+}

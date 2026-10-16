@@ -1,0 +1,669 @@
+{
+  "supplied_name": "Flávio Bolsonaro",
+  "supplied_party": "PL",
+  "verified_name": "FLAVIO NANTES BOLSONARO",
+  "verified_ballot_name": "FLAVIO BOLSONARO",
+  "verified_party_full": "PL - PARTIDO LIBERAL",
+  "verified_party": "PL",
+  "official_status": "Candidatura DEFERIDA (TSE consulta_cand_complementar, DS_SITUACAO_CANDIDATO_TOT=DEFERIDO); 1º turno 04/10/2026: 2º TURNO; 2º turno 25/10/2026 registrado, resultado ainda #NULO (não apurado na geração 15/10/2026)",
+  "official_candidate_id": "280002551544",
+  "ballot_number": "22",
+  "coalition": "PARTIDO ISOLADO (PL)",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002551544_01.pdf",
+  "program_sha256": "7d1d95075e11e3c4113e8dcd502438049a34f5147a84cb0f746bf59046e477a4",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Declara meta de crescimento sustentado de 4% ao ano na próxima década.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E04"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Promete reformular regras fiscais com foco em estabilizar e reduzir a dívida pública.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E05"
+        ]
+      },
+      {
+        "statement": "Promete fazer os gastos caberem no orçamento, permitindo cobrar menos impostos.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E06"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Promete, com estados, criar 500 mil vagas prisionais em 4 anos e zerar o déficit carcerário.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E07"
+        ]
+      },
+      {
+        "statement": "Promete mais de 1 milhão de novas câmeras em portos, aeroportos e áreas públicas.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E08"
+        ]
+      },
+      {
+        "statement": "Promete usar tropas especiais da Marinha e Aeronáutica para ocupar/monitorar portos e aeroportos.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E09"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Promete completar a digitalização do SUS e usar IA no agendamento.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E10"
+        ]
+      },
+      {
+        "statement": "Promete contratar serviços/exames da rede privada em horários ociosos.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E11"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Promete ampliar as Escolas Cívico-Militares.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E12"
+        ]
+      },
+      {
+        "statement": "Promete criar o Programa Acolher (aluno remunerado para reforço de colegas).",
+        "evidence_ids": [
+          "flavio-bolsonaro-E13"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Promete contrato mais atrativo para contratação de pessoas com 50+ desempregadas há 12 meses.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E14"
+        ]
+      },
+      {
+        "statement": "Promete banco nacional de vagas conectado ao RH das empresas.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E15"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Promete manter programas sociais existentes, com combate a fraudes.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E16"
+        ]
+      },
+      {
+        "statement": "Promete retomar o Casa Verde e Amarela com meta de 2,5 milhões de residências.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E17"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Promete investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E18"
+        ]
+      },
+      {
+        "statement": "Promete destravar a Ferrogrão e implantar o Trem do Nordeste.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E19"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Declara meta de zerar o desmatamento ilegal até 2029.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E20"
+        ]
+      },
+      {
+        "statement": "Promete consolidar o mercado regulado de carbono.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E21"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Propõe o fim da reeleição para Presidente da República.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E22"
+        ]
+      },
+      {
+        "statement": "Promete retomar o Programa Nacional de Desestatização, caso a caso.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E23"
+        ]
+      },
+      {
+        "statement": "Promete mais transparência e rastreabilidade das emendas parlamentares.",
+        "evidence_ids": [
+          "flavio-bolsonaro-E24"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "archive_member": "consulta_cand_2026_BR.csv",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (Portal de Dados Abertos)",
+      "accessed_at": "2026-10-15",
+      "document_date": "15/10/2026 19:31:28 (DT_GERACAO)",
+      "quote": "280002551544;22;FLAVIO NANTES BOLSONARO;FLAVIO BOLSONARO;PL;PRESIDENTE;DS_SITUACAO_CANDIDATURA=#NE;NR_TURNO=1 DS_SIT_TOT_TURNO=2º TURNO;NR_TURNO=2 DS_SIT_TOT_TURNO=#NULO",
+      "classification": "official_tse_dataset",
+      "confidence": "high",
+      "claim": "Identidade, partido, número e resultado de turno do candidato a Presidente no registro oficial TSE.",
+      "id": "flavio-bolsonaro-E01"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand_complementar/consulta_cand_complementar_2026.zip",
+      "archive_member": "consulta_cand_complementar_2026_BR.csv",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (Portal de Dados Abertos)",
+      "accessed_at": "2026-10-15",
+      "document_date": "15/10/2026 19:31:28 (DT_GERACAO)",
+      "quote": "SQ_CANDIDATO=280002551544;CD_ELEICAO=6257;DS_SITUACAO_CANDIDATO_TOT=DEFERIDO;DS_SITUACAO_JULGAMENTO=DEFERIDO;NR_PROCESSO=06015359520266000000;DT_ACEITE_CANDIDATURA=2026-08-13 20:57:19;ST_CANDIDATO_INSERIDO_URNA=SIM",
+      "classification": "official_tse_dataset",
+      "confidence": "high",
+      "claim": "Situação jurídica da candidatura: DEFERIDO.",
+      "id": "flavio-bolsonaro-E02"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": null,
+      "publisher": "Tribunal Superior Eleitoral (proposta de governo registrada)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "sha256=7d1d95075e11e3c4113e8dcd502438049a34f5147a84cb0f746bf59046e477a4",
+      "classification": "official_program_document",
+      "confidence": "high",
+      "claim": "Proposta de governo oficial registrada no TSE para este SQ_CANDIDATO (hash confere com repo/research/program_manifest.json).",
+      "id": "flavio-bolsonaro-E03"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 49,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Nossa meta é dobrar esse ritmo e alcançar um crescimento sustentado de 4% ao ano ao longo da próxima década, apoiado no investimento privado, na segurança jurídica e na competitividade do agro, da indústria e dos serviços.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Declara meta de crescimento sustentado de 4% ao ano na próxima década.",
+      "id": "flavio-bolsonaro-E04"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 71,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública conforme determina a Constituição.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete reformular regras fiscais com foco em estabilizar e reduzir a dívida pública.",
+      "id": "flavio-bolsonaro-E05"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 71,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Vamos fazer o oposto: faremos nossos gastos caberem no orçamento, o que permitirá cobrar menos impostos e não empurrará dívida para as próximas gerações.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete fazer os gastos caberem no orçamento, permitindo cobrar menos impostos.",
+      "id": "flavio-bolsonaro-E06"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 14,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete, com estados, criar 500 mil vagas prisionais em 4 anos e zerar o déficit carcerário.",
+      "id": "flavio-bolsonaro-E07"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Além de localizar foragidos e prevenir crimes, vamos vigiar portos, aeroportos e áreas públicas com mais de 1 milhão de novas câmeras espalhadas por todo o país.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete mais de 1 milhão de novas câmeras em portos, aeroportos e áreas públicas.",
+      "id": "flavio-bolsonaro-E08"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Nós vamos usar tropas especiais da Marinha e da Aeronáutica para ocupar e monitorar, de forma permanente, os portos e aeroportos brasileiros.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete usar tropas especiais da Marinha e Aeronáutica para ocupar/monitorar portos e aeroportos.",
+      "id": "flavio-bolsonaro-E09"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 26,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Junto disso, vamos completar a digitalização do SUS e usar inteligência artificial para agilizar o agendamento de consultas e exames, ajudando a encaixar o paciente na primeira vaga disponível, para que ninguém mais fique meses aguardando uma marcação que poderia ser resolvida em muito menos tempo.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete completar a digitalização do SUS e usar IA no agendamento.",
+      "id": "flavio-bolsonaro-E10"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 37,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Para usar bem o que já existe, vamos contratar serviços e exames na rede privada nos horários ociosos: há aparelho parado enquanto gente espera meses pelo mesmo exame, e aproveitar essa capacidade é atender mais sem",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete contratar serviços/exames da rede privada em horários ociosos.",
+      "id": "flavio-bolsonaro-E11"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 35,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas, e garantir atendimento ao aluno com altas habilidades, que hoje se perde por falta de estímulo: a política nacional que trata do tema é lei mas segue sem implementação, e nós vamos tirá-la do papel.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete ampliar as Escolas Cívico-Militares.",
+      "id": "flavio-bolsonaro-E12"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 35,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "E, para o aluno com dificuldade ao longo do ensino fundamental, vamos criar o Programa Acolher: um aluno com bom desempenho é remunerado para dar reforço aos colegas que precisam, de forma remota ou presencial.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete criar o Programa Acolher (aluno remunerado para reforço de colegas).",
+      "id": "flavio-bolsonaro-E13"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 44,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Para quem tem mais idade, vamos criar um contrato mais atrativo para a contratação de pessoas com 50 anos ou mais desempregadas há pelo menos 12 meses: quem chega à meia-idade com uma vida inteira de trabalho não pode ser tratado como descartável.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete contrato mais atrativo para contratação de pessoas com 50+ desempregadas há 12 meses.",
+      "id": "flavio-bolsonaro-E14"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 44,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Por isso vamos modernizar a intermediação de mão de obra, com um banco nacional de vagas conectado ao RH das empresas, para aproximar de forma rápida e direta quem procura trabalho de quem procura trabalhador, no lugar do sistema lento e desconectado de hoje.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete banco nacional de vagas conectado ao RH das empresas.",
+      "id": "flavio-bolsonaro-E15"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 42,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Por isso, o compromisso é claro e vem em primeiro lugar: vamos manter os programas sociais existentes, com aperfeiçoamento da gestão, correção de distorções e combate às fraudes.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete manter programas sociais existentes, com combate a fraudes.",
+      "id": "flavio-bolsonaro-E16"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 47,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências e a menor taxa de juros possível no financiamento.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete retomar o Casa Verde e Amarela com meta de 2,5 milhões de residências.",
+      "id": "flavio-bolsonaro-E17"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 51,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Vamos investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias.",
+      "id": "flavio-bolsonaro-E18"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 51,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "No transporte ferroviário, vamos destravar a Ferrogrão; adotar o trem de cargas que ligará Mato Grosso, o oeste do Paraná e Santa Catarina; implantar o Trem do Nordeste, uma malha de passageiros ligando capitais da região, para aproximar cidades, movimentar o turismo e integrar o Nordeste; e concluir a Transnordestina e ampliar o seu escopo para que a Paraíba e o Rio Grande do Norte sejam contempl…",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete destravar a Ferrogrão e implantar o Trem do Nordeste.",
+      "id": "flavio-bolsonaro-E19"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 58,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Teremos a meta de zerar o desmatamento ilegal até 2029, retomando e levando até o fim o compromisso que já assumimos no Governo Bolsonaro perante o mundo, e combateremos as queimadas ilegais, fortalecendo a prevenção, o monitoramento, a fiscalização e o combate aos crimes ambientais, com ferramentas aperfeiçoadas por inteligência artificial, bancos de dados em tempo real, imagens de satélite e açã…",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Declara meta de zerar o desmatamento ilegal até 2029.",
+      "id": "flavio-bolsonaro-E20"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 57,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "E vamos consolidar o mercado regulado de carbono com segurança jurídica, posicionando o Brasil como fornecedor global de ativos ambientais, e impulsionar a bioeconomia, com biotecnologia, fármacos, cosméticos e novos materiais a partir da biodiversidade.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete consolidar o mercado regulado de carbono.",
+      "id": "flavio-bolsonaro-E21"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 66,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "E propomos o fim da reeleição para o cargo de Presidente da República.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Propõe o fim da reeleição para Presidente da República.",
+      "id": "flavio-bolsonaro-E22"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 70,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "E vamos retomar o Programa Nacional de Desestatização com critério, avaliando caso a caso onde a presença do Estado deixou de fazer sentido.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete retomar o Programa Nacional de Desestatização, caso a caso.",
+      "id": "flavio-bolsonaro-E23"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 69,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "No mesmo esforço de organizar melhor o orçamento, daremos mais transparência, controle e rastreabilidade às emendas parlamentares, priorizando sua alocação em políticas públicas prioritárias do Plano Plurianual, aprovado pelo parlamento.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Promete mais transparência e rastreabilidade das emendas parlamentares.",
+      "id": "flavio-bolsonaro-E24"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 49,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Nossa meta é dobrar esse ritmo e alcançar um crescimento sustentado de 4% ao ano ao longo da próxima década, apoiado no investimento privado, na segurança jurídica e na competitividade do agro, da indústria e dos serviços.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: crescimento sustentado de 4% ao ano",
+      "id": "flavio-bolsonaro-E25"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 14,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: 500 mil novas vagas prisionais e déficit carcerário zero",
+      "id": "flavio-bolsonaro-E26"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Além de localizar foragidos e prevenir crimes, vamos vigiar portos, aeroportos e áreas públicas com mais de 1 milhão de novas câmeras espalhadas por todo o país.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: mais de 1 milhão de novas câmeras",
+      "id": "flavio-bolsonaro-E27"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 51,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Vamos investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: R$ 900 bilhões em infraestrutura de transporte",
+      "id": "flavio-bolsonaro-E28"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 47,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências e a menor taxa de juros possível no financiamento.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: 2,5 milhões de residências",
+      "id": "flavio-bolsonaro-E29"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 58,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "Teremos a meta de zerar o desmatamento ilegal até 2029, retomando e levando até o fim o compromisso que já assumimos no Governo Bolsonaro perante o mundo, e combateremos as queimadas ilegais, fortalecendo a prevenção, o monitoramento, a fiscalização e o combate aos crimes ambientais, com ferramentas aperfeiçoadas por inteligência artificial, bancos de dados em tempo real, imagens de satélite e açã…",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: desmatamento ilegal zero",
+      "id": "flavio-bolsonaro-E30"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 25,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "25 Vamos digitalizar 100% dos serviços públicos do Governo Federal passíveis de digitalização, sob o princípio do digital by design, e eliminar a exigência de reapresentar documentos que o Estado já possui.",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: 100% dos serviços federais digitalizáveis digitalizados",
+      "id": "flavio-bolsonaro-E31"
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002551544_01.pdf",
+      "page": 47,
+      "publisher": "Candidatura Flávio Bolsonaro / PL (documento registrado no TSE)",
+      "accessed_at": "2026-10-15",
+      "document_date": "2026-08-13 (PDF CreationDate)",
+      "quote": "A esse esforço somamos um compromisso social direto: nenhuma escola sem água até 2030, e a meta do Programa Lixão Zero, acabando com os lixões a",
+      "classification": "official_program_proposal",
+      "confidence": "high",
+      "claim": "Compromisso quantitativo declarado no plano: nenhuma escola sem água",
+      "id": "flavio-bolsonaro-E32"
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "commitment": "crescimento sustentado de 4% ao ano",
+      "deadline": "próxima década",
+      "evidence_ids": [
+        "flavio-bolsonaro-E25"
+      ]
+    },
+    {
+      "commitment": "500 mil novas vagas prisionais e déficit carcerário zero",
+      "deadline": "4 anos",
+      "evidence_ids": [
+        "flavio-bolsonaro-E26"
+      ]
+    },
+    {
+      "commitment": "mais de 1 milhão de novas câmeras",
+      "deadline": null,
+      "evidence_ids": [
+        "flavio-bolsonaro-E27"
+      ]
+    },
+    {
+      "commitment": "R$ 900 bilhões em infraestrutura de transporte",
+      "deadline": "4 anos",
+      "evidence_ids": [
+        "flavio-bolsonaro-E28"
+      ]
+    },
+    {
+      "commitment": "2,5 milhões de residências",
+      "deadline": null,
+      "evidence_ids": [
+        "flavio-bolsonaro-E29"
+      ]
+    },
+    {
+      "commitment": "desmatamento ilegal zero",
+      "deadline": "2029",
+      "evidence_ids": [
+        "flavio-bolsonaro-E30"
+      ]
+    },
+    {
+      "commitment": "100% dos serviços federais digitalizáveis digitalizados",
+      "deadline": null,
+      "evidence_ids": [
+        "flavio-bolsonaro-E31"
+      ]
+    },
+    {
+      "commitment": "nenhuma escola sem água",
+      "deadline": "2030",
+      "evidence_ids": [
+        "flavio-bolsonaro-E32"
+      ]
+    }
+  ],
+  "administrative_history": [
+    {
+      "statement": "Ocupação declarada ao TSE: SENADOR",
+      "evidence_ids": [
+        "flavio-bolsonaro-E01"
+      ]
+    }
+  ],
+  "legal_constraints": [],
+  "unknowns": [
+    "DS_SITUACAO_CANDIDATURA em consulta_cand_2026_BR.csv = \"#NE\" (não informado); situação jurídica tomada do arquivo complementar.",
+    "Extração por amostragem: axes contém trechos representativos, não inventário exaustivo do plano.",
+    "Autodeclarações históricas do plano não foram verificadas em fonte independente.",
+    "legal_constraints: nenhuma restrição legal pesquisada além do status TSE DEFERIDO; inelegibilidades/processos não investigados.",
+    "Página TSE de propostas (tse.jus.br) e divulgacandcontas retornaram HTTP 403 (Akamai) a partir deste host; usado o ZIP oficial do CDN TSE."
+  ],
+  "searches": [
+    {
+      "query": "Flávio Bolsonaro candidato presidente 2026 registro TSE plano de governo",
+      "tool": "web_search",
+      "result": "resultados retornados, não utilizados (substituídos por dados primários TSE)",
+      "used_as_evidence": false
+    },
+    {
+      "query": "(sem busca) download parcial por HTTP Range dos ZIPs oficiais TSE consulta_cand_2026, consulta_cand_complementar_2026, proposta_governo_2026_BR",
+      "tool": "curl/urllib",
+      "result": "sucesso",
+      "used_as_evidence": true
+    }
+  ]
+}

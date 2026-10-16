@@ -1,0 +1,285 @@
+{
+  "supplied_name": "SAMARA",
+  "supplied_party": "UP",
+  "verified_name": "SAMARA MARTINS DA SILVA FEITOSA",
+  "verified_party": "UP",
+  "official_status": "DEFERIDO",
+  "official_candidate_id": "280002538811",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002538811_01.pdf",
+  "program_sha256": "23c510d5b06bb149bb9390bbc144dcda9cfd2b6a677a854b3d993b16ed7a94e6",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E01"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E02"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E03"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E04"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E05"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E06"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E07"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E08"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E09"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "samara-martins-E10"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "samara-martins-E01",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 60,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Reestatização das Empresas Reestatização das Empresas Estratégicas: Estratégicas: Estatização imediata Estatização imediata da Eletrobras, da Petrobrás (com da Eletrobras, da Petrobrás (com controle 100% estatal e integração controle 100% estatal e integração das refinarias), da Vale, das malhas das refinarias), da Vale, das malhas ferroviárias, das companhias de ferroviárias, das companhias de saneamento e de telecomunicações; saneamento e de telecomunicações; • Monopólio público em áreas • Monopólio público em áreas",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E02",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 16,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Tributação Progressiva e Fim • Tributação Progressiva e Fim dos Impostos Abusivos sobre os dos Impostos Abusivos sobre os Pobres: Isenção total de imposto Pobres: Isenção total de imposto de renda para os trabalhadores, de renda para os trabalhadores, eliminação de impostos sobre itens eliminação de impostos sobre itens da cesta básica e produtos essenciais da cesta básica e produtos essenciais de limpeza e higiene pessoal,",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E03",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 49,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Reformulação dos atuais • Reformulação dos atuais CCS (Conselhos Comunitários de CCS (Conselhos Comunitários de Segurança) em assembleias populares Segurança) em assembleias populares dedicadas à Segurança Popular. dedicadas à Segurança Popular. • Articular segurança com • Articular segurança com emprego, educação, cultura, esporte, emprego, educação, cultura, esporte, assistência social, moradia e assistência social, moradia e urbanização das periferias urbanização das periferias centenas de milhares de brasileiros. centenas de milhares de",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E04",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 20,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Fortalecimento e Unificação do • Fortalecimento e Unificação do SUS 100% Estatal: Fim da entrega da SUS 100% Estatal: Fim da entrega da gestão hospitalar a Organizações gestão hospitalar a Organizações Sociais (OSs), fundações privadas Sociais (OSs), fundações privadas e cooperativas empresariais. Toda e cooperativas empresariais. Toda a rede sanitária deve ser de gestão a rede sanitária deve ser de gestão direta e pública. Fim da exploração direta e pública. Fim da exploração dos planos de saúde privados. dos planos de saúde privados. • Soberania Farmacêutica e Produção • Soberania",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E05",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 22,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Destinação de pelo menos 10% do PIB • Destinação de pelo menos 10% do PIB nacional para a educação pública, desde nacional para a educação pública, desde a educação infantil até a pós-graduação. a educação infantil até a pós-graduação. • Efetivar programa de erradicação •",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E06",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 10,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Fim da Escala 6x1 e Redução da • Fim da Escala 6x1 e Redução da Jornada para 30 Horas Semanais: Jornada para 30 Horas Semanais: Implementação do regime de 30 Implementação do regime de 30 horas sem redução salarial (escala horas sem redução salarial (escala 4x3 ou turnos de 6 horas diárias), 4x3 ou turnos de 6 horas diárias), permitindo a criação de múltiplos permitindo a criação de múltiplos turnos nas indústrias e serviços turnos nas indústrias e serviços para gerar novos postos formais de para gerar novos postos formais de trabalho. trabalho. O sistema",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E07",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 28,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Enfrentamento sem trégua • Enfrentamento sem trégua à violência machista: Fortalecer à violência machista: Fortalecer políticas de prevenção, combate e políticas de prevenção, combate e enfrentamento à violência contra a enfrentamento à violência contra a mulher. Criminalização da misoginia. mulher. Criminalização da misoginia. Expansão das Delegacias da Mulher Expansão das Delegacias da Mulher com funcionamento 24 horas, com funcionamento 24 horas, fortalecimento de casas-abrigo e fortalecimento de casas-abrigo e casas de referência, suporte jurídico casas de referência, suporte jurídico e psicológico e autonomia econômica e psicológico e autonomia econômica para mulheres em situação de",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E08",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 52,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Passe Livre para Toda a • Passe Livre para Toda a População: O transporte deve ser População: O transporte deve ser tratado como direito fundamental tratado como direito fundamental constitucional, e não como constitucional, e não como negócio. Transição progressiva negócio. Transição progressiva para a tarifa zero no transporte para a tarifa zero no transporte coletivo urbano e intermunicipal. coletivo urbano e",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E09",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 63,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Vincular a reindustrialização a • Vincular a reindustrialização a metas de redução de poluentes, metas de redução de poluentes, eficiência energética, economia eficiência energética, economia solidária, tecnologias limpas e solidária, tecnologias limpas e recuperação de áreas degradadas; recuperação de áreas degradadas; • Realizar programa de transição • Realizar programa de transição de matrizes energéticas e de de matrizes energéticas e de extração de matérias primas que extração de matérias primas que respeite",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E10",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 25,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Fortalecer os órgãos públicos de • Fortalecer os órgãos públicos de fiscalização e estabelecer o controle fiscalização e estabelecer o controle popular sobre o orçamento público. popular sobre o orçamento público.",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "samara-martins-E11",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 7,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "a elevação em 100% do salário mínimo, a reindustrialização, a reforma agrária, a soberania",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Compromisso de elevação do mínimo, não efeito de renda real."
+    },
+    {
+      "id": "samara-martins-E12",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002538811_01.pdf",
+      "page": 22,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Destinação de pelo menos 10% do PIB • Destinação de pelo menos 10% do PIB nacional para a educação pública, desde nacional para a educação pública, desde a educação infantil até a pós-graduação. a educação infantil até a pós-graduação. • Efetivar programa de erradicação •",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Meta de recursos educacionais em proporção do PIB."
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "evidence_ids": [
+        "samara-martins-E11"
+      ],
+      "description": "Compromisso de elevação do mínimo, não efeito de renda real.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    },
+    {
+      "evidence_ids": [
+        "samara-martins-E12"
+      ],
+      "description": "Meta de recursos educacionais em proporção do PIB.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    }
+  ],
+  "administrative_history": [],
+  "legal_constraints": [],
+  "unknowns": [
+    "Histórico administrativo não validado por fontes independentes neste recorte documental.",
+    "Legalidade e probabilidade de aprovação de cada proposta não estimadas.",
+    "Ausência de modelo causal identificado para efeitos diferenciais de governo.",
+    "Custos agregados e cronogramas não são presumidos; estimativas do plano não são dados observados."
+  ],
+  "searches": [
+    "Plano original TSE, leitura paginada e busca temática local; nenhuma busca externa duplicada."
+  ],
+  "researcher": "orchestrator_after_worker_dispatch_blocked"
+}

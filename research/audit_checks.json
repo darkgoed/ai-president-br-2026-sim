@@ -1,0 +1,141 @@
+{
+  "status": "pass",
+  "scope": "documentary fidelity, identity and electoral arithmetic; not causal validation",
+  "candidates": [
+    {
+      "candidate_id": "280002551547",
+      "file": "research/candidates/augusto-cury.json",
+      "program_pages": 200,
+      "evidence_records": 12,
+      "verified_program_excerpts": 12,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002552484",
+      "file": "research/candidates/clariana-barao.json",
+      "program_pages": 15,
+      "evidence_records": 10,
+      "verified_program_excerpts": 10,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002551975",
+      "file": "research/candidates/edmilson-costa.json",
+      "program_pages": 16,
+      "evidence_records": 12,
+      "verified_program_excerpts": 12,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002551544",
+      "file": "research/candidates/flavio-bolsonaro.json",
+      "program_pages": 76,
+      "evidence_records": 32,
+      "verified_program_excerpts": 29,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002541457",
+      "file": "research/candidates/hertz-dias.json",
+      "program_pages": 33,
+      "evidence_records": 11,
+      "verified_program_excerpts": 11,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002542548",
+      "file": "research/candidates/lula.json",
+      "program_pages": 84,
+      "evidence_records": 29,
+      "verified_program_excerpts": 26,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002540694",
+      "file": "research/candidates/renan-santos.json",
+      "program_pages": 51,
+      "evidence_records": 12,
+      "verified_program_excerpts": 12,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002539826",
+      "file": "research/candidates/romeu-zema.json",
+      "program_pages": 81,
+      "evidence_records": 28,
+      "verified_program_excerpts": 25,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002551932",
+      "file": "research/candidates/ronaldo-caiado.json",
+      "program_pages": 100,
+      "evidence_records": 30,
+      "verified_program_excerpts": 27,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002552487",
+      "file": "research/candidates/rui-costa-pimenta.json",
+      "program_pages": 7,
+      "evidence_records": 12,
+      "verified_program_excerpts": 12,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002538811",
+      "file": "research/candidates/samara-martins.json",
+      "program_pages": 67,
+      "evidence_records": 12,
+      "verified_program_excerpts": 12,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    },
+    {
+      "candidate_id": "280002548139",
+      "file": "research/candidates/wilson-grassi.json",
+      "program_pages": 58,
+      "evidence_records": 11,
+      "verified_program_excerpts": 11,
+      "axes_with_evidence": 10,
+      "independent_administrative_history_verified": false,
+      "causal_policy_effect_identified": false
+    }
+  ],
+  "verified_program_excerpts": 199,
+  "official_first_round_candidates": 12,
+  "official_valid_votes": 119300788,
+  "errors": [],
+  "scientific_gate": "exploratory_only_no_candidate_ranking",
+  "worker_coverage": 4,
+  "orchestrator_research_coverage": 8,
+  "worker_dispatch_blocked": true,
+  "known_program_arithmetic_issue": {
+    "candidate_id": "280002548139",
+    "page": 13,
+    "claim": "R$ 266 bi é mais do que R$ 271,3 bi + R$ 233,7 bi",
+    "computed_sum_brl_billion": "505.0",
+    "conclusion": "A comparação do próprio plano é inconsistente. Não utilizada como dado observado nem coeficiente."
+  }
+}

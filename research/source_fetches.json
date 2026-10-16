@@ -1,0 +1,76 @@
+[
+  {
+    "id": "tse-candidates",
+    "url": "https://dadosabertos.tse.jus.br/api/3/action/package_show?id=candidatos-2026",
+    "accessed_at": "2026-10-16T02:23:05.003123+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://dadosabertos.tse.jus.br/api/3/action/package_show?id=candidatos-2026",
+    "sha256": "52e373a10977218c9b88a47a90f87369e023cd879c4186302ce32830f4707256",
+    "snapshot": "snapshots/tse-candidates.txt",
+    "bytes": 62053
+  },
+  {
+    "id": "tse-votes",
+    "url": "https://dadosabertos.tse.jus.br/api/3/action/package_show?id=resultados-2026",
+    "accessed_at": "2026-10-16T02:23:05.005669+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "final_url": "https://dadosabertos.tse.jus.br/api/3/action/package_show?id=resultados-2026",
+    "sha256": "ad15553431c8a49f966a3a8f97d5e4100fc2671ba7909957cc16618c34da3c85",
+    "snapshot": "snapshots/tse-votes.txt",
+    "bytes": 53437
+  },
+  {
+    "id": "tse-results",
+    "url": "https://resultados.tse.jus.br/oficial/ele2026/619/config/ele-c.json",
+    "accessed_at": "2026-10-16T02:23:05.008041+00:00",
+    "status": 404,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "tse-calendar",
+    "url": "https://www.tse.jus.br/eleicoes/calendario-eleitoral/calendario-eleitoral",
+    "accessed_at": "2026-10-16T02:23:05.061553+00:00",
+    "status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "final_url": "https://www.tse.jus.br/eleicoes/calendario-eleitoral/calendario-eleitoral",
+    "sha256": "a240b83af24ed1cb7cc1132e980410ef9062afc0d6138f76f1a7a841df278ab7",
+    "snapshot": null,
+    "publication_note": "HTML não utilizado no modelo, excluído da distribuição: contém tokens web incorporados detectados pelo scanner. Hash da coleta preservado; nenhum valor de token publicado.",
+    "bytes": 845675
+  },
+  {
+    "id": "bcb-sgs-gdp",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados/ultimos/1?formato=json",
+    "accessed_at": "2026-10-16T02:23:05.075011+00:00",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "final_url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados/ultimos/1?formato=json",
+    "sha256": "2dbd525dc6193aa752ec8d10a98b95d0478877f69acac96745c9e14c79b1df7d",
+    "snapshot": "snapshots/bcb-sgs-gdp.txt",
+    "bytes": 38
+  },
+  {
+    "id": "bcb-sgs-ipca",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados/ultimos/1?formato=json",
+    "accessed_at": "2026-10-16T02:23:05.152899+00:00",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "final_url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados/ultimos/1?formato=json",
+    "sha256": "27a9274f1ab62bc39307cce993b9b6120b55b16890b0d9b5a72e3fa4ea4e12a1",
+    "snapshot": "snapshots/bcb-sgs-ipca.txt",
+    "bytes": 38
+  },
+  {
+    "id": "bcb-sgs-debt",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/1?formato=json",
+    "accessed_at": "2026-10-16T02:23:05.158973+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/1?formato=json",
+    "sha256": "6949ce58417e4a26659f9ed5f1406505ecd60ef8c446def6954a5596c6c19c18",
+    "snapshot": "snapshots/bcb-sgs-debt.txt",
+    "bytes": 6255
+  }
+]

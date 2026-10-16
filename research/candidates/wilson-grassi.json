@@ -1,0 +1,262 @@
+{
+  "supplied_name": "VETERINÁRIO WILSON GRASSI",
+  "supplied_party": "DEMOCRATA",
+  "verified_name": "WILSON GRASSI JUNIOR",
+  "verified_party": "DEMOCRATA",
+  "official_status": "DEFERIDO",
+  "official_candidate_id": "280002548139",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002548139_01.pdf",
+  "program_sha256": "df2acdb7a6d8b080d6d8a235b8fe8f0d987bf0f24be4f4aa9abc80e4ebb24904",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E01"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E02"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E03"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E04"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E05"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E06"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E07"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E08"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E09"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "wilson-grassi-E10"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "wilson-grassi-E01",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 8,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Substituir o conjunto de tributos federais que hoje incide sobre folha, faturamento e produção por um único tributo, cobrado automaticamente sobre a movimentação financeira, incidindo em cada lançamento a débito e a crédito em conta. O mecanismo é fácil de descrever, e essa é a intenção. Quem movimenta dinheiro paga. Quem movimenta mais paga mais. Ninguém declara coisa alguma, porque a arrecadação acontece no",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E02",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 9,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "O Democrata fixa o limite de isenção do IRPF em cinco salários mínimos. Com o mínimo de 2026 em R$ 1.621,00, definido pelo Decreto nº 12.797/2025, isso corresponde a R$ 8.105,00 por mês. Cinco salários mínimos é o patamar da proposta original do Imposto Único Federal. Segundo o autor do estudo, nesse limite cerca de 85% da população brasileira",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E03",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 21,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Ampliar a capacidade federal de custódia de lideranças, com padrão construtivo único e regime rigoroso de contato. ▪ Bloquear de fato o sinal de telefonia nas unidades, e responsabilizar administrativamente a operadora que contratar o bloqueio e não entregar. ▪ Rodízio nacional de custodiados de alta periculosidade, para impedir que a facção local capture a unidade. ▪ Regime disciplinar diferenciado aplicado com controle judicial e revisão",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E04",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 34,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Expandir a cobertura de equipes de saúde da família com meta por município e cofinanciamento federal estável, previsível e fora da barganha política. ▪ Levar profissional para região de difícil fixação com carreira, e não com contrato precário renovado a cada crise. ▪ Integrar o prontuário eletrônico entre os níveis de atenção, de modo que o dado acompanhe o paciente e não o estabelecimento. 7.2 Fila cirúrgica e diagnóstico A fila brasileira tem um problema anterior ao tamanho: ninguém sabe onde está. Fila invisível se",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E05",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 36,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Ampliar a rede federal de educação profissional, com abertura de curso orientada pela demanda produtiva da região. ▪ Integrar ensino médio, formação técnica e o programa de qualificação do Eixo 2, acabando com a duplicação de oferta entre programas federais que não se falam. 8.3 A PEC da Pesquisa O Brasil forma pesquisador com dinheiro público e entrega o resultado",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E06",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 19,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Consolidar as declarações trabalhistas e previdenciárias em envio único, aproveitando a base que já existe no eSocial. ▪ Acabar com a duplicidade de informação exigida por órgãos federais diferentes sobre o mesmo fato. Informou uma vez, informou para todos. ▪ Fixar prazo legal de resposta da administração nos pedidos de regularização, com deferimento automático se o prazo estourar. O deferimento automático resolve o problema do cidadão e não resolve o do Estado. Se a única consequência do",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E07",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 41,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "quem paga aluguel e comprova capacidade de pagamento por esse próprio histórico tem acesso automático a financiamento habitacional de parcela equivalente ao aluguel que já paga. ▪ Reconhecimento do histórico de pagamento de aluguel como comprovação de capacidade de pagamento, com validação por comprovante bancário e por cadastro público de contratos de locação de adesão voluntária. ▪ Direito ao financiamento com parcela inicial equivalente ao valor do aluguel comprovado, dentro do teto de renda",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E08",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 46,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Eixo 12 — Infraestrutura, energia e meio ambiente Sem logística barata, redução de imposto vira desconto que o frete come no caminho. Sem energia previsível, indústria não investe. E sem controle ambiental o Brasil perde mercado, não por pressão ideológica, mas por cláusula contratual de quem compra. 12.1 Logística: o Brasil nos trilhos O Brasil escoa a própria safra em cima de caminhão, por rodovia, em distâncias continentais. Isso já é caro hoje. Com o crescimento projetado da produção agrícola e mineral, deixa de ser apenas caro e passa a ser fisicamente inviável: não existe asfalto e não existe frota que absorvam o volume que vem. Convém",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E09",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 47,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Combater o desmatamento ilegal com inteligência, rastreabilidade da cadeia produtiva e responsabilização patrimonial, com o mesmo instrumental do Pilar 2 do Eixo 3. ▪ Licenciamento ambiental com prazo definido e análise técnica de qualidade. Demora não é rigor; costuma ser falta de gente. ▪ Responsável nomeado para cada processo de licenciamento e para cada marco de obra, com prazo correndo em painel público e apuração automática ao ser descumprido, na mesma regra de ônus adotada no Eixo 2. Prazo sem responsável identificado é prazo",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E10",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 58,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Publicar, no primeiro trimestre de mandato, o painel de acompanhamento deste plano, com o estado de cada meta e o nome do responsável. 2. Revisar o plano publicamente todo ano, registrando o que foi cumprido, o que foi alterado e por quê. Meta abandonada em silêncio é meta que nunca existiu. 3. Divulgar a agenda oficial completa do Presidente e do Vice, com identificação de quem participou de cada reunião. 4. Anexar estimativa de impacto orçamentário e financeiro a todo projeto enviado ao Congresso, na forma da Lei Complementar nº 101/2000. 5. Publicar currículo e vinculações de todo indicado a cargo de direção na administração federal, no ato da nomeação. Partido",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "wilson-grassi-E11",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002548139_01.pdf",
+      "page": 13,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Custo da isenção do IRPF em 5 salários mínimos − R$ 266 bi Arrecadação que o IUF precisa entregar R$ 1.828 bi Equivalente, sobre o volume anual de pagamentos cerca de 1,4% A conta não depende de crescimento econômico, de aumento de alíquota nem de corte de despesa. O que o IUF precisa entregar equivale a pouco mais de um por cento do que já circula hoje pelo sistema bancário brasileiro,",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Estimativa do próprio plano; não validada causalmente. O mesmo parágrafo contém comparação aritmética inconsistente, auditada separadamente."
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "evidence_ids": [
+        "wilson-grassi-E11"
+      ],
+      "description": "Estimativa do próprio plano; não validada causalmente. O mesmo parágrafo contém comparação aritmética inconsistente, auditada separadamente.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    }
+  ],
+  "administrative_history": [],
+  "legal_constraints": [],
+  "unknowns": [
+    "Histórico administrativo não validado por fontes independentes neste recorte documental.",
+    "Legalidade e probabilidade de aprovação de cada proposta não estimadas.",
+    "Ausência de modelo causal identificado para efeitos diferenciais de governo.",
+    "Custos agregados e cronogramas não são presumidos; estimativas do plano não são dados observados."
+  ],
+  "searches": [
+    "Plano original TSE, leitura paginada e busca temática local; nenhuma busca externa duplicada."
+  ],
+  "researcher": "orchestrator_after_worker_dispatch_blocked"
+}

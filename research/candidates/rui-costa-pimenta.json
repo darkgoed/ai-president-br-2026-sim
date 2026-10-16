@@ -1,0 +1,285 @@
+{
+  "supplied_name": "RUI COSTA PIMENTA",
+  "supplied_party": "PCO",
+  "verified_name": "RUI COSTA PIMENTA",
+  "verified_party": "PCO",
+  "official_status": "DEFERIDO",
+  "official_candidate_id": "280002552487",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002552487_01.pdf",
+  "program_sha256": "ed380b23d6e033e8616ce71efcf66eb42d2baee2b58f1c9ae80690009c20dfe9",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E01"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E02"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E03"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E04"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E05"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E06"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E07"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E08"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E09"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "rui-costa-pimenta-E10"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "rui-costa-pimenta-E01",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 3,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Cancelamento de todas as privatizações realizadas (Eletrobrás, Vale, bancos, telefonia etc.) • Nacionalização do petróleo, Petrobrás 100% estatal, sob o controle dos trabalhadores, com eleição de todos os seus postos de direção pelos trabalhadores • Nacionalização e estatização, sem indenização, de todas as reservas minerais, refinarias etc. entregues aos tubarões internacionais • Colocar a riqueza do petróleo a serviço das",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E02",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Cancelamento das dívidas externa e interna com os bancos e grandes credores • Fim dos impostos sobre o consumo e os salários. Imposto somente sobre os ganhos dos capitalistas e grandes fortunas. 12 Abaixo a ditadura do Judiciário e fim do regime antidemocrático Vivemos em uma ditadura. O povo, acuado sob a ameaça da",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E03",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 5,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Abaixo a repressão. Liberdade de expressão e direito de autodefesa É preciso acabar com a cassação dos direitos democráticos de todo o povo, com a verdadeira ditadura que é o controle dos meios de comunicação por meia dúzia de famílias e com o massacre do povo negro, dos jovens e trabalhadores, com as mais de seis mil mortes por ano provocadas pela polícia em todo o País, em uma verdadeira guerra contra o povo pobre. • Dissolução da polícia militar e de todo o aparato repressivo • Direito de",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E04",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 5,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Plano de emergência para construção de hospitais e postos de saúde em todo o País • Volta do programa Mais Médicos e validação imediata de todos os diplomas de médicos brasileiros e estrangeiros residentes no País • Abertura imediata de centenas de cursos de medicina, enfermagem etc. com livre acesso (sem vestibular!) nas universidades públicas, para suprir a falta de profissionais • Piso salarial de R$8 mil para os",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E05",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 5,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Mais verbas para a educação; verbas públicas somente para o ensino público • Revogação de todas as \"reformas\" do regime golpista contra a educação e o ensino público • Fim dos vestibulares. Livre ingresso nas universidades • Piso salarial nacional dos professores de, pelo menos, R$8,5 mil • Escolas e Universidades sob o controle da comunidade escolar: eleição dos diretores e de todos os postos de direção",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E06",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 2,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Redução da jornada de trabalho para o máximo de 7 horas por dia, 5 dias por semana (35 horas semanais): trabalhar menos para que todos trabalhem • Proibição das demissões; ocupação e controle dos trabalhadores sobre as empresas que demitam ou ameacem fechar • Salário-desemprego igual ao último salário recebido para todos os trabalhadores demitidos • Proibição de despejos e cortes de serviços essenciais (como água, luz, gás etc.) para todos os desempregados • Passe livre nos transportes para desempregados e",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E07",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 2,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Auxílio emergencial de verdade, Bolsa Família de pelo menos um salário mínimo, enquanto durar a situação de caos atual • Anulação de todas as dívidas dos trabalhadores com o sistema financeiro. 02 Reduzir a jornada e acabar com o",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E08",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 4,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Elaboração de um plano nacional de construção de milhões de moradias populares, para garantir habitação digna para a população e gerar milhões de empregos, sob o controle dos trabalhadores.",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E09",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 7,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Defesa da soberania e da unidade nacional, com o controle das organizações populares e dos índios sobre as riquezas do território amazônico e da sua exploração em benefício do povo • Em defesa de Cuba, Nicarágua e Venezuela. Todo apoio à",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E10",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 4,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Pela realização de concursos públicos periódicos para repor o quadro de servidores. 06 Reforma Agrária com expropriação do latifúndio e demarcação",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "rui-costa-pimenta-E11",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 2,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "35 horas semanais): trabalhar menos para que todos trabalhem • Proibição das demissões; ocupação e controle dos trabalhadores sobre as",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Jornada semanal proposta; não efeito estimado no emprego."
+    },
+    {
+      "id": "rui-costa-pimenta-E12",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002552487_01.pdf",
+      "page": 5,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Piso salarial nacional dos professores de, pelo menos, R$8,5 mil • Escolas e Universidades sob o controle da comunidade escolar: eleição dos",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Piso proposto, sem custo agregado identificado."
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "evidence_ids": [
+        "rui-costa-pimenta-E11"
+      ],
+      "description": "Jornada semanal proposta; não efeito estimado no emprego.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    },
+    {
+      "evidence_ids": [
+        "rui-costa-pimenta-E12"
+      ],
+      "description": "Piso proposto, sem custo agregado identificado.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    }
+  ],
+  "administrative_history": [],
+  "legal_constraints": [],
+  "unknowns": [
+    "Histórico administrativo não validado por fontes independentes neste recorte documental.",
+    "Legalidade e probabilidade de aprovação de cada proposta não estimadas.",
+    "Ausência de modelo causal identificado para efeitos diferenciais de governo.",
+    "Custos agregados e cronogramas não são presumidos; estimativas do plano não são dados observados."
+  ],
+  "searches": [
+    "Plano original TSE, leitura paginada e busca temática local; nenhuma busca externa duplicada."
+  ],
+  "researcher": "orchestrator_after_worker_dispatch_blocked"
+}

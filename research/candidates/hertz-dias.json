@@ -1,0 +1,262 @@
+{
+  "supplied_name": "HERTZ DIAS",
+  "supplied_party": "PSTU",
+  "verified_name": "HERTZ DA CONCEICAO DIAS",
+  "verified_party": "PSTU",
+  "official_status": "DEFERIDO",
+  "official_candidate_id": "280002541457",
+  "program_url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "program_archive_member": "BR/2026BR280002541457_01.pdf",
+  "program_sha256": "1868565fb0d5de77d40a982a1be07dc7f44f7af7565ee3b40d93b31407d31468",
+  "axes": {
+    "economia": [
+      {
+        "statement": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E01"
+        ]
+      }
+    ],
+    "fiscal": [
+      {
+        "statement": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E02"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "statement": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E03"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "statement": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E04"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "statement": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E05"
+        ]
+      }
+    ],
+    "emprego": [
+      {
+        "statement": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E06"
+        ]
+      }
+    ],
+    "social": [
+      {
+        "statement": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E07"
+        ]
+      }
+    ],
+    "infraestrutura": [
+      {
+        "statement": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E08"
+        ]
+      }
+    ],
+    "ambiente": [
+      {
+        "statement": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E09"
+        ]
+      }
+    ],
+    "governanca": [
+      {
+        "statement": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal.",
+        "evidence_ids": [
+          "hertz-dias-E10"
+        ]
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "hertz-dias-E01",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 6,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Estatização das empresas estratégicas do país Para prover serviços públicos gratuitos e de qualidade, como saúde, educação, moradia, saneamento, bem como concentrar a riqueza apropriada pelos múltiplos capitais individuais e direcioná-los para investimentos produtivos, é necessário expropriar as empresas estratégicas que acumulam bilhões ou dezenas de bilhões de reais em setores diretamente dependentes de recursos naturais como mineração, petróleo e energia. São empresas como a Petrobras e a",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre economia; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E02",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 27,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Tributação fortemente progressiva sobre lucros empresariais e taxação ampliada sobre remessas de capital ao exterior, impedindo a evasão do excedente produzido pelos trabalhadores brasileiros. Imposto progressivo sobre as verdadeiras grandes fortunas, o topo da pirâmide, os que possuem de R$ 1 bilhão para cima. Fim dos benefícios fiscais e tributários às grandes empresas Isenção de ir até dez salários mínimos, atualizando a tabela à 1996, a partir de quando deixou de ser corrigida pela",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre fiscal; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E03",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 20,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Unificação das polícias em uma única instituição de caráter civil, com eleição de comandantes e delegados pela população e mandatos revogáveis Direito de organização e sindicalização dos policiais. Fim dos abusos e do desrespeito que caracterizam o tratamento dos policiais dentro das instituições de segurança pública, com controle popular sobre essas instituições. Contra as",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre seguranca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E04",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 11,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Defesa do sus público, universal, gratuito e 100% estatal Fim da privatização e da gestão privada da saúde (OS, Fundações e PPP) Proibição da transferência de leitos públicos para planos privados Ampliação do investimento público em saúde, com prioridade para a atenção básica Cuidado com a saúde mental: ampliação do investimento público nos Centros de Atenção Psicossocial (Caps), no Serviço de Residências Terapêuticas e Centros de Convivência. Nenhum investimento público em Comunidades Terapêuticas! Contratação via concurso público e valorização dos trabalhadores da saúde",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre saude; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E05",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 12,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Ampliação de vagas em creches, escolas e universidades públicas Garantia de permanência estudantil (transporte, alimentação, bolsas) Investimento massivo na educação pública. Produção de conhecimento voltada às necessidades sociais, e não ao mercado Por um sistema único de educação para todas as crianças e adolescentes. Abaixo o abismo entre educação de ricos e pobres! MORADIA",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre educacao; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E06",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 8,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Plano nacional de obras públicas voltado à geração de empregos, universalização do saneamento básico, construção de escolas, hospitais, creches, infraestrutura ambiental, entre outras obras necessárias e respeitadoras do meio ambiente. Revogação da reforma trabalhista Revogação da lei das terceirizações. Fim da terceirização, salário igual para trabalho",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre emprego; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E07",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 8,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Bolsa equivalente a um salário mínimo para trabalhadores desempregados enquanto não houver pleno emprego. Plano nacional de obras públicas voltado à geração de empregos, universalização do saneamento básico, construção",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre social; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E08",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 8,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "universalização do saneamento básico, construção de escolas, hospitais, creches, infraestrutura ambiental, entre outras obras necessárias e respeitadoras do meio ambiente. Revogação da reforma trabalhista Revogação da lei das terceirizações. Fim da",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre infraestrutura; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E09",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 15,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Recuperação das áreas desmatadas e dos biomas devastados pelo agronegócio. Reparação e demarcação imediata das terras indígenas, titulação dos territórios quilombolas e proteção das comunidades tradicionais Reconhecimento e reparação das populações atingidas por crimes ambientais Garantia do direito à autodefesa de todas as comunidades e militantes que lutam em defesa do meio ambiente diante da violência patronal e estatal.",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre ambiente; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E10",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 19,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Investigação e punição de corruptos e corruptores, com confisco dos bens obtidos por meio da corrupção. Descriminalização das drogas e revogação da Lei Antidrogas, para efetivamente combater e acabar com o narcotráfico,",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Trecho programático sobre governanca; compromisso declarado, não resultado ou efeito causal."
+    },
+    {
+      "id": "hertz-dias-E11",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+      "archive_member": "BR/2026BR280002541457_01.pdf",
+      "page": 27,
+      "publisher": "Candidatura / partido; plano depositado no TSE",
+      "accessed_at": "2026-10-16T02:24:00Z",
+      "document_date": null,
+      "quote": "Isenção de ir até dez salários mínimos, atualizando a tabela à 1996, a partir de quando deixou de ser corrigida pela inflação, fazendo cada vez mais pobres pagarem ir. A partir daí, alíquotas progressivas. Cobrança da dívida ativa das grandes empresas com a União (entre elas,",
+      "classification": "official_program_proposal",
+      "confidence": "high_for_document_content_only",
+      "claim": "Limite proposto de isenção; sem estimativa independente de arrecadação."
+    }
+  ],
+  "quantitative_commitments": [
+    {
+      "evidence_ids": [
+        "hertz-dias-E11"
+      ],
+      "description": "Limite proposto de isenção; sem estimativa independente de arrecadação.",
+      "value": null,
+      "unit": null,
+      "cost_validated": false,
+      "causal_effect": null
+    }
+  ],
+  "administrative_history": [],
+  "legal_constraints": [],
+  "unknowns": [
+    "Histórico administrativo não validado por fontes independentes neste recorte documental.",
+    "Legalidade e probabilidade de aprovação de cada proposta não estimadas.",
+    "Ausência de modelo causal identificado para efeitos diferenciais de governo.",
+    "Custos agregados e cronogramas não são presumidos; estimativas do plano não são dados observados."
+  ],
+  "searches": [
+    "Plano original TSE, leitura paginada e busca temática local; nenhuma busca externa duplicada."
+  ],
+  "researcher": "orchestrator_after_worker_dispatch_blocked"
+}

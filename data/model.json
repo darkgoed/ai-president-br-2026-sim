@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "classification": "hipotese_exploratoria",
+  "horizon_years": 4,
+  "initial_debt": 0.8,
+  "units": {
+    "debt": "fraction_of_current_gdp",
+    "interest": "effective_nominal_annual_fraction",
+    "growth": "nominal_annual_gdp_growth_fraction",
+    "primary": "primary_surplus_fraction_of_current_gdp"
+  },
+  "bounds": {
+    "interest": [
+      0.06,
+      0.12
+    ],
+    "growth": [
+      0.02,
+      0.08
+    ],
+    "primary": [
+      -0.02,
+      0.02
+    ]
+  },
+  "scenarios": {
+    "stable": [
+      0,
+      0,
+      0
+    ],
+    "fiscal": [
+      0.025,
+      -0.01,
+      -0.01
+    ],
+    "international": [
+      0,
+      -0.04,
+      -0.005
+    ],
+    "inflation": [
+      0.03,
+      0.02,
+      -0.005
+    ],
+    "unemployment": [
+      0,
+      -0.015,
+      -0.015
+    ],
+    "energy": [
+      0.015,
+      -0.02,
+      -0.005
+    ],
+    "spending": [
+      0,
+      0,
+      -0.02
+    ],
+    "combined": [
+      0.035,
+      -0.04,
+      -0.025
+    ]
+  },
+  "scenario_shift_order": [
+    "interest",
+    "growth",
+    "primary"
+  ],
+  "scenario_allocation": "balanced_strata_not_empirical_probabilities",
+  "shock_structure": "independent_uniform_by_variable_year_and_run; same_draws_for_all_profiles",
+  "equation_source": "https://www.imf.org/external/pubs/ft/tnm/2010/tnm1002.pdf",
+  "parameter_basis": "Artificial stress ranges fixed before numerical runs. Not observed Brazil data or calibrated probabilities.",
+  "default_seed": 20261015,
+  "default_runs": 1000,
+  "objective_function": null,
+  "candidate_policy_effects": "unknown_not_zero"
+}
