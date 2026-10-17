@@ -1,0 +1,2 @@
+Resultado preliminar, substituído por ../results-1b-streaming-v2/.
+A primeira verificação independente encontrou arredondamento da transformação inversa logit classificando empates numéricos como queda da desocupação. A versão final conta sinais nas transformações com tolerância explícita de 1e-12 e foi integralmente reexecutada e verificada. Não usar este diretório para o vídeo. Os resultados originais foram preservados para auditoria.

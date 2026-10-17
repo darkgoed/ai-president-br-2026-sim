@@ -1,0 +1,40 @@
+{
+  "version": "documentary-1",
+  "classification": "experimental_documentary_ranking_not_government_forecast",
+  "title": "Ranking experimental de especificação das propostas auditadas",
+  "axes": ["economia", "fiscal", "seguranca", "saude", "educacao", "emprego", "social", "infraestrutura", "ambiente", "governanca"],
+  "criteria": [
+    {"id": "quantified_target", "label": "Compromisso quantificado catalogado", "method": "quantitative_commitments", "definition": "Ao menos um compromisso quantificado auditado associado ao eixo; magnitude prometida não aumenta nota."},
+    {"id": "dated_target", "label": "Prazo explícito do compromisso", "method": "commitment_horizon", "definition": "Compromisso catalogado com deadline, horizon_years ou target_year explícito; prazo além de quatro anos não vira entrega no mandato."},
+    {"id": "resource_envelope", "label": "Envelope de recursos declarado", "method": "declared_aggregate_amount", "definition": "Montante agregado de investimento, financiamento, custo ou economia declarado; não equivale a custo líquido ou financiamento validado."},
+    {"id": "instrument", "label": "Menção a instrumento de implementação", "pattern": "\\b(lei|leis|pec|emenda|decreto|concess\\w*|parcer\\w*|conv[eê]nio\\w*|regulament\\w*|reforma|programa|sistema|fundo|tribut\\w*)\\b", "definition": "Detecção textual de instrumento nos excertos; não prova desenho operacional, competência legal ou aprovação."},
+    {"id": "monitoring", "label": "Menção a acompanhamento ou controle", "pattern": "\\b(indicador\\w*|monitor\\w*|avalia\\w*|auditor\\w*|transpar[eê]n\\w*|fiscaliza\\w*|controle|metas)\\b", "definition": "Detecção textual de acompanhamento nos excertos; não prova eficácia do controle."},
+    {"id": "baseline", "label": "Base de comparação explicitada", "pattern": "linha de base|base 20\\d{2}|em rela[cç][aã]o a 20\\d{2}|em rela[cç][aã]o ao ano|vs\\.? 20\\d{2}", "definition": "Menção textual de base de comparação; ano-base futuro não é medição já observada."}
+  ],
+  "commitment_axes_by_source": {
+    "augusto-cury": ["infraestrutura", "infraestrutura"],
+    "clariana-barao": [],
+    "edmilson-costa": ["emprego", "social"],
+    "flavio-bolsonaro": ["economia", "seguranca", "seguranca", "infraestrutura", "infraestrutura", "ambiente", "governanca", "educacao"],
+    "hertz-dias": ["fiscal"],
+    "lula": ["educacao", "ambiente", "emprego", "ambiente"],
+    "renan-santos": ["fiscal", "saude"],
+    "romeu-zema": ["social", "economia"],
+    "ronaldo-caiado": ["saude", "saude", "saude", "saude", "saude", "saude", "infraestrutura"],
+    "rui-costa-pimenta": ["emprego", "educacao"],
+    "samara-martins": ["emprego", "educacao"],
+    "wilson-grassi": ["fiscal"]
+  },
+  "weights": "equal_axes_and_criteria_for_display; sensitivity uses independent Dirichlet(1) weights across common axes and criteria",
+  "tie_policy": "equal scores share position; first-place credit split equally; never break ties by name or party",
+  "missingness": "Unreviewed axes are null and excluded from every candidate's comparable score. False means no detection in this audited selection, not absence in whole program or zero government impact.",
+  "not_scored": ["party", "candidate_name", "votes", "size_of_pdf", "number_of_quotes", "government_history", "causal_effect", "promise_magnitude", "ideology"],
+  "limitations": [
+    "Ranking documental de uma seleção não exaustiva, não ranking de qualidade de governo, viabilidade ou preferência eleitoral.",
+    "A seleção prévia de excertos é desigual e pode alterar posições; normalização por eixo e saturação em uma detecção não eliminam esse viés.",
+    "Critérios e distribuições de pesos são escolhas editoriais explícitas, não parâmetros estimados nem probabilidades de governos.",
+    "Metas ambiciosas ou bem escritas podem ser inviáveis. Mais especificação não significa melhor política.",
+    "Histórico de Brasil, Minas Gerais e Goiás é contextual e não entra na nota; competências, escalas, períodos e choques diferem.",
+    "Frequência de primeiro lugar significa robustez aos pesos escolhidos, nunca chance de vitória eleitoral ou de sucesso administrativo."
+  ]
+}

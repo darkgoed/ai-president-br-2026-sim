@@ -1,0 +1,1547 @@
+{
+  "schema_version": 1,
+  "classification": "historical_descriptive_not_causal",
+  "retrieved_at": "2026-10-16T17:55:54.502870+00:00",
+  "series": [
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6468/periodos/-40/variaveis/4099?localidades=N1[1]",
+      "retrieved_at": "2026-10-16T17:55:54.654490+00:00",
+      "sha256": "2df6844ee57ecfdfa4e6a470f0eaf67904ec89afb09824b05f0674c9df78f5d8",
+      "bytes": 890,
+      "id": "6468-4099-1",
+      "aggregate": 6468,
+      "variable": 4099,
+      "label": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
+      "unit": "%",
+      "location": "Brasil",
+      "location_id": "1",
+      "frequency": "trimestral",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/6468/metadados",
+      "metadata_sha256": "edbe43187386dc0afca0670b1464e5bcbce9ecd1cf35dffc3924161c579a9b15",
+      "observations": [
+        {
+          "period": "201603",
+          "value": 11.9
+        },
+        {
+          "period": "201604",
+          "value": 12.1
+        },
+        {
+          "period": "201701",
+          "value": 13.9
+        },
+        {
+          "period": "201702",
+          "value": 13.1
+        },
+        {
+          "period": "201703",
+          "value": 12.5
+        },
+        {
+          "period": "201704",
+          "value": 11.9
+        },
+        {
+          "period": "201801",
+          "value": 13.2
+        },
+        {
+          "period": "201802",
+          "value": 12.6
+        },
+        {
+          "period": "201803",
+          "value": 12.0
+        },
+        {
+          "period": "201804",
+          "value": 11.7
+        },
+        {
+          "period": "201901",
+          "value": 12.8
+        },
+        {
+          "period": "201902",
+          "value": 12.1
+        },
+        {
+          "period": "201903",
+          "value": 11.9
+        },
+        {
+          "period": "201904",
+          "value": 11.1
+        },
+        {
+          "period": "202001",
+          "value": 12.4
+        },
+        {
+          "period": "202002",
+          "value": 13.6
+        },
+        {
+          "period": "202003",
+          "value": 14.9
+        },
+        {
+          "period": "202004",
+          "value": 14.2
+        },
+        {
+          "period": "202101",
+          "value": 14.9
+        },
+        {
+          "period": "202102",
+          "value": 14.2
+        },
+        {
+          "period": "202103",
+          "value": 12.7
+        },
+        {
+          "period": "202104",
+          "value": 11.1
+        },
+        {
+          "period": "202201",
+          "value": 11.1
+        },
+        {
+          "period": "202202",
+          "value": 9.3
+        },
+        {
+          "period": "202203",
+          "value": 8.7
+        },
+        {
+          "period": "202204",
+          "value": 7.9
+        },
+        {
+          "period": "202301",
+          "value": 8.8
+        },
+        {
+          "period": "202302",
+          "value": 8.0
+        },
+        {
+          "period": "202303",
+          "value": 7.7
+        },
+        {
+          "period": "202304",
+          "value": 7.4
+        },
+        {
+          "period": "202401",
+          "value": 7.9
+        },
+        {
+          "period": "202402",
+          "value": 6.9
+        },
+        {
+          "period": "202403",
+          "value": 6.4
+        },
+        {
+          "period": "202404",
+          "value": 6.2
+        },
+        {
+          "period": "202501",
+          "value": 7.0
+        },
+        {
+          "period": "202502",
+          "value": 5.8
+        },
+        {
+          "period": "202503",
+          "value": 5.6
+        },
+        {
+          "period": "202504",
+          "value": 5.1
+        },
+        {
+          "period": "202601",
+          "value": 6.1
+        },
+        {
+          "period": "202602",
+          "value": 5.4
+        }
+      ]
+    },
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6468/periodos/-40/variaveis/4099?localidades=N3[31,52]",
+      "retrieved_at": "2026-10-16T17:55:54.718490+00:00",
+      "sha256": "5995c2a8aa1197a7e6871dc5c04f2d45ef1b38b10f7bcfd4baf1122b24b8515a",
+      "bytes": 1628,
+      "id": "6468-4099-31",
+      "aggregate": 6468,
+      "variable": 4099,
+      "label": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
+      "unit": "%",
+      "location": "Minas Gerais",
+      "location_id": "31",
+      "frequency": "trimestral",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/6468/metadados",
+      "metadata_sha256": "edbe43187386dc0afca0670b1464e5bcbce9ecd1cf35dffc3924161c579a9b15",
+      "observations": [
+        {
+          "period": "201603",
+          "value": 11.3
+        },
+        {
+          "period": "201604",
+          "value": 11.2
+        },
+        {
+          "period": "201701",
+          "value": 13.8
+        },
+        {
+          "period": "201702",
+          "value": 12.2
+        },
+        {
+          "period": "201703",
+          "value": 12.3
+        },
+        {
+          "period": "201704",
+          "value": 10.7
+        },
+        {
+          "period": "201801",
+          "value": 12.7
+        },
+        {
+          "period": "201802",
+          "value": 10.9
+        },
+        {
+          "period": "201803",
+          "value": 9.8
+        },
+        {
+          "period": "201804",
+          "value": 9.7
+        },
+        {
+          "period": "201901",
+          "value": 11.3
+        },
+        {
+          "period": "201902",
+          "value": 9.6
+        },
+        {
+          "period": "201903",
+          "value": 10.0
+        },
+        {
+          "period": "201904",
+          "value": 9.6
+        },
+        {
+          "period": "202001",
+          "value": 11.7
+        },
+        {
+          "period": "202002",
+          "value": 13.2
+        },
+        {
+          "period": "202003",
+          "value": 13.6
+        },
+        {
+          "period": "202004",
+          "value": 12.5
+        },
+        {
+          "period": "202101",
+          "value": 14.0
+        },
+        {
+          "period": "202102",
+          "value": 12.7
+        },
+        {
+          "period": "202103",
+          "value": 10.7
+        },
+        {
+          "period": "202104",
+          "value": 9.5
+        },
+        {
+          "period": "202201",
+          "value": 9.3
+        },
+        {
+          "period": "202202",
+          "value": 7.3
+        },
+        {
+          "period": "202203",
+          "value": 6.3
+        },
+        {
+          "period": "202204",
+          "value": 5.8
+        },
+        {
+          "period": "202301",
+          "value": 6.8
+        },
+        {
+          "period": "202302",
+          "value": 5.8
+        },
+        {
+          "period": "202303",
+          "value": 6.0
+        },
+        {
+          "period": "202304",
+          "value": 5.7
+        },
+        {
+          "period": "202401",
+          "value": 6.3
+        },
+        {
+          "period": "202402",
+          "value": 5.3
+        },
+        {
+          "period": "202403",
+          "value": 5.0
+        },
+        {
+          "period": "202404",
+          "value": 4.3
+        },
+        {
+          "period": "202501",
+          "value": 5.7
+        },
+        {
+          "period": "202502",
+          "value": 4.0
+        },
+        {
+          "period": "202503",
+          "value": 4.1
+        },
+        {
+          "period": "202504",
+          "value": 3.8
+        },
+        {
+          "period": "202601",
+          "value": 5.0
+        },
+        {
+          "period": "202602",
+          "value": 3.8
+        }
+      ]
+    },
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6468/periodos/-40/variaveis/4099?localidades=N3[31,52]",
+      "retrieved_at": "2026-10-16T17:55:54.718676+00:00",
+      "sha256": "5995c2a8aa1197a7e6871dc5c04f2d45ef1b38b10f7bcfd4baf1122b24b8515a",
+      "bytes": 1628,
+      "id": "6468-4099-52",
+      "aggregate": 6468,
+      "variable": 4099,
+      "label": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
+      "unit": "%",
+      "location": "Goiás",
+      "location_id": "52",
+      "frequency": "trimestral",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/6468/metadados",
+      "metadata_sha256": "edbe43187386dc0afca0670b1464e5bcbce9ecd1cf35dffc3924161c579a9b15",
+      "observations": [
+        {
+          "period": "201603",
+          "value": 10.7
+        },
+        {
+          "period": "201604",
+          "value": 11.4
+        },
+        {
+          "period": "201701",
+          "value": 12.8
+        },
+        {
+          "period": "201702",
+          "value": 11.1
+        },
+        {
+          "period": "201703",
+          "value": 9.3
+        },
+        {
+          "period": "201704",
+          "value": 9.5
+        },
+        {
+          "period": "201801",
+          "value": 10.4
+        },
+        {
+          "period": "201802",
+          "value": 9.6
+        },
+        {
+          "period": "201803",
+          "value": 9.0
+        },
+        {
+          "period": "201804",
+          "value": 8.4
+        },
+        {
+          "period": "201901",
+          "value": 10.9
+        },
+        {
+          "period": "201902",
+          "value": 10.7
+        },
+        {
+          "period": "201903",
+          "value": 11.1
+        },
+        {
+          "period": "201904",
+          "value": 10.6
+        },
+        {
+          "period": "202001",
+          "value": 11.6
+        },
+        {
+          "period": "202002",
+          "value": 13.1
+        },
+        {
+          "period": "202003",
+          "value": 13.6
+        },
+        {
+          "period": "202004",
+          "value": 12.8
+        },
+        {
+          "period": "202101",
+          "value": 14.0
+        },
+        {
+          "period": "202102",
+          "value": 12.5
+        },
+        {
+          "period": "202103",
+          "value": 10.1
+        },
+        {
+          "period": "202104",
+          "value": 8.8
+        },
+        {
+          "period": "202201",
+          "value": 9.0
+        },
+        {
+          "period": "202202",
+          "value": 6.9
+        },
+        {
+          "period": "202203",
+          "value": 6.2
+        },
+        {
+          "period": "202204",
+          "value": 6.7
+        },
+        {
+          "period": "202301",
+          "value": 6.8
+        },
+        {
+          "period": "202302",
+          "value": 6.2
+        },
+        {
+          "period": "202303",
+          "value": 6.0
+        },
+        {
+          "period": "202304",
+          "value": 5.6
+        },
+        {
+          "period": "202401",
+          "value": 6.1
+        },
+        {
+          "period": "202402",
+          "value": 5.2
+        },
+        {
+          "period": "202403",
+          "value": 5.2
+        },
+        {
+          "period": "202404",
+          "value": 4.9
+        },
+        {
+          "period": "202501",
+          "value": 5.3
+        },
+        {
+          "period": "202502",
+          "value": 4.4
+        },
+        {
+          "period": "202503",
+          "value": 4.5
+        },
+        {
+          "period": "202504",
+          "value": 3.9
+        },
+        {
+          "period": "202601",
+          "value": 5.1
+        },
+        {
+          "period": "202602",
+          "value": 4.0
+        }
+      ]
+    },
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6472/periodos/-40/variaveis/5933?localidades=N1[1]",
+      "retrieved_at": "2026-10-16T17:55:54.888119+00:00",
+      "sha256": "300ccf6ebdcfa78d11c9cb5ca3abcac851fc8fbdc114f8616e5930df9b832d66",
+      "bytes": 999,
+      "id": "6472-5933-1",
+      "aggregate": 6472,
+      "variable": 5933,
+      "label": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido em todos os trabalhos",
+      "unit": "Reais",
+      "location": "Brasil",
+      "location_id": "1",
+      "frequency": "trimestral",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/6472/metadados",
+      "metadata_sha256": "431832e5e1e4ebbb5ac31b820ccaff18a1c2579234eb10a64b612a2fcad52230",
+      "observations": [
+        {
+          "period": "201603",
+          "value": 3224.0
+        },
+        {
+          "period": "201604",
+          "value": 3252.0
+        },
+        {
+          "period": "201701",
+          "value": 3293.0
+        },
+        {
+          "period": "201702",
+          "value": 3260.0
+        },
+        {
+          "period": "201703",
+          "value": 3272.0
+        },
+        {
+          "period": "201704",
+          "value": 3298.0
+        },
+        {
+          "period": "201801",
+          "value": 3323.0
+        },
+        {
+          "period": "201802",
+          "value": 3329.0
+        },
+        {
+          "period": "201803",
+          "value": 3318.0
+        },
+        {
+          "period": "201804",
+          "value": 3343.0
+        },
+        {
+          "period": "201901",
+          "value": 3361.0
+        },
+        {
+          "period": "201902",
+          "value": 3320.0
+        },
+        {
+          "period": "201903",
+          "value": 3325.0
+        },
+        {
+          "period": "201904",
+          "value": 3353.0
+        },
+        {
+          "period": "202001",
+          "value": 3391.0
+        },
+        {
+          "period": "202002",
+          "value": 3538.0
+        },
+        {
+          "period": "202003",
+          "value": 3577.0
+        },
+        {
+          "period": "202004",
+          "value": 3434.0
+        },
+        {
+          "period": "202101",
+          "value": 3404.0
+        },
+        {
+          "period": "202102",
+          "value": 3308.0
+        },
+        {
+          "period": "202103",
+          "value": 3174.0
+        },
+        {
+          "period": "202104",
+          "value": 3061.0
+        },
+        {
+          "period": "202201",
+          "value": 3106.0
+        },
+        {
+          "period": "202202",
+          "value": 3136.0
+        },
+        {
+          "period": "202203",
+          "value": 3252.0
+        },
+        {
+          "period": "202204",
+          "value": 3310.0
+        },
+        {
+          "period": "202301",
+          "value": 3330.0
+        },
+        {
+          "period": "202302",
+          "value": 3329.0
+        },
+        {
+          "period": "202303",
+          "value": 3384.0
+        },
+        {
+          "period": "202304",
+          "value": 3410.0
+        },
+        {
+          "period": "202401",
+          "value": 3460.0
+        },
+        {
+          "period": "202402",
+          "value": 3520.0
+        },
+        {
+          "period": "202403",
+          "value": 3506.0
+        },
+        {
+          "period": "202404",
+          "value": 3555.0
+        },
+        {
+          "period": "202501",
+          "value": 3596.0
+        },
+        {
+          "period": "202502",
+          "value": 3635.0
+        },
+        {
+          "period": "202503",
+          "value": 3645.0
+        },
+        {
+          "period": "202504",
+          "value": 3734.0
+        },
+        {
+          "period": "202601",
+          "value": 3795.0
+        },
+        {
+          "period": "202602",
+          "value": 3738.0
+        }
+      ]
+    },
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6472/periodos/-40/variaveis/5933?localidades=N3[31,52]",
+      "retrieved_at": "2026-10-16T17:55:54.959441+00:00",
+      "sha256": "479edbbb3f7f96fce3db7d77eadde569c0388c8d1e94a567664a816aeebbf230",
+      "bytes": 1767,
+      "id": "6472-5933-31",
+      "aggregate": 6472,
+      "variable": 5933,
+      "label": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido em todos os trabalhos",
+      "unit": "Reais",
+      "location": "Minas Gerais",
+      "location_id": "31",
+      "frequency": "trimestral",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/6472/metadados",
+      "metadata_sha256": "431832e5e1e4ebbb5ac31b820ccaff18a1c2579234eb10a64b612a2fcad52230",
+      "observations": [
+        {
+          "period": "201603",
+          "value": 2812.0
+        },
+        {
+          "period": "201604",
+          "value": 2827.0
+        },
+        {
+          "period": "201701",
+          "value": 2809.0
+        },
+        {
+          "period": "201702",
+          "value": 2841.0
+        },
+        {
+          "period": "201703",
+          "value": 2903.0
+        },
+        {
+          "period": "201704",
+          "value": 2931.0
+        },
+        {
+          "period": "201801",
+          "value": 2940.0
+        },
+        {
+          "period": "201802",
+          "value": 2943.0
+        },
+        {
+          "period": "201803",
+          "value": 2915.0
+        },
+        {
+          "period": "201804",
+          "value": 2874.0
+        },
+        {
+          "period": "201901",
+          "value": 2876.0
+        },
+        {
+          "period": "201902",
+          "value": 2877.0
+        },
+        {
+          "period": "201903",
+          "value": 2861.0
+        },
+        {
+          "period": "201904",
+          "value": 2910.0
+        },
+        {
+          "period": "202001",
+          "value": 2936.0
+        },
+        {
+          "period": "202002",
+          "value": 3069.0
+        },
+        {
+          "period": "202003",
+          "value": 3003.0
+        },
+        {
+          "period": "202004",
+          "value": 2968.0
+        },
+        {
+          "period": "202101",
+          "value": 2930.0
+        },
+        {
+          "period": "202102",
+          "value": 2882.0
+        },
+        {
+          "period": "202103",
+          "value": 2859.0
+        },
+        {
+          "period": "202104",
+          "value": 2779.0
+        },
+        {
+          "period": "202201",
+          "value": 2734.0
+        },
+        {
+          "period": "202202",
+          "value": 2767.0
+        },
+        {
+          "period": "202203",
+          "value": 2922.0
+        },
+        {
+          "period": "202204",
+          "value": 2955.0
+        },
+        {
+          "period": "202301",
+          "value": 3079.0
+        },
+        {
+          "period": "202302",
+          "value": 3063.0
+        },
+        {
+          "period": "202303",
+          "value": 3187.0
+        },
+        {
+          "period": "202304",
+          "value": 3139.0
+        },
+        {
+          "period": "202401",
+          "value": 3203.0
+        },
+        {
+          "period": "202402",
+          "value": 3287.0
+        },
+        {
+          "period": "202403",
+          "value": 3246.0
+        },
+        {
+          "period": "202404",
+          "value": 3191.0
+        },
+        {
+          "period": "202501",
+          "value": 3263.0
+        },
+        {
+          "period": "202502",
+          "value": 3342.0
+        },
+        {
+          "period": "202503",
+          "value": 3329.0
+        },
+        {
+          "period": "202504",
+          "value": 3465.0
+        },
+        {
+          "period": "202601",
+          "value": 3509.0
+        },
+        {
+          "period": "202602",
+          "value": 3463.0
+        }
+      ]
+    },
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/6472/periodos/-40/variaveis/5933?localidades=N3[31,52]",
+      "retrieved_at": "2026-10-16T17:55:54.959533+00:00",
+      "sha256": "479edbbb3f7f96fce3db7d77eadde569c0388c8d1e94a567664a816aeebbf230",
+      "bytes": 1767,
+      "id": "6472-5933-52",
+      "aggregate": 6472,
+      "variable": 5933,
+      "label": "Rendimento médio mensal real das pessoas de 14 anos ou mais de idade ocupadas na semana de referência com rendimento de trabalho, habitualmente recebido em todos os trabalhos",
+      "unit": "Reais",
+      "location": "Goiás",
+      "location_id": "52",
+      "frequency": "trimestral",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/6472/metadados",
+      "metadata_sha256": "431832e5e1e4ebbb5ac31b820ccaff18a1c2579234eb10a64b612a2fcad52230",
+      "observations": [
+        {
+          "period": "201603",
+          "value": 3007.0
+        },
+        {
+          "period": "201604",
+          "value": 3048.0
+        },
+        {
+          "period": "201701",
+          "value": 3135.0
+        },
+        {
+          "period": "201702",
+          "value": 3107.0
+        },
+        {
+          "period": "201703",
+          "value": 3106.0
+        },
+        {
+          "period": "201704",
+          "value": 3173.0
+        },
+        {
+          "period": "201801",
+          "value": 3107.0
+        },
+        {
+          "period": "201802",
+          "value": 3099.0
+        },
+        {
+          "period": "201803",
+          "value": 3051.0
+        },
+        {
+          "period": "201804",
+          "value": 3114.0
+        },
+        {
+          "period": "201901",
+          "value": 3165.0
+        },
+        {
+          "period": "201902",
+          "value": 3051.0
+        },
+        {
+          "period": "201903",
+          "value": 3012.0
+        },
+        {
+          "period": "201904",
+          "value": 3048.0
+        },
+        {
+          "period": "202001",
+          "value": 3140.0
+        },
+        {
+          "period": "202002",
+          "value": 3188.0
+        },
+        {
+          "period": "202003",
+          "value": 3186.0
+        },
+        {
+          "period": "202004",
+          "value": 3055.0
+        },
+        {
+          "period": "202101",
+          "value": 3051.0
+        },
+        {
+          "period": "202102",
+          "value": 3102.0
+        },
+        {
+          "period": "202103",
+          "value": 3024.0
+        },
+        {
+          "period": "202104",
+          "value": 2958.0
+        },
+        {
+          "period": "202201",
+          "value": 2963.0
+        },
+        {
+          "period": "202202",
+          "value": 2950.0
+        },
+        {
+          "period": "202203",
+          "value": 3142.0
+        },
+        {
+          "period": "202204",
+          "value": 3248.0
+        },
+        {
+          "period": "202301",
+          "value": 3332.0
+        },
+        {
+          "period": "202302",
+          "value": 3370.0
+        },
+        {
+          "period": "202303",
+          "value": 3400.0
+        },
+        {
+          "period": "202304",
+          "value": 3433.0
+        },
+        {
+          "period": "202401",
+          "value": 3470.0
+        },
+        {
+          "period": "202402",
+          "value": 3517.0
+        },
+        {
+          "period": "202403",
+          "value": 3468.0
+        },
+        {
+          "period": "202404",
+          "value": 3588.0
+        },
+        {
+          "period": "202501",
+          "value": 3524.0
+        },
+        {
+          "period": "202502",
+          "value": 3618.0
+        },
+        {
+          "period": "202503",
+          "value": 3718.0
+        },
+        {
+          "period": "202504",
+          "value": 3798.0
+        },
+        {
+          "period": "202601",
+          "value": 3965.0
+        },
+        {
+          "period": "202602",
+          "value": 3946.0
+        }
+      ]
+    },
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/5938/periodos/-40/variaveis/37?localidades=N1[1]",
+      "retrieved_at": "2026-10-16T17:55:55.072984+00:00",
+      "sha256": "548603d804391d1a60152ab7a3a16a56fc898f2e2990ca465c383bdc78d6661f",
+      "bytes": 668,
+      "id": "5938-37-1",
+      "aggregate": 5938,
+      "variable": 37,
+      "label": "Produto Interno Bruto a preços correntes",
+      "unit": "Mil Reais",
+      "location": "Brasil",
+      "location_id": "1",
+      "frequency": "anual",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/5938/metadados",
+      "metadata_sha256": "095d618c940e99bf0bae617cb1e5b081da2394fa1dbd16c00cd44f805cdb35a4",
+      "observations": [
+        {
+          "period": "2002",
+          "value": 1488787276.0
+        },
+        {
+          "period": "2003",
+          "value": 1717950386.0
+        },
+        {
+          "period": "2004",
+          "value": 1957751224.0
+        },
+        {
+          "period": "2005",
+          "value": 2170584503.0
+        },
+        {
+          "period": "2006",
+          "value": 2409449916.0
+        },
+        {
+          "period": "2007",
+          "value": 2720262951.0
+        },
+        {
+          "period": "2008",
+          "value": 3109803097.0
+        },
+        {
+          "period": "2009",
+          "value": 3333039339.0
+        },
+        {
+          "period": "2010",
+          "value": 3885847000.0
+        },
+        {
+          "period": "2011",
+          "value": 4376382000.0
+        },
+        {
+          "period": "2012",
+          "value": 4814760000.0
+        },
+        {
+          "period": "2013",
+          "value": 5331618957.0
+        },
+        {
+          "period": "2014",
+          "value": 5778952780.0
+        },
+        {
+          "period": "2015",
+          "value": 5995787000.0
+        },
+        {
+          "period": "2016",
+          "value": 6269328000.0
+        },
+        {
+          "period": "2017",
+          "value": 6585479000.0
+        },
+        {
+          "period": "2018",
+          "value": 7004141000.0
+        },
+        {
+          "period": "2019",
+          "value": 7389131000.0
+        },
+        {
+          "period": "2020",
+          "value": 7609597000.0
+        },
+        {
+          "period": "2021",
+          "value": 9012142000.0
+        },
+        {
+          "period": "2022",
+          "value": 10079676378.0
+        },
+        {
+          "period": "2023",
+          "value": 10943345439.0
+        }
+      ]
+    },
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/5938/periodos/-40/variaveis/37?localidades=N3[31,52]",
+      "retrieved_at": "2026-10-16T17:55:55.126123+00:00",
+      "sha256": "ed3b1ed164800aa4a3d7bb47a12de584fe4138ef4f9f14f56f040eca2c4262d0",
+      "bytes": 1182,
+      "id": "5938-37-31",
+      "aggregate": 5938,
+      "variable": 37,
+      "label": "Produto Interno Bruto a preços correntes",
+      "unit": "Mil Reais",
+      "location": "Minas Gerais",
+      "location_id": "31",
+      "frequency": "anual",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/5938/metadados",
+      "metadata_sha256": "095d618c940e99bf0bae617cb1e5b081da2394fa1dbd16c00cd44f805cdb35a4",
+      "observations": [
+        {
+          "period": "2002",
+          "value": 124071066.0
+        },
+        {
+          "period": "2003",
+          "value": 144189094.0
+        },
+        {
+          "period": "2004",
+          "value": 171870934.0
+        },
+        {
+          "period": "2005",
+          "value": 188364436.0
+        },
+        {
+          "period": "2006",
+          "value": 212659547.0
+        },
+        {
+          "period": "2007",
+          "value": 240355239.0
+        },
+        {
+          "period": "2008",
+          "value": 278607619.0
+        },
+        {
+          "period": "2009",
+          "value": 287443848.0
+        },
+        {
+          "period": "2010",
+          "value": 351123418.0
+        },
+        {
+          "period": "2011",
+          "value": 400124687.0
+        },
+        {
+          "period": "2012",
+          "value": 442282830.0
+        },
+        {
+          "period": "2013",
+          "value": 488004903.0
+        },
+        {
+          "period": "2014",
+          "value": 516633984.0
+        },
+        {
+          "period": "2015",
+          "value": 519331213.0
+        },
+        {
+          "period": "2016",
+          "value": 544810468.0
+        },
+        {
+          "period": "2017",
+          "value": 576375545.0
+        },
+        {
+          "period": "2018",
+          "value": 614875820.0
+        },
+        {
+          "period": "2019",
+          "value": 651872684.0
+        },
+        {
+          "period": "2020",
+          "value": 682786116.0
+        },
+        {
+          "period": "2021",
+          "value": 857593214.0
+        },
+        {
+          "period": "2022",
+          "value": 906730670.0
+        },
+        {
+          "period": "2023",
+          "value": 971977551.0
+        }
+      ]
+    },
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/5938/periodos/-40/variaveis/37?localidades=N3[31,52]",
+      "retrieved_at": "2026-10-16T17:55:55.126199+00:00",
+      "sha256": "ed3b1ed164800aa4a3d7bb47a12de584fe4138ef4f9f14f56f040eca2c4262d0",
+      "bytes": 1182,
+      "id": "5938-37-52",
+      "aggregate": 5938,
+      "variable": 37,
+      "label": "Produto Interno Bruto a preços correntes",
+      "unit": "Mil Reais",
+      "location": "Goiás",
+      "location_id": "52",
+      "frequency": "anual",
+      "metadata_url": "https://servicodados.ibge.gov.br/api/v3/agregados/5938/metadados",
+      "metadata_sha256": "095d618c940e99bf0bae617cb1e5b081da2394fa1dbd16c00cd44f805cdb35a4",
+      "observations": [
+        {
+          "period": "2002",
+          "value": 38629365.0
+        },
+        {
+          "period": "2003",
+          "value": 45557889.0
+        },
+        {
+          "period": "2004",
+          "value": 51103815.0
+        },
+        {
+          "period": "2005",
+          "value": 53865113.0
+        },
+        {
+          "period": "2006",
+          "value": 61375403.0
+        },
+        {
+          "period": "2007",
+          "value": 71410568.0
+        },
+        {
+          "period": "2008",
+          "value": 82417564.0
+        },
+        {
+          "period": "2009",
+          "value": 92865743.0
+        },
+        {
+          "period": "2010",
+          "value": 106770109.0
+        },
+        {
+          "period": "2011",
+          "value": 121296721.0
+        },
+        {
+          "period": "2012",
+          "value": 138757825.0
+        },
+        {
+          "period": "2013",
+          "value": 151300175.0
+        },
+        {
+          "period": "2014",
+          "value": 165015318.0
+        },
+        {
+          "period": "2015",
+          "value": 173632450.0
+        },
+        {
+          "period": "2016",
+          "value": 181759604.0
+        },
+        {
+          "period": "2017",
+          "value": 191948301.0
+        },
+        {
+          "period": "2018",
+          "value": 195681724.0
+        },
+        {
+          "period": "2019",
+          "value": 208672492.0
+        },
+        {
+          "period": "2020",
+          "value": 224126112.0
+        },
+        {
+          "period": "2021",
+          "value": 269627874.0
+        },
+        {
+          "period": "2022",
+          "value": 318586149.0
+        },
+        {
+          "period": "2023",
+          "value": 336746975.0
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/5938/metadados",
+      "retrieved_at": "2026-10-16T17:55:55.182962+00:00",
+      "sha256": "095d618c940e99bf0bae617cb1e5b081da2394fa1dbd16c00cd44f805cdb35a4",
+      "bytes": 12058,
+      "id": "ibge-gdp-metadata",
+      "title": "PIB a preços correntes — metadados oficiais (API alternativa à página HTML bloqueada)",
+      "excerpts": [
+        {
+          "page": null,
+          "searched": "Produto Interno Bruto",
+          "quote": "{\"id\":5938,\"nome\":\"Produto interno bruto a preços correntes, impostos, líquidos de subsídios, sobre produtos a preços correntes e valor adicionado bruto a preços correntes total e por atividade econômica, e respectivas participações - Referência 2010\",\"URL\":\"https://sidra.ibge.gov.br/tabela/5938\",\"pesquisa\":\"Produto Interno Bruto dos Municípios\",\"assunto\":\"Contas Nacionais e Regionais\",\"periodicidade\":{\"frequencia\":\"anual\",\"inicio\":2002,\"fim\":2023},\"nivelTerritoria"
+        },
+        {
+          "page": null,
+          "searched": "Mil Reais",
+          "quote": "l\":[],\"IBGE\":[]},\"variaveis\":[{\"id\":37,\"nome\":\"Produto Interno Bruto a preços correntes\",\"unidade\":\"Mil Reais\",\"sumarizacao\":[\"periodo\",\"nivelTerritorial\"]},{\"id\":553,\"nome\":\"Participação do produto interno bruto a preços correntes no produto interno bruto a preços correntes da microrregião geográfica\",\"unidade\":\"%\",\"sumarizacao\":[\"nivelTerritorial\"]},{\"id\":552,\"nome\":\"Participação do produto interno bruto a preços correntes no produto interno bruto a preços correntes da mesorregião geográfica\",\"unidade\":\"%\",\"sumarizacao\":[\"nivelTerritorial\"]},"
+        }
+      ],
+      "status": "retrieved"
+    },
+    {
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb",
+      "retrieved_at": "2026-10-16T17:55:56.492661+00:00",
+      "sha256": "b3d4d618bcb169c769b57ae245442603e1ddb8bea894a584665b579161051236",
+      "bytes": 223326,
+      "id": "inep-ideb",
+      "title": "Ideb — metodologia, não nota de governante",
+      "excerpts": [
+        {
+          "page": null,
+          "searched": "aprendizagem",
+          "quote": "tas de qualidade educacional para os sistemas. O índice varia de 0 a 10. A combinação entre fluxo e aprendizagem tem o mérito de equilibrar as duas dimensões: se um sistema de ensino retiver seus alunos para obter resultados de melhor qualidade no Saeb, o fator fluxo será alterado, indicando a necessidade de melhoria do sistema. Se, ao contrário, o sistema apressar a aprovação do aluno sem qualidade, o resultado das avaliações indicará igualmente a necessidade de melhoria do sistema. O índice também é importante condutor de política pública em "
+        },
+        {
+          "page": null,
+          "searched": "fluxo",
+          "quote": "ó indicador, os resultados de dois conceitos igualmente importantes para a qualidade da educação: o fluxo escolar e as médias de desempenho nas avaliações. O Ideb é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar , e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb). O Ideb agrega ao enfoque pedagógico das avaliações em larga escala a possibilidade de resultados sintéticos, facilmente assimiláveis, e que permitem traçar metas de qualidade educacional para os sistemas. O índice varia de 0 a"
+        },
+        {
+          "page": null,
+          "searched": "indicador",
+          "quote": "ão Cívica e Cidadania (ICCS) Programa Internacional de Avaliação de Estudantes (Pisa) Dados Abertos Indicadores Educacionais Inep Data Microdados Plano de Dados Abertos Serviço de Acesso a Dados Protegidos (Sedap) Sinopses Estatísticas Listagem de pagamentos por ordem cronológica Sanções Administrativas Ferramentas e aspectos tecnológicos Agenda de Autoridades Transparência e Prestação de Contas Tratamento de Dados Pessoais Sobre Aviso de privacidade Dados do encarregado Previsão legal Finalidade Implementação da LGPD Áreas de Atuação Avaliaçõe"
+        }
+      ],
+      "status": "retrieved"
+    },
+    {
+      "url": "https://portal.tce.go.gov.br/-/sumario-disponibilizado-pelo-tce-go-trata-das-contas-do-governador-de-2025",
+      "retrieved_at": "2026-10-16T17:55:57.189467+00:00",
+      "sha256": "412cdeecd94a165f1ec6e3da756dc440b8abef04cf16bd250e72f5f9e5e6f672",
+      "bytes": 155671,
+      "id": "tce-go-2025",
+      "title": "Contas de Goiás de 2025 — parecer prévio",
+      "excerpts": [
+        {
+          "page": null,
+          "searched": "parecer favorável",
+          "quote": "cer Prévio e o submete à apreciação do Pleno. A sessão foi realizada no último dia 16 de junho, com parecer favorável à aprovação das contas e, na sequência, encaminhado à Assembleia Legislativa (Alego), a quem cabe o julgamento definitivo.. O Sumário Executivo trata dos seguintes temas: Conjuntura Econômica e Social, Ação Setorial do Governo, Gestão Orçamentária e Financeira, Gestão Fiscal, Vinculações Constitucionais, Gestão Patrimonial, Demais Aspectos da Gestão, Monitoramento das Decisões do TCE-GO, Consolidação dos Achados e Deliberações d"
+        },
+        {
+          "page": null,
+          "searched": "julgamento definitivo",
+          "quote": "à aprovação das contas e, na sequência, encaminhado à Assembleia Legislativa (Alego), a quem cabe o julgamento definitivo.. O Sumário Executivo trata dos seguintes temas: Conjuntura Econômica e Social, Ação Setorial do Governo, Gestão Orçamentária e Financeira, Gestão Fiscal, Vinculações Constitucionais, Gestão Patrimonial, Demais Aspectos da Gestão, Monitoramento das Decisões do TCE-GO, Consolidação dos Achados e Deliberações do TCE-GO. As deliberações compreendem 11 determinações ao Governo de Goiás, quatro recomendações aos Poderes e órgãos "
+        },
+        {
+          "page": null,
+          "searched": "Relatório Técnico",
+          "quote": "onibilizado pelo TCE-GO trata das Contas do Governador de 2025 Documento sistematiza informações de relatório técnico submetido ao relator person Leonardo Rocha Miranda schedule 31/07/2026 --> --> --> --> O Tribunal de Contas do Estado de Goiás (TCE-GO) disponibilizou o Sumário Executivo do Relatório Técnico sobre as Contas do Governador, exercício de 2025. O documento apresenta ao público, de forma sintética e didática, os principais dados sobre a arrecadação e os gastos anuais da administração pública estadual, aí compreendidos, além do Execu"
+        }
+      ],
+      "status": "retrieved"
+    },
+    {
+      "url": "https://www.tce.mg.gov.br/TCEMG-emite-parecer-previo-pela-aprovacao-com-ressalvas-das-contas-de-2020-do-governador.html/Noticia/1111626070",
+      "retrieved_at": "2026-10-16T17:55:57.604041+00:00",
+      "sha256": "ba54bab4f9569b3d30f25adc1ba245e0592c3af4ebf463a50bc656045dc460c2",
+      "bytes": 268129,
+      "id": "tce-mg-2020",
+      "title": "Contas de Minas de 2020 — ressalvas e pandemia",
+      "excerpts": [
+        {
+          "page": null,
+          "searched": "ressalvas",
+          "quote": "TCEMG emite parecer prévio pela aprovação com ressalvas das contas de 2020 do governador - Tribunal de Contas do Estado de Minas Gerais / TCE-MG D.O.C. Diário Oficial de Contas ACESSE O SITE COMPLETO Cancel OK --> Diário Oficial de Contas Boletins do TCE --> Siga-nos nas redes sociais: Pesquisar --> Acessibilidade AUMENTAR CONTRASTE DIMINUIR CONTRASTE Toggle navigation Página Inicial Sobre o TCEMG Conheça o TCE Histórico Histórico de Autoridades Jurisdição e Competência Prêmios Recebidos Esp"
+        },
+        {
+          "page": null,
+          "searched": "pandemia",
+          "quote": "s contas do governador. O relator e revisor do processo ressaltaram que 2020 foi o ano de início da pandemia da Covid-19, que representou queda nas receitas do Estado e aumento nas despesas na área da saúde. O TCEMG fez dezenas de determinações e recomendações ao governo estadual, como observância dos limites de gastos com pessoal, cumprimentos dos mínimos constitucionais em saúde e educação, monitoramento de renúncia de receitas e aprimoramento dos controles internos do estado. O parecer prévio do TCEMG será enviado para a Assembleia Legislati"
+        },
+        {
+          "page": null,
+          "searched": "mínimos constitucionais",
+          "quote": "mendações ao governo estadual, como observância dos limites de gastos com pessoal, cumprimentos dos mínimos constitucionais em saúde e educação, monitoramento de renúncia de receitas e aprimoramento dos controles internos do estado. O parecer prévio do TCEMG será enviado para a Assembleia Legislativa de Minas Gerais, órgão responsável pelo julgamento das contas do chefe do Poder Executivo mineiro. Assista, abaixo, às sessões de 29/06 e 07/12. As fotos estão no Flickr do TCEMG Lucas Borges / Coordenadoria de Jornalismo e Redação Razão Social: TR"
+        }
+      ],
+      "status": "retrieved"
+    },
+    {
+      "url": "https://sites.tcu.gov.br/recursos/contas-do-presidente-2024/1%20Relat%C3%B3rio%20CG2024.pdf",
+      "retrieved_at": "2026-10-16T17:55:59.473515+00:00",
+      "sha256": "c115504f703b402c7634793e8e772265d5c352c1fa64cac783d10d84f8689f8e",
+      "bytes": 4765800,
+      "id": "tcu-2024",
+      "title": "Contas federais de 2024 — relatório técnico",
+      "excerpts": [
+        {
+          "page": 2,
+          "searched": "Luiz Inácio Lula",
+          "quote": " compreendido entre 1º de janeiro e 31 de dezembro de 2024, período no qual o Excelentíssimo Senhor Luiz Inácio Lula da Silva exerceu o cargo de Presidente da República. O exame das contas presidenciais representa uma das atribuições mais relevantes, complexas e abrangentes conferidas ao TCU e possibilita à sociedade conhecer os resultados das ações governamentais, reunindo ampla gama de temas, tratados com máxima profundidade técnica. Esta Corte emite parecer prévio exclusivamente sobre as contas do Presidente da República; as relativas aos Po"
+        },
+        {
+          "page": 20,
+          "searched": "metas fiscais",
+          "quote": "r 200/2023) e enfrentou desafios significativos para alinhar a trajetória de receitas e despesas às metas fiscais estabelecidas. A arrecadação ficou abaixo do previsto, especialmente em razão da frustração de receitas oriundas da reintrodução do voto de qualidade no Conselho Administrativo de Recursos Fiscais (CARF) e de concessões; no lado das despesas, houve alta acima do esperado nos gastos primários, sobretudo em benefícios previdenciários e assistenciais, pressionando o orçamento. A meta de resultado primário foi cumprida, com superávit de"
+        },
+        {
+          "page": 35,
+          "searched": "renúncias",
+          "quote": "s. Essa exigência busca qualificar o debate público e parlamentar sobre a alocação de recursos e as renúncias fiscais no processo orçamentário."
+        }
+      ],
+      "status": "retrieved"
+    },
+    {
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894",
+      "retrieved_at": "2026-10-16T17:55:59.653680+00:00",
+      "sha256": "401aab5f93ef220549f2f2d9598ad79aaf3822b64f5b674c4cdb1dc2d2cd6aaa",
+      "bytes": 127346,
+      "id": "senado-flavio",
+      "title": "Histórico de mandato legislativo",
+      "excerpts": [
+        {
+          "page": null,
+          "searched": "Senador - RJ",
+          "quote": "Washington DC (ESTADOS UNIDOS) 09/07/2026 REQ 294/2026 - CDIR Biografia Mandatos Mandato Início Fim Senador - RJ 2019 2027 Produção Bibliográfica Publicações do Senador na Biblioteca Digital do Senado Federal Fonte: Secretaria-Geral da Mesa, Coordenação de Arquivo e Coordenação de Biblioteca. ENGLISH ESPAÑOL FRANÇAIS Intranet Servidor efetivo Servidor comissionado Servidor aposentado Pensionista Proteção de dados (LGPD) Fale com o Senado Senado Federal - Praça dos Três Poderes - Brasília DF - CEP 70165-900 | Telefone: 0800 0 61 2211"
+        },
+        {
+          "page": null,
+          "searched": "2019",
+          "quote": "nadores › Senador › Flávio Bolsonaro Flávio Bolsonaro - RJ Bloco Parlamentar Vanguarda - PL Período 2019-2027 Dados Pessoais Nome civil: Flávio Nantes Bolsonaro Data de Nascimento: 30/04/1981 Naturalidade: Resende (RJ) Gabinete: Senado Federal Anexo 1 17º Pavimento Telefones: (61) 3303-1717 / 1718 E-mail: sen.flaviobolsonaro@senado.leg.br Escritório de apoio: AVENIDA AFONSO ARINOS DE MELO FRANCO, 222. - BLOCO 2A - SALA 308. BARRA DA TIJUCA, RIO DE JANEIRO, RJ. CEP:22631-455 Telefone:(21) 3627-3800 Proposições Pronunciamentos Relatorias Votações"
+        },
+        {
+          "page": null,
+          "searched": "2027",
+          "quote": "es › Senador › Flávio Bolsonaro Flávio Bolsonaro - RJ Bloco Parlamentar Vanguarda - PL Período 2019-2027 Dados Pessoais Nome civil: Flávio Nantes Bolsonaro Data de Nascimento: 30/04/1981 Naturalidade: Resende (RJ) Gabinete: Senado Federal Anexo 1 17º Pavimento Telefones: (61) 3303-1717 / 1718 E-mail: sen.flaviobolsonaro@senado.leg.br Escritório de apoio: AVENIDA AFONSO ARINOS DE MELO FRANCO, 222. - BLOCO 2A - SALA 308. BARRA DA TIJUCA, RIO DE JANEIRO, RJ. CEP:22631-455 Telefone:(21) 3627-3800 Proposições Pronunciamentos Relatorias Votações Tran"
+        }
+      ],
+      "status": "retrieved"
+    }
+  ],
+  "errors": []
+}

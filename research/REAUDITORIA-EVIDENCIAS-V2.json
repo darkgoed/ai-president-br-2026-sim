@@ -1,0 +1,44 @@
+{
+  "A01_corrected_counts": {
+    "declared_sampled_paths": 1000000,
+    "draws": 1000000,
+    "distinct_block_sequences": 999267,
+    "repeated_block_sequences": 733,
+    "status": "pass",
+    "note": "Repetição é esperada e não foi removida; contagens agora têm significados separados."
+  },
+  "independent_projection_oracle": {
+    "sampled_paths": 1000,
+    "years_per_path": 4,
+    "status": "pass",
+    "maximum_absolute_roundoff_error": 3.126388037344441e-13
+  },
+  "current_observed_series_identities": {
+    "checked": 12,
+    "mismatches": []
+  },
+  "current_public_data_comparison": {
+    "datasets_checked": 68,
+    "mismatches": []
+  },
+  "A02_modified_value_rejected": {
+    "status": "pass",
+    "error": "Observações normalizadas divergem da resposta original"
+  },
+  "A06_publication_gate": {
+    "status": "pass",
+    "error": "Gate de publicação: fontes obrigatórias ausentes"
+  },
+  "A03_identity_swap_rejected": {
+    "status": "pass",
+    "error": "Metadados de identidade da série não conferem com catálogo"
+  },
+  "A04_existing_output_preserved": {
+    "status": "pass",
+    "files_unchanged": true
+  },
+  "A05_both_verifier_modes": {
+    "status": "pass",
+    "default_and_legacy_verified": true
+  }
+}

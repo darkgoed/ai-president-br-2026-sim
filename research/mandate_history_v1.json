@@ -1,0 +1,1363 @@
+{
+  "schema_version": 1,
+  "classification": "official_electoral_records_not_performance",
+  "retrieved_at": "2026-10-17T21:20:09.905124+00:00",
+  "rule": {
+    "years": [
+      1994,
+      1996,
+      1998,
+      2000,
+      2002,
+      2004,
+      2006,
+      2008,
+      2010,
+      2012,
+      2014,
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "url_template": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_{year}.zip",
+    "primary_key": "título eleitoral do registro 2026 (não gravado)",
+    "fallback_key": "nome civil (maiúsculas, sem acento) + data de nascimento, só quando a linha histórica não divulga o título",
+    "coverage_gap": "linhas sem título e sem nascimento não são identificáveis; contadas em rows_without_title_or_birth",
+    "elected_statuses": [
+      "ELEITO",
+      "ELEITO POR MÉDIA",
+      "ELEITO POR QP",
+      "MÉDIA"
+    ],
+    "executive_offices": [
+      "GOVERNADOR",
+      "PREFEITO",
+      "PRESIDENTE"
+    ],
+    "vice_executive_offices": [
+      "VICE-GOVERNADOR",
+      "VICE-PREFEITO",
+      "VICE-PRESIDENTE"
+    ],
+    "limits": "Totalização eleitoral não prova exercício integral, renúncia, licença, competência ou desempenho."
+  },
+  "register_2026_source": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+    "sha256": "8392f581fba66282b0341d156fd70e55599f016f4ff55aebefda7513ac0f9ed9",
+    "bytes": 3246245,
+    "checked_at": "2026-10-17T21:20:09.636381+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_1994.zip",
+      "sha256": "98d72c20fa4ad6667e30308128bc7dc372dafb0abbdd8cefc5421ffa57763dcc",
+      "bytes": 1266048,
+      "checked_at": "2026-10-17T21:20:09.909403+00:00",
+      "year": 1994,
+      "rows_scanned": 12035,
+      "members": [
+        "consulta_cand_1994_BRASIL.csv"
+      ],
+      "rows_without_title": 12035,
+      "rows_without_title_or_birth": 21
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_1996.zip",
+      "sha256": "77ef54dd5d1c20d49b386597b45859efc21d2f59405c025ced688163b7eca95b",
+      "bytes": 26156815,
+      "checked_at": "2026-10-17T21:20:10.144314+00:00",
+      "year": 1996,
+      "rows_scanned": 321790,
+      "members": [
+        "consulta_cand_1996_BRASIL.csv"
+      ],
+      "rows_without_title": 321790,
+      "rows_without_title_or_birth": 118551
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_1998.zip",
+      "sha256": "1101b90cf23dbbd6983506123bf7118f4d427622edd1aca99c05875e4e337a95",
+      "bytes": 2887535,
+      "checked_at": "2026-10-17T21:20:15.500719+00:00",
+      "year": 1998,
+      "rows_scanned": 15092,
+      "members": [
+        "consulta_cand_1998_BRASIL.csv"
+      ],
+      "rows_without_title": 87,
+      "rows_without_title_or_birth": 0
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2000.zip",
+      "sha256": "f1b29fa847acd74c739ad6c1d5efa3fb8b8412a168303fc580c6ab4972cda032",
+      "bytes": 75880065,
+      "checked_at": "2026-10-17T21:20:15.917401+00:00",
+      "year": 2000,
+      "rows_scanned": 399455,
+      "members": [
+        "consulta_cand_2000_BRASIL.csv"
+      ],
+      "rows_without_title": 766,
+      "rows_without_title_or_birth": 0
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2002.zip",
+      "sha256": "33876c4d988c17f77251d115b6548fec2b941e63d6d1062f45c4f9407d218b12",
+      "bytes": 3615898,
+      "checked_at": "2026-10-17T21:20:23.906787+00:00",
+      "year": 2002,
+      "rows_scanned": 18109,
+      "members": [
+        "consulta_cand_2002_BRASIL.csv"
+      ],
+      "rows_without_title": 318,
+      "rows_without_title_or_birth": 0
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2004.zip",
+      "sha256": "917c224c0c5de85b3f75e56ed6c5723840d04486ed28c6679894723be06194d5",
+      "bytes": 84193616,
+      "checked_at": "2026-10-17T21:20:24.373720+00:00",
+      "year": 2004,
+      "rows_scanned": 402157,
+      "members": [
+        "consulta_cand_2004_BRASIL.csv"
+      ],
+      "rows_without_title": 302,
+      "rows_without_title_or_birth": 0
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2006.zip",
+      "sha256": "6f5c0cf7ae8087782824dc4fcd447ee284daecfe2cd1402dec3670bcca739b8a",
+      "bytes": 4044252,
+      "checked_at": "2026-10-17T21:20:32.174329+00:00",
+      "year": 2006,
+      "rows_scanned": 19303,
+      "members": [
+        "consulta_cand_2006_BRASIL.csv"
+      ],
+      "rows_without_title": 0,
+      "rows_without_title_or_birth": 0
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2008.zip",
+      "sha256": "5bb3f77e70495acb49e4e88e6fb744830723a4a8f8f129f7c945b01e5ff8c8b0",
+      "bytes": 86953836,
+      "checked_at": "2026-10-17T21:20:32.663258+00:00",
+      "year": 2008,
+      "rows_scanned": 382079,
+      "members": [
+        "consulta_cand_2008_BRASIL.csv"
+      ],
+      "rows_without_title": 1,
+      "rows_without_title_or_birth": 0
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2010.zip",
+      "sha256": "761c8eb2683b0ccdfab535dc92452384bcfc95b1ca7dba9579081ea352281328",
+      "bytes": 4939410,
+      "checked_at": "2026-10-17T21:20:40.011419+00:00",
+      "year": 2010,
+      "rows_scanned": 22577,
+      "members": [
+        "consulta_cand_2010_BRASIL.csv"
+      ],
+      "rows_without_title": 0,
+      "rows_without_title_or_birth": 0
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2012.zip",
+      "sha256": "bf205075f34b7f04c902eeee36abfd3628efc2f0ee02ece0a29142e84a07e94e",
+      "bytes": 116046656,
+      "checked_at": "2026-10-17T21:20:40.621755+00:00",
+      "year": 2012,
+      "rows_scanned": 483741,
+      "members": [
+        "consulta_cand_2012_BRASIL.csv"
+      ],
+      "rows_without_title": 1122,
+      "rows_without_title_or_birth": 1122
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2014.zip",
+      "sha256": "ad31cc36d9a6c89eac3d034533fffe1964aaf038697acaf32320cb9a09151087",
+      "bytes": 4530527,
+      "checked_at": "2026-10-17T21:20:49.979434+00:00",
+      "year": 2014,
+      "rows_scanned": 26263,
+      "members": [
+        "consulta_cand_2014_BRASIL.csv"
+      ],
+      "rows_without_title": 0,
+      "rows_without_title_or_birth": 0
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2016.zip",
+      "sha256": "9fd0066979b45172870eca4f5434131d019d87f6018002a241e91d2c91658be1",
+      "bytes": 140136131,
+      "checked_at": "2026-10-17T21:20:50.574486+00:00",
+      "year": 2016,
+      "rows_scanned": 498391,
+      "members": [
+        "consulta_cand_2016_BRASIL.csv"
+      ],
+      "rows_without_title": 109,
+      "rows_without_title_or_birth": 109
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2018.zip",
+      "sha256": "57f6881f1aa036142886ae548afd275e7ee6695643a2ab62826f2ee232d3fd44",
+      "bytes": 4722704,
+      "checked_at": "2026-10-17T21:21:01.850310+00:00",
+      "year": 2018,
+      "rows_scanned": 29287,
+      "members": [
+        "consulta_cand_2018_BRASIL.csv"
+      ],
+      "rows_without_title": 108,
+      "rows_without_title_or_birth": 108
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip",
+      "sha256": "8079b01adfa406ebe38ff1617abc835f0f5f8d09d18032c410fee04427baea26",
+      "bytes": 85384126,
+      "checked_at": "2026-10-17T21:21:02.498992+00:00",
+      "year": 2020,
+      "rows_scanned": 558804,
+      "members": [
+        "consulta_cand_2020_BRASIL.csv"
+      ],
+      "rows_without_title": 284,
+      "rows_without_title_or_birth": 284
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+      "sha256": "7dcefc266347ce0f6abb7c196392e75a18cc6992eed0127bbe23306ee7e93466",
+      "bytes": 4389393,
+      "checked_at": "2026-10-17T21:21:11.988840+00:00",
+      "year": 2022,
+      "rows_scanned": 29322,
+      "members": [
+        "consulta_cand_2022_BRASIL.csv"
+      ],
+      "rows_without_title": 29,
+      "rows_without_title_or_birth": 29
+    },
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2024.zip",
+      "sha256": "aa6b3cf9dbbc9158e27da2f479066077949372a6a7b6271967e3e9a0802712ab",
+      "bytes": 63923748,
+      "checked_at": "2026-10-17T21:21:12.582665+00:00",
+      "year": 2024,
+      "rows_scanned": 463881,
+      "members": [
+        "consulta_cand_2024_BRASIL.csv"
+      ],
+      "rows_without_title": 47,
+      "rows_without_title_or_birth": 46
+    }
+  ],
+  "errors": [],
+  "name_birth_with_other_title": [],
+  "name_only_unverifiable": [],
+  "participants": {
+    "280002538811": {
+      "records": [
+        {
+          "ANO_ELEICAO": "2020",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Municipais 2020",
+          "SG_UF": "RN",
+          "SG_UE": "17612",
+          "NM_UE": "NATAL",
+          "NR_CANDIDATO": "80180",
+          "DS_CARGO": "VEREADOR",
+          "SQ_CANDIDATO": "200000724019",
+          "NM_URNA_CANDIDATO": "SAMARA MARTINS",
+          "SG_PARTIDO": "UP",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "8079b01adfa406ebe38ff1617abc835f0f5f8d09d18032c410fee04427baea26",
+          "source_member": "consulta_cand_2020_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2022",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleição Geral Federal 2022",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "80",
+          "DS_CARGO": "VICE-PRESIDENTE",
+          "SQ_CANDIDATO": "280001602703",
+          "NM_URNA_CANDIDATO": "SAMARA MARTINS",
+          "SG_PARTIDO": "UP",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "7dcefc266347ce0f6abb7c196392e75a18cc6992eed0127bbe23306ee7e93466",
+          "source_member": "consulta_cand_2022_BRASIL.csv"
+        }
+      ],
+      "elected": [],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "titulo"
+      ]
+    },
+    "280002539826": {
+      "records": [
+        {
+          "ANO_ELEICAO": "2018",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais Estaduais 2018",
+          "SG_UF": "MG",
+          "SG_UE": "MG",
+          "NM_UE": "MINAS GERAIS",
+          "NR_CANDIDATO": "30",
+          "DS_CARGO": "GOVERNADOR",
+          "SQ_CANDIDATO": "130000600702",
+          "NM_URNA_CANDIDATO": "ROMEU ZEMA",
+          "SG_PARTIDO": "NOVO",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "2º TURNO",
+          "match_rule": "titulo",
+          "source_sha256": "57f6881f1aa036142886ae548afd275e7ee6695643a2ab62826f2ee232d3fd44",
+          "source_member": "consulta_cand_2018_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2018",
+          "NR_TURNO": "2",
+          "DS_ELEICAO": "Eleições Gerais Estaduais 2018",
+          "SG_UF": "MG",
+          "SG_UE": "MG",
+          "NM_UE": "MINAS GERAIS",
+          "NR_CANDIDATO": "30",
+          "DS_CARGO": "GOVERNADOR",
+          "SQ_CANDIDATO": "130000600702",
+          "NM_URNA_CANDIDATO": "ROMEU ZEMA",
+          "SG_PARTIDO": "NOVO",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "57f6881f1aa036142886ae548afd275e7ee6695643a2ab62826f2ee232d3fd44",
+          "source_member": "consulta_cand_2018_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2022",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais Estaduais 2022",
+          "SG_UF": "MG",
+          "SG_UE": "MG",
+          "NM_UE": "MINAS GERAIS",
+          "NR_CANDIDATO": "30",
+          "DS_CARGO": "GOVERNADOR",
+          "SQ_CANDIDATO": "130001701690",
+          "NM_URNA_CANDIDATO": "ZEMA",
+          "SG_PARTIDO": "NOVO",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "7dcefc266347ce0f6abb7c196392e75a18cc6992eed0127bbe23306ee7e93466",
+          "source_member": "consulta_cand_2022_BRASIL.csv"
+        }
+      ],
+      "elected": [
+        [
+          "2018",
+          "GOVERNADOR",
+          "MG"
+        ],
+        [
+          "2022",
+          "GOVERNADOR",
+          "MG"
+        ]
+      ],
+      "elected_executive": [
+        [
+          "2018",
+          "GOVERNADOR",
+          "MG"
+        ],
+        [
+          "2022",
+          "GOVERNADOR",
+          "MG"
+        ]
+      ],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "titulo"
+      ]
+    },
+    "280002540694": {
+      "records": [],
+      "elected": [],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": []
+    },
+    "280002541457": {
+      "records": [
+        {
+          "ANO_ELEICAO": "2010",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições 2010",
+          "SG_UF": "MA",
+          "SG_UE": "MA",
+          "NM_UE": "MARANHÃO",
+          "NR_CANDIDATO": "16",
+          "DS_CARGO": "VICE-GOVERNADOR",
+          "SQ_CANDIDATO": "100000000002",
+          "NM_URNA_CANDIDATO": "HERTZ DIAS",
+          "SG_PARTIDO": "PSTU",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "761c8eb2683b0ccdfab535dc92452384bcfc95b1ca7dba9579081ea352281328",
+          "source_member": "consulta_cand_2010_BRASIL.csv",
+          "consulta_cand_status": "#NULO",
+          "status_derivation": {
+            "rule": "situação do titular da mesma chapa",
+            "head_sq": [
+              "100000000001"
+            ],
+            "head_statuses": [
+              "NÃO ELEITO"
+            ]
+          }
+        },
+        {
+          "ANO_ELEICAO": "2018",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleição Geral Federal 2018",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "16",
+          "DS_CARGO": "VICE-PRESIDENTE",
+          "SQ_CANDIDATO": "280000601174",
+          "NM_URNA_CANDIDATO": "HERTZ",
+          "SG_PARTIDO": "PSTU",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "57f6881f1aa036142886ae548afd275e7ee6695643a2ab62826f2ee232d3fd44",
+          "source_member": "consulta_cand_2018_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2020",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Municipais 2020",
+          "SG_UF": "MA",
+          "SG_UE": "09210",
+          "NM_UE": "SÃO LUÍS",
+          "NR_CANDIDATO": "16",
+          "DS_CARGO": "PREFEITO",
+          "SQ_CANDIDATO": "100000718146",
+          "NM_URNA_CANDIDATO": "HERTZ DIAS",
+          "SG_PARTIDO": "PSTU",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "8079b01adfa406ebe38ff1617abc835f0f5f8d09d18032c410fee04427baea26",
+          "source_member": "consulta_cand_2020_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2022",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais Estaduais 2022",
+          "SG_UF": "MA",
+          "SG_UE": "MA",
+          "NM_UE": "MARANHÃO",
+          "NR_CANDIDATO": "16",
+          "DS_CARGO": "GOVERNADOR",
+          "SQ_CANDIDATO": "100001600008",
+          "NM_URNA_CANDIDATO": "HERTZ DIAS",
+          "SG_PARTIDO": "PSTU",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "7dcefc266347ce0f6abb7c196392e75a18cc6992eed0127bbe23306ee7e93466",
+          "source_member": "consulta_cand_2022_BRASIL.csv"
+        }
+      ],
+      "elected": [],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "titulo"
+      ]
+    },
+    "280002542548": {
+      "records": [
+        {
+          "ANO_ELEICAO": "1994",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições 1994",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "13",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "28010001311652",
+          "NM_URNA_CANDIDATO": "LUIZ INACIO LULA DA SILVA",
+          "SG_PARTIDO": "PT",
+          "DS_SITUACAO_CANDIDATURA": "#NE",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "nome+nascimento",
+          "source_sha256": "98d72c20fa4ad6667e30308128bc7dc372dafb0abbdd8cefc5421ffa57763dcc",
+          "source_member": "consulta_cand_1994_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "1998",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Ordinárias - 1998",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "13",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "280002801000131",
+          "NM_URNA_CANDIDATO": "LULA",
+          "SG_PARTIDO": "PT",
+          "DS_SITUACAO_CANDIDATURA": "DEFERIDO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "1101b90cf23dbbd6983506123bf7118f4d427622edd1aca99c05875e4e337a95",
+          "source_member": "consulta_cand_1998_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2002",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais 2002 Primeiro Turno",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "13",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "9574",
+          "NM_URNA_CANDIDATO": "LULA",
+          "SG_PARTIDO": "PT",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "2º TURNO",
+          "match_rule": "titulo",
+          "source_sha256": "33876c4d988c17f77251d115b6548fec2b941e63d6d1062f45c4f9407d218b12",
+          "source_member": "consulta_cand_2002_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2002",
+          "NR_TURNO": "2",
+          "DS_ELEICAO": "Eleições Gerais 2002 Segundo Turno",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "13",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "9574",
+          "NM_URNA_CANDIDATO": "LULA",
+          "SG_PARTIDO": "PT",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "33876c4d988c17f77251d115b6548fec2b941e63d6d1062f45c4f9407d218b12",
+          "source_member": "consulta_cand_2002_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2006",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "ELEIÇÕES GERAIS 2006 PRIMEIRO TURNO",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "13",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "23",
+          "NM_URNA_CANDIDATO": "LULA",
+          "SG_PARTIDO": "PT",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "6f5c0cf7ae8087782824dc4fcd447ee284daecfe2cd1402dec3670bcca739b8a",
+          "source_member": "consulta_cand_2006_BRASIL.csv",
+          "consulta_cand_status": "#NULO#",
+          "status_derivation": {
+            "rule": "votos nominais do arquivo oficial de votação",
+            "turn": "2",
+            "candidate_votes": 58295042,
+            "race_votes": 95838220,
+            "competitors": 1,
+            "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip",
+            "sha256": "9bd23c339924ee761347a80590deff8bbbe2f483ff5a5b3d478998ce59ec929e"
+          }
+        },
+        {
+          "ANO_ELEICAO": "2018",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleição Geral Federal 2018",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "13",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "280000625869",
+          "NM_URNA_CANDIDATO": "LULA",
+          "SG_PARTIDO": "PT",
+          "DS_SITUACAO_CANDIDATURA": "INAPTO",
+          "DS_SIT_TOT_TURNO": "#NULO#",
+          "match_rule": "titulo",
+          "source_sha256": "57f6881f1aa036142886ae548afd275e7ee6695643a2ab62826f2ee232d3fd44",
+          "source_member": "consulta_cand_2018_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2022",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleição Geral Federal 2022",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "13",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "280001607829",
+          "NM_URNA_CANDIDATO": "LULA",
+          "SG_PARTIDO": "PT",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "2º TURNO",
+          "match_rule": "titulo",
+          "source_sha256": "7dcefc266347ce0f6abb7c196392e75a18cc6992eed0127bbe23306ee7e93466",
+          "source_member": "consulta_cand_2022_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2022",
+          "NR_TURNO": "2",
+          "DS_ELEICAO": "Eleição Geral Federal 2022",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "13",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "280001607829",
+          "NM_URNA_CANDIDATO": "LULA",
+          "SG_PARTIDO": "PT",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "7dcefc266347ce0f6abb7c196392e75a18cc6992eed0127bbe23306ee7e93466",
+          "source_member": "consulta_cand_2022_BRASIL.csv"
+        }
+      ],
+      "elected": [
+        [
+          "2002",
+          "PRESIDENTE",
+          "BR"
+        ],
+        [
+          "2006",
+          "PRESIDENTE",
+          "BR"
+        ],
+        [
+          "2022",
+          "PRESIDENTE",
+          "BR"
+        ]
+      ],
+      "elected_executive": [
+        [
+          "2002",
+          "PRESIDENTE",
+          "BR"
+        ],
+        [
+          "2006",
+          "PRESIDENTE",
+          "BR"
+        ],
+        [
+          "2022",
+          "PRESIDENTE",
+          "BR"
+        ]
+      ],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "nome+nascimento",
+        "titulo"
+      ]
+    },
+    "280002548139": {
+      "records": [
+        {
+          "ANO_ELEICAO": "2006",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "ELEIÇÕES GERAIS 2006 PRIMEIRO TURNO",
+          "SG_UF": "SP",
+          "SG_UE": "SP",
+          "NM_UE": "SÃO PAULO",
+          "NR_CANDIDATO": "25345",
+          "DS_CARGO": "DEPUTADO ESTADUAL",
+          "SQ_CANDIDATO": "10619",
+          "NM_URNA_CANDIDATO": "WILSON VETERINÁRIO",
+          "SG_PARTIDO": "PFL",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "SUPLENTE",
+          "match_rule": "titulo",
+          "source_sha256": "6f5c0cf7ae8087782824dc4fcd447ee284daecfe2cd1402dec3670bcca739b8a",
+          "source_member": "consulta_cand_2006_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2022",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais Estaduais 2022",
+          "SG_UF": "SP",
+          "SG_UE": "SP",
+          "NM_UE": "SÃO PAULO",
+          "NR_CANDIDATO": "4330",
+          "DS_CARGO": "DEPUTADO FEDERAL",
+          "SQ_CANDIDATO": "250001676832",
+          "NM_URNA_CANDIDATO": "VETERINÁRIO WILSON GRASSI",
+          "SG_PARTIDO": "PV",
+          "DS_SITUACAO_CANDIDATURA": "INAPTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "7dcefc266347ce0f6abb7c196392e75a18cc6992eed0127bbe23306ee7e93466",
+          "source_member": "consulta_cand_2022_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2024",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Municipais 2024",
+          "SG_UF": "SP",
+          "SG_UE": "71072",
+          "NM_UE": "SÃO PAULO",
+          "NR_CANDIDATO": "28200",
+          "DS_CARGO": "VEREADOR",
+          "SQ_CANDIDATO": "250002171011",
+          "NM_URNA_CANDIDATO": "VETERINÁRIO WILSON GRASSI",
+          "SG_PARTIDO": "PRTB",
+          "DS_SITUACAO_CANDIDATURA": "#NE",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "aa6b3cf9dbbc9158e27da2f479066077949372a6a7b6271967e3e9a0802712ab",
+          "source_member": "consulta_cand_2024_BRASIL.csv"
+        }
+      ],
+      "elected": [],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "titulo"
+      ]
+    },
+    "280002551544": {
+      "records": [
+        {
+          "ANO_ELEICAO": "2002",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais 2002 Primeiro Turno",
+          "SG_UF": "RJ",
+          "SG_UE": "RJ",
+          "NM_UE": "RIO DE JANEIRO",
+          "NR_CANDIDATO": "11120",
+          "DS_CARGO": "DEPUTADO ESTADUAL",
+          "SQ_CANDIDATO": "851",
+          "NM_URNA_CANDIDATO": "BOLSONARO",
+          "SG_PARTIDO": "PPB",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "33876c4d988c17f77251d115b6548fec2b941e63d6d1062f45c4f9407d218b12",
+          "source_member": "consulta_cand_2002_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2006",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "ELEIÇÕES GERAIS 2006 PRIMEIRO TURNO",
+          "SG_UF": "RJ",
+          "SG_UE": "RJ",
+          "NM_UE": "RIO DE JANEIRO",
+          "NR_CANDIDATO": "11120",
+          "DS_CARGO": "DEPUTADO ESTADUAL",
+          "SQ_CANDIDATO": "10354",
+          "NM_URNA_CANDIDATO": "FLAVIO BOLSONARO",
+          "SG_PARTIDO": "PP",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "6f5c0cf7ae8087782824dc4fcd447ee284daecfe2cd1402dec3670bcca739b8a",
+          "source_member": "consulta_cand_2006_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2010",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições 2010",
+          "SG_UF": "RJ",
+          "SG_UE": "RJ",
+          "NM_UE": "RIO DE JANEIRO",
+          "NR_CANDIDATO": "11120",
+          "DS_CARGO": "DEPUTADO ESTADUAL",
+          "SQ_CANDIDATO": "190000000070",
+          "NM_URNA_CANDIDATO": "FLAVIO BOLSONARO",
+          "SG_PARTIDO": "PP",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "761c8eb2683b0ccdfab535dc92452384bcfc95b1ca7dba9579081ea352281328",
+          "source_member": "consulta_cand_2010_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2014",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais 2014",
+          "SG_UF": "RJ",
+          "SG_UE": "RJ",
+          "NM_UE": "RIO DE JANEIRO",
+          "NR_CANDIDATO": "11120",
+          "DS_CARGO": "DEPUTADO ESTADUAL",
+          "SQ_CANDIDATO": "190000000095",
+          "NM_URNA_CANDIDATO": "FLÁVIO BOLSONARO",
+          "SG_PARTIDO": "PP",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO POR QP",
+          "match_rule": "titulo",
+          "source_sha256": "ad31cc36d9a6c89eac3d034533fffe1964aaf038697acaf32320cb9a09151087",
+          "source_member": "consulta_cand_2014_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2016",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Municipais 2016",
+          "SG_UF": "RJ",
+          "SG_UE": "60011",
+          "NM_UE": "RIO DE JANEIRO",
+          "NR_CANDIDATO": "20",
+          "DS_CARGO": "PREFEITO",
+          "SQ_CANDIDATO": "190000011736",
+          "NM_URNA_CANDIDATO": "FLÁVIO BOLSONARO",
+          "SG_PARTIDO": "PSC",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "9fd0066979b45172870eca4f5434131d019d87f6018002a241e91d2c91658be1",
+          "source_member": "consulta_cand_2016_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2018",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais Estaduais 2018",
+          "SG_UF": "RJ",
+          "SG_UE": "RJ",
+          "NM_UE": "RIO DE JANEIRO",
+          "NR_CANDIDATO": "177",
+          "DS_CARGO": "SENADOR",
+          "SQ_CANDIDATO": "190000614721",
+          "NM_URNA_CANDIDATO": "FLÁVIO BOLSONARO",
+          "SG_PARTIDO": "PSL",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "57f6881f1aa036142886ae548afd275e7ee6695643a2ab62826f2ee232d3fd44",
+          "source_member": "consulta_cand_2018_BRASIL.csv"
+        }
+      ],
+      "elected": [
+        [
+          "2002",
+          "DEPUTADO ESTADUAL",
+          "RJ"
+        ],
+        [
+          "2006",
+          "DEPUTADO ESTADUAL",
+          "RJ"
+        ],
+        [
+          "2010",
+          "DEPUTADO ESTADUAL",
+          "RJ"
+        ],
+        [
+          "2014",
+          "DEPUTADO ESTADUAL",
+          "RJ"
+        ],
+        [
+          "2018",
+          "SENADOR",
+          "RJ"
+        ]
+      ],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "titulo"
+      ]
+    },
+    "280002551547": {
+      "records": [],
+      "elected": [],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": []
+    },
+    "280002551932": {
+      "records": [
+        {
+          "ANO_ELEICAO": "1994",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições 1994",
+          "SG_UF": "GO",
+          "SG_UE": "GO",
+          "NM_UE": "GOIAS",
+          "NR_CANDIDATO": "251",
+          "DS_CARGO": "GOVERNADOR",
+          "SQ_CANDIDATO": "9030025111149",
+          "NM_URNA_CANDIDATO": "RONALDO RAMOS CAIADO",
+          "SG_PARTIDO": "PFL",
+          "DS_SITUACAO_CANDIDATURA": "#NE",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "nome+nascimento",
+          "source_sha256": "98d72c20fa4ad6667e30308128bc7dc372dafb0abbdd8cefc5421ffa57763dcc",
+          "source_member": "consulta_cand_1994_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "1998",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Ordinárias - 1998",
+          "SG_UF": "GO",
+          "SG_UE": "GO",
+          "NM_UE": "GOIÁS",
+          "NR_CANDIDATO": "2555",
+          "DS_CARGO": "DEPUTADO FEDERAL",
+          "SQ_CANDIDATO": "900000906025551",
+          "NM_URNA_CANDIDATO": "RONALDO CAIADO",
+          "SG_PARTIDO": "PFL",
+          "DS_SITUACAO_CANDIDATURA": "DEFERIDO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "1101b90cf23dbbd6983506123bf7118f4d427622edd1aca99c05875e4e337a95",
+          "source_member": "consulta_cand_1998_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2002",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais 2002 Primeiro Turno",
+          "SG_UF": "GO",
+          "SG_UE": "GO",
+          "NM_UE": "GOIAS",
+          "NR_CANDIDATO": "2555",
+          "DS_CARGO": "DEPUTADO FEDERAL",
+          "SQ_CANDIDATO": "403",
+          "NM_URNA_CANDIDATO": "RONALDO CAIADO",
+          "SG_PARTIDO": "PFL",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "33876c4d988c17f77251d115b6548fec2b941e63d6d1062f45c4f9407d218b12",
+          "source_member": "consulta_cand_2002_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2006",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "ELEIÇÕES GERAIS 2006 PRIMEIRO TURNO",
+          "SG_UF": "GO",
+          "SG_UE": "GO",
+          "NM_UE": "GOIÁS",
+          "NR_CANDIDATO": "2555",
+          "DS_CARGO": "DEPUTADO FEDERAL",
+          "SQ_CANDIDATO": "10017",
+          "NM_URNA_CANDIDATO": "RONALDO CAIADO E CAIADO",
+          "SG_PARTIDO": "PFL",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "6f5c0cf7ae8087782824dc4fcd447ee284daecfe2cd1402dec3670bcca739b8a",
+          "source_member": "consulta_cand_2006_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2010",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições 2010",
+          "SG_UF": "GO",
+          "SG_UE": "GO",
+          "NM_UE": "GOIÁS",
+          "NR_CANDIDATO": "2555",
+          "DS_CARGO": "DEPUTADO FEDERAL",
+          "SQ_CANDIDATO": "90000000105",
+          "NM_URNA_CANDIDATO": "RONALDO CAIADO",
+          "SG_PARTIDO": "DEM",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "761c8eb2683b0ccdfab535dc92452384bcfc95b1ca7dba9579081ea352281328",
+          "source_member": "consulta_cand_2010_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2014",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais 2014",
+          "SG_UF": "GO",
+          "SG_UE": "GO",
+          "NM_UE": "GOIÁS",
+          "NR_CANDIDATO": "251",
+          "DS_CARGO": "SENADOR",
+          "SQ_CANDIDATO": "90000000605",
+          "NM_URNA_CANDIDATO": "RONALDO CAIADO",
+          "SG_PARTIDO": "DEM",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "ad31cc36d9a6c89eac3d034533fffe1964aaf038697acaf32320cb9a09151087",
+          "source_member": "consulta_cand_2014_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2018",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais Estaduais 2018",
+          "SG_UF": "GO",
+          "SG_UE": "GO",
+          "NM_UE": "GOIÁS",
+          "NR_CANDIDATO": "25",
+          "DS_CARGO": "GOVERNADOR",
+          "SQ_CANDIDATO": "90000613470",
+          "NM_URNA_CANDIDATO": "RONALDO CAIADO",
+          "SG_PARTIDO": "DEM",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "57f6881f1aa036142886ae548afd275e7ee6695643a2ab62826f2ee232d3fd44",
+          "source_member": "consulta_cand_2018_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2022",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais Estaduais 2022",
+          "SG_UF": "GO",
+          "SG_UE": "GO",
+          "NM_UE": "GOIÁS",
+          "NR_CANDIDATO": "44",
+          "DS_CARGO": "GOVERNADOR",
+          "SQ_CANDIDATO": "90001646326",
+          "NM_URNA_CANDIDATO": "RONALDO CAIADO",
+          "SG_PARTIDO": "UNIÃO",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "7dcefc266347ce0f6abb7c196392e75a18cc6992eed0127bbe23306ee7e93466",
+          "source_member": "consulta_cand_2022_BRASIL.csv"
+        }
+      ],
+      "elected": [
+        [
+          "1998",
+          "DEPUTADO FEDERAL",
+          "GO"
+        ],
+        [
+          "2002",
+          "DEPUTADO FEDERAL",
+          "GO"
+        ],
+        [
+          "2006",
+          "DEPUTADO FEDERAL",
+          "GO"
+        ],
+        [
+          "2010",
+          "DEPUTADO FEDERAL",
+          "GO"
+        ],
+        [
+          "2014",
+          "SENADOR",
+          "GO"
+        ],
+        [
+          "2018",
+          "GOVERNADOR",
+          "GO"
+        ],
+        [
+          "2022",
+          "GOVERNADOR",
+          "GO"
+        ]
+      ],
+      "elected_executive": [
+        [
+          "2018",
+          "GOVERNADOR",
+          "GO"
+        ],
+        [
+          "2022",
+          "GOVERNADOR",
+          "GO"
+        ]
+      ],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "nome+nascimento",
+        "titulo"
+      ]
+    },
+    "280002551975": {
+      "records": [
+        {
+          "ANO_ELEICAO": "2008",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições 2008",
+          "SG_UF": "SP",
+          "SG_UE": "71072",
+          "NM_UE": "SÃO PAULO",
+          "NR_CANDIDATO": "21",
+          "DS_CARGO": "PREFEITO",
+          "SQ_CANDIDATO": "8882",
+          "NM_URNA_CANDIDATO": "EDMILSON COSTA",
+          "SG_PARTIDO": "PCB",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "5bb3f77e70495acb49e4e88e6fb744830723a4a8f8f129f7c945b01e5ff8c8b0",
+          "source_member": "consulta_cand_2008_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2010",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições 2010",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "21",
+          "DS_CARGO": "VICE-PRESIDENTE",
+          "SQ_CANDIDATO": "280000000018",
+          "NM_URNA_CANDIDATO": "EDMILSON COSTA",
+          "SG_PARTIDO": "PCB",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "761c8eb2683b0ccdfab535dc92452384bcfc95b1ca7dba9579081ea352281328",
+          "source_member": "consulta_cand_2010_BRASIL.csv",
+          "consulta_cand_status": "#NULO",
+          "status_derivation": {
+            "rule": "situação do titular da mesma chapa",
+            "head_sq": [
+              "280000000017"
+            ],
+            "head_statuses": [
+              "NÃO ELEITO"
+            ]
+          }
+        },
+        {
+          "ANO_ELEICAO": "2012",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleição Municipal 2012",
+          "SG_UF": "SP",
+          "SG_UE": "71072",
+          "NM_UE": "SÃO PAULO",
+          "NR_CANDIDATO": "50",
+          "DS_CARGO": "VICE-PREFEITO",
+          "SQ_CANDIDATO": "250000018941",
+          "NM_URNA_CANDIDATO": "EDMILSON COSTA",
+          "SG_PARTIDO": "PSOL",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "bf205075f34b7f04c902eeee36abfd3628efc2f0ee02ece0a29142e84a07e94e",
+          "source_member": "consulta_cand_2012_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2014",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais 2014",
+          "SG_UF": "SP",
+          "SG_UE": "SP",
+          "NM_UE": "SÃO PAULO",
+          "NR_CANDIDATO": "210",
+          "DS_CARGO": "SENADOR",
+          "SQ_CANDIDATO": "250000002333",
+          "NM_URNA_CANDIDATO": "EDMILSON COSTA",
+          "SG_PARTIDO": "PCB",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "ad31cc36d9a6c89eac3d034533fffe1964aaf038697acaf32320cb9a09151087",
+          "source_member": "consulta_cand_2014_BRASIL.csv"
+        }
+      ],
+      "elected": [],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "titulo"
+      ]
+    },
+    "280002552484": {
+      "records": [],
+      "elected": [],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": []
+    },
+    "280002552487": {
+      "records": [
+        {
+          "ANO_ELEICAO": "1996",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Municipais 1996",
+          "SG_UF": "SP",
+          "SG_UE": "71072",
+          "NM_UE": "SAO PAULO",
+          "NR_CANDIDATO": "29629",
+          "DS_CARGO": "VEREADOR",
+          "SQ_CANDIDATO": "25710721329629",
+          "NM_URNA_CANDIDATO": "RUI COSTA PIMENTA",
+          "SG_PARTIDO": "PCO",
+          "DS_SITUACAO_CANDIDATURA": "#NE",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "nome+nascimento",
+          "source_sha256": "77ef54dd5d1c20d49b386597b45859efc21d2f59405c025ced688163b7eca95b",
+          "source_member": "consulta_cand_1996_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "1998",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Ordinárias - 1998",
+          "SG_UF": "SP",
+          "SG_UE": "SP",
+          "NM_UE": "SÃO PAULO",
+          "NR_CANDIDATO": "2929",
+          "DS_CARGO": "DEPUTADO FEDERAL",
+          "SQ_CANDIDATO": "250002506029291",
+          "NM_URNA_CANDIDATO": "RUI COSTA PIMENTA",
+          "SG_PARTIDO": "PCO",
+          "DS_SITUACAO_CANDIDATURA": "DEFERIDO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "1101b90cf23dbbd6983506123bf7118f4d427622edd1aca99c05875e4e337a95",
+          "source_member": "consulta_cand_1998_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2000",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Ordinárias - 2000",
+          "SG_UF": "SP",
+          "SG_UE": "71072",
+          "NM_UE": "SAO PAULO",
+          "NR_CANDIDATO": "29",
+          "DS_CARGO": "PREFEITO",
+          "SQ_CANDIDATO": "1787",
+          "NM_URNA_CANDIDATO": "RUI COSTA PIMENTA",
+          "SG_PARTIDO": "PCO",
+          "DS_SITUACAO_CANDIDATURA": "DEFERIDO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "f1b29fa847acd74c739ad6c1d5efa3fb8b8412a168303fc580c6ab4972cda032",
+          "source_member": "consulta_cand_2000_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2002",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais 2002 Primeiro Turno",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "29",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "9570",
+          "NM_URNA_CANDIDATO": "RUI COSTA PIMENTA",
+          "SG_PARTIDO": "PCO",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "33876c4d988c17f77251d115b6548fec2b941e63d6d1062f45c4f9407d218b12",
+          "source_member": "consulta_cand_2002_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2006",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "ELEIÇÕES GERAIS 2006 PRIMEIRO TURNO",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "29",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "27",
+          "NM_URNA_CANDIDATO": "RUI COSTA PIMENTA",
+          "SG_PARTIDO": "PCO",
+          "DS_SITUACAO_CANDIDATURA": "INAPTO",
+          "DS_SIT_TOT_TURNO": "#NULO#",
+          "match_rule": "titulo",
+          "source_sha256": "6f5c0cf7ae8087782824dc4fcd447ee284daecfe2cd1402dec3670bcca739b8a",
+          "source_member": "consulta_cand_2006_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2010",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições 2010",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "29",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "280000000007",
+          "NM_URNA_CANDIDATO": "RUI COSTA PIMENTA",
+          "SG_PARTIDO": "PCO",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "761c8eb2683b0ccdfab535dc92452384bcfc95b1ca7dba9579081ea352281328",
+          "source_member": "consulta_cand_2010_BRASIL.csv"
+        },
+        {
+          "ANO_ELEICAO": "2014",
+          "NR_TURNO": "1",
+          "DS_ELEICAO": "Eleições Gerais 2014",
+          "SG_UF": "BR",
+          "SG_UE": "BR",
+          "NM_UE": "BRASIL",
+          "NR_CANDIDATO": "29",
+          "DS_CARGO": "PRESIDENTE",
+          "SQ_CANDIDATO": "280000000081",
+          "NM_URNA_CANDIDATO": "RUI COSTA PIMENTA",
+          "SG_PARTIDO": "PCO",
+          "DS_SITUACAO_CANDIDATURA": "APTO",
+          "DS_SIT_TOT_TURNO": "NÃO ELEITO",
+          "match_rule": "titulo",
+          "source_sha256": "ad31cc36d9a6c89eac3d034533fffe1964aaf038697acaf32320cb9a09151087",
+          "source_member": "consulta_cand_2014_BRASIL.csv"
+        }
+      ],
+      "elected": [],
+      "elected_executive": [],
+      "elected_vice_executive": [],
+      "match_rules_used": [
+        "nome+nascimento",
+        "titulo"
+      ]
+    }
+  },
+  "vote_sources": [
+    {
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip",
+      "sha256": "9bd23c339924ee761347a80590deff8bbbe2f483ff5a5b3d478998ce59ec929e",
+      "bytes": 130940089,
+      "checked_at": "2026-10-17T21:21:20.645328+00:00",
+      "year": "2006",
+      "races": [
+        [
+          "PRESIDENTE",
+          "BR"
+        ]
+      ]
+    }
+  ]
+}

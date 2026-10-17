@@ -1,0 +1,53 @@
+{
+  "A01_unique_paths_mislabelled": {
+    "declared_unique_paths": 1000000,
+    "draws": 1000000,
+    "distinct_block_sequences": 999267,
+    "repeated_block_sequences": 733,
+    "note": "Repetição é esperada em bootstrap com reposição; o rótulo de unicidade é incorreto."
+  },
+  "independent_projection_oracle": {
+    "sampled_paths": 1000,
+    "years_per_path": 4,
+    "status": "pass",
+    "maximum_absolute_roundoff_error": 3.126388037344441e-13
+  },
+  "current_observed_series_identities": {
+    "checked": 12,
+    "mismatches": []
+  },
+  "current_public_data_comparison": {
+    "datasets_checked": 55,
+    "mismatches": []
+  },
+  "A02_normalized_payload_not_checked_against_raw": {
+    "original": 11.9,
+    "fixture_modified_value": 1010.9,
+    "accepted_as_observed": 1010.9,
+    "original_raw_response_and_hash_preserved": true,
+    "scope": "Isolated fixture only; no actual catalog data changed."
+  },
+  "A06_empty_candidate_build": {
+    "accepted_candidates": 0,
+    "bundle_created": true
+  },
+  "A03_observed_series_identity_not_validated": {
+    "accepted_debt_sgs_id": 433,
+    "expected_debt_sgs_id": 13762,
+    "initial_debt_fraction_used": 0.008199999999999999,
+    "actual_debt_snapshot_pct_gdp": 82.87,
+    "scope": "Isolated metadata-swap fixture; original snapshot untouched."
+  },
+  "A04_stale_ranking_exports": {
+    "ranking_disabled_in_active_result": true,
+    "ranking_files_still_present": [
+      "ranking.json",
+      "ranking.csv",
+      "ranking_indicators.csv"
+    ]
+  },
+  "A05_verifier_incompatible_with_default": {
+    "exception": "KeyError",
+    "message": "'experimental_ranking'"
+  }
+}

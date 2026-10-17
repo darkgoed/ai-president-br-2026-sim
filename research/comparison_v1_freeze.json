@@ -1,0 +1,16 @@
+{
+  "frozen_at": "2026-10-17T21:04:10.292284+00:00",
+  "meaning": "Protocolo + plano + código de cálculo fixados antes desta rodada de pontuação (não é pré-registro anterior a todo contato com os dados). Alteração exige nova versão, motivo e recálculo idêntico para todos.",
+  "sha256": {
+    "research/comparison_protocol_v1.json": "be5502738e4881657ecc2c6517274e0b89b0f3ab5ff86bf6078225ec5c5d23c1",
+    "research/measurement_plan_v1.json": "bf1257833e2c744538992d384b3434e7e2111f4d135a3842de796165a3b07e54",
+    "src/comparison.py": "186a75667f26dba7485e72b86ceaca5d5efa3cb28db951c316fe7ea761efd68b"
+  },
+  "revisions": [
+    {
+      "at": "2026-10-17",
+      "file": "src/comparison.py",
+      "reason": "CSV com LF (compatível com .gitattributes); só formatação, nenhuma nota existia"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "pass",
+  "scope": "protocol_and_prompt_consistency_not_ranking_validation",
+  "primary_weight_sum": 1.0,
+  "dimensions": 5,
+  "prespecified_weight_vectors": 126,
+  "rankings_computed": 0,
+  "party_ranking_enabled": false,
+  "video_reference_exists": true,
+  "protocol_sha256": "be5502738e4881657ecc2c6517274e0b89b0f3ab5ff86bf6078225ec5c5d23c1",
+  "prompt_sha256": "77f88c0f8c3e93dd3d0426741e38a1b17f078e590f7a10a7708327de585a55df",
+  "source_run_id": "e278209a4ccbfc9a6d8c5bbd23af65f38552486708072c43113d832969d33b48",
+  "source_replay_verified": true
+}

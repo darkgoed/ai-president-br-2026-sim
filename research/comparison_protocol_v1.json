@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "protocol_id": "comparacao-politica-v1-criterios-explicitos",
+  "status": "protocol_only_not_a_computed_ranking",
+  "target_claim": "Melhor colocado nos critérios desta análise; não previsão de melhor governo",
+  "population": "Os 12 perfis configurados em data/strategies.json; documentos adicionais do arquivo preservados como contexto",
+  "unit_of_analysis": "candidatura_e_seu_programa",
+  "party_level_ranking": {
+    "enabled": false,
+    "reason": "A base atual não mede partidos como organizações; candidatura, partido, coalizão e administração não são intercambiáveis.",
+    "display": "Candidatura — partido verificado na data de corte",
+    "enable_only_after": "Protocolo separado com universo de partidos, filiações datadas, responsabilidade institucional, governos e regra de agregação fixados antes das notas"
+  },
+  "principles": {
+    "no_preselected_winner": true,
+    "no_zero_imputation": true,
+    "no_name_or_party_numeric_effect": true,
+    "no_score_by_excerpt_or_page_count": true,
+    "no_llm_generated_factual_scores": true,
+    "no_candidate_effect_from_shared_bootstrap": true,
+    "no_renormalization_of_weights_per_candidate": true,
+    "no_retrospective_tuning_for_desired_ranking": true,
+    "no_bias_free_certificate": true,
+    "no_deduction_from_family_or_coalition": true
+  },
+  "primary_weights_are_editorial_not_estimated": true,
+  "dimensions": [
+    {
+      "id": "historical_outcomes",
+      "label": "Resultados históricos contextualizados",
+      "weight": 0.2,
+      "requires": ["mesma função e esfera", "janelas e vintages comparáveis", "baseline e choques explícitos", "métricas sociais/econômicas com unidade e incerteza", "responsabilidade institucional documentada"],
+      "prohibitions": ["atribuir variação temporal automaticamente à gestão", "equiparar estado a país", "transportar desempenho de familiar ou aliado", "punir candidato sem mandato com nota zero"],
+      "current_comparable_candidate_scores_available": false
+    },
+    {
+      "id": "verified_execution",
+      "label": "Execução e entregas verificadas",
+      "weight": 0.2,
+      "requires": ["execução orçamentária e entrega física separadas", "denominadores e competências explícitos", "auditoria ou fonte primária independente da promessa", "mesmo período e tipo de função"],
+      "prohibitions": ["confundir empenho com pagamento ou entrega", "somar contas fiscais sobrepostas", "usar autodeclaração como prova de execução"],
+      "current_comparable_candidate_scores_available": false
+    },
+    {
+      "id": "fiscal_feasibility",
+      "label": "Custo e viabilidade fiscal",
+      "weight": 0.2,
+      "requires": ["custo com método e unidade", "fontes de financiamento e cronograma", "restrições legais e competências", "avaliação independente e riscos de dupla contagem"],
+      "prohibitions": ["inventar coeficiente de impacto", "premiar promessa por ter número", "contar crédito retornável inteiro como gasto público", "tratar ausência de custo estimado como custo zero"],
+      "current_comparable_candidate_scores_available": false
+    },
+    {
+      "id": "policy_evidence",
+      "label": "Qualidade e aplicabilidade da evidência das propostas",
+      "weight": 0.2,
+      "requires": ["intervenção e população claramente definidas", "estudo verificável e desenho de identificação", "limites de transferência para Brasil/escala nacional", "evidência contrária e efeitos adversos pesquisados com a mesma regra"],
+      "prohibitions": ["equacionar artigo citado e causalidade válida", "usar consenso do modelo de linguagem como fato", "pontuar quantidade de estudos ou extensão do plano"],
+      "current_comparable_candidate_scores_available": false
+    },
+    {
+      "id": "accountability",
+      "label": "Verificabilidade dos compromissos e prestação de contas",
+      "weight": 0.2,
+      "requires": ["metas verificáveis com baseline e prazo", "responsável institucional e acompanhamento", "acesso à metodologia e dados", "revisão semântica uniforme de todos os planos"],
+      "prohibitions": ["premiar estilo de redação ou retórica", "transformar detecção de palavra em nota", "usar seleção antiga de excertos como corpus equivalente"],
+      "current_comparable_candidate_scores_available": false
+    }
+  ],
+  "measurement_gate": {
+    "before_scoring": [
+      "Definir cada indicador: unidade, direção, população, período, denominador, escala de nota, limiares e justificativa",
+      "Definir o mesmo conjunto de indicadores aplicáveis a todos; se não comparável, não publicar ranking geral desse conjunto",
+      "Registrar data de corte, versão, consultas por participante, fontes consultadas e falhas",
+      "Hash do protocolo e do plano de mensuração antes de inserir notas; correção posterior exige versão e justificativa",
+      "Não há escala de notas finalizada neste protocolo; não preencher notas enquanto o plano de mensuração não for validado"
+    ],
+    "require_all_comparable_cells_present": true,
+    "unknown_value": null,
+    "unknown_is_zero": false,
+    "missingness_implies": "Não elegível para ranking geral; publicar matriz de cobertura e subcomparações claramente delimitadas, sem inventar posição para ausentes",
+    "common_indicator_intersection": "Pode ser análise secundária com escopo explícito; não substituir silenciosamente o ranking geral",
+    "current_state": "insufficient_comparable_evidence_for_overall_ranking"
+  },
+  "evidence_record_required_fields": [
+    "candidate_id", "dimension_id", "indicator_id", "source_url", "publisher", "retrieved_at", "reference_period", "source_sha256", "page_or_json_pointer", "verbatim_or_raw_value", "unit", "denominator", "calculation", "classification", "limitations", "review_status"
+  ],
+  "score_record_required_fields": ["candidate_id", "indicator_id", "score", "scale_definition_id", "evidence_ids", "calculation", "uncertainty", "review_status"],
+  "sensitivity": {
+    "primary_weights": "Cinco dimensões de peso igual; escolha editorial, não neutralidade comprovada",
+    "weight_grid": "Todos os vetores de pesos em passos de 0.1, cada peso >=0.1, soma 1.0; aplicar os mesmos vetores a todos",
+    "leave_one_dimension_out": true,
+    "treat_score_uncertainty_explicitly": true,
+    "report": ["nota primária", "empates sem desempate por nome", "faixa de posições", "mudanças de líder", "cobertura e lacunas", "casos de não comparabilidade", "quais pesos favorecem cada perfil"],
+    "first_place_frequency_is": "Robustez à grade editorial de pesos; não chance de governar bem, vencer eleição ou acertar previsão",
+    "do_not_pick_weights_after_seeing_winner": true
+  },
+  "percentage_semantics": {
+    "rubric_score_0_to_100": "Pontos na escala declarada, não porcentagem de sucesso; preferência de exibição: X/100",
+    "weight_grid_frequency": "Fração dos vetores de pesos explicitamente testados, com denominador e empates declarados; não probabilidade política",
+    "bootstrap_percentage": "Fração dos sorteios macroeconômicos comuns; não entra na nota de candidatura ou partido"
+  },
+  "required_tests": [
+    "trocar nomes/partidos/ordem não altera notas por ID",
+    "documentos/evidências idênticos produzem empate",
+    "faltante não vira zero nem renormalização favorável",
+    "cada nota tem cálculo e fonte primária inspecionável",
+    "mesma regra de coleta, janela e competência para todos",
+    "ausência de histórico comparável não vira superioridade/inferioridade automática",
+    "não há dupla contagem de células, estudo, conta fiscal ou artigo derivado da mesma pesquisa",
+    "não há empréstimo de resultado de aliado/familiar",
+    "mudar o bilhão de sorteios não altera notas documentais ou históricas",
+    "mudar a grade de pesos exige versão e afeta todos igualmente",
+    "resultado sem evidência elegível recusa produzir vencedor",
+    "CSV/JSON/relatório/vídeo concordam e reproduzem a mesma execução"
+  ],
+  "github_delivery": {
+    "include": ["protocolo e versões", "plano de mensuração", "catálogo de fontes e hashes", "matriz completa incluindo nulos", "scripts de coleta e cálculo", "testes e saídas reais", "sensibilidade e resultados desfavoráveis", "limitações e correções", "prompt e versão do modelo quando usado para triagem"],
+    "verify_clean_clone": true,
+    "exclude": ["segredos", "credenciais", "dados pessoais não necessários", "cache não redistribuível sem permissão"],
+    "publication_status": "not_committed_not_published_by_this_protocol"
+  }
+}

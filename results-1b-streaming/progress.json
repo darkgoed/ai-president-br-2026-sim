@@ -1,0 +1,24 @@
+{
+  "completed_paths": 1000000000,
+  "requested_paths": 1000000000,
+  "event_counts": {
+    "debt_increase": 811043175,
+    "unemployment_decrease": 595980669,
+    "activity_increase": 680084641,
+    "prices_increase": 1000000000,
+    "inflation_annualized_above_6pct": 394176684,
+    "activity_up_and_unemployment_down": 508150934
+  },
+  "elapsed_seconds": 350.0681280689314,
+  "status": "complete",
+  "rng_state": {
+    "bit_generator": "PCG64",
+    "state": {
+      "state": 170924422160474843735350052869530829979,
+      "inc": 263524063483550589747872479961920654543
+    },
+    "has_uint32": 1,
+    "uinteger": 184821135
+  },
+  "prefix_indices_sha256": "99c4af474498c04df2b9ef411f0c96b1c7fe627301551c1acbc5505d0516ffc4"
+}

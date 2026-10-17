@@ -75,7 +75,7 @@
   "equation_source": "https://www.imf.org/external/pubs/ft/tnm/2010/tnm1002.pdf",
   "parameter_basis": "Artificial stress ranges fixed before numerical runs. Not observed Brazil data or calibrated probabilities.",
   "default_seed": 20261015,
-  "default_runs": 1000,
+  "default_runs": 100000,
   "objective_function": null,
   "candidate_policy_effects": "unknown_not_zero"
 }

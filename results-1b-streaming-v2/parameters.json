@@ -1,0 +1,13 @@
+{
+  "runs": 1000000000,
+  "seed": 20261015,
+  "horizon_years": 4,
+  "snapshot_sha256": "6b05c02b2013c294051bb68f448c2ecef443fcf3c1606717188f31222ca68b8d",
+  "model": "joint-moving-block-v2-streaming-events-v2",
+  "event_zero_tolerance_log_space": 1e-12,
+  "code_sha256": {
+    "streaming.py": "0ba395864e9fe435631450232d4e4aa8ba6c2af00901a75cc7764dfddd05c841",
+    "empirical.py": "b8364b32da59f20cdef484fe5bbfa590b9cfc645122d7ec018242bc1baa3014e",
+    "empirical_data.py": "d94518bf20eda6f45c716c5f93385fa996c9d7f2c7f8d71dbc70900b3e812f54"
+  }
+}

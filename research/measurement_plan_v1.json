@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "plan_id": "plano-mensuracao-v1",
+  "protocol_id": "comparacao-politica-v1-criterios-explicitos",
+  "status": "frozen_before_this_scoring_round",
+  "honesty_note": "Fixado antes DESTA rodada de pontuação. O corpus de planos, os excertos antigos e as séries de MG/GO/Brasil já tinham sido vistos em rodadas anteriores; isto não é pré-registro independente anterior a todo contato com os dados.",
+  "cutoff": {
+    "date": "2026-10-15",
+    "register_source": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+    "population_rule": "Candidaturas a PRESIDENTE na eleição 6257 com DS_SITUACAO_CANDIDATO_TOT = DEFERIDO no registro oficial gerado em 15/10/2026; a lista deve coincidir com data/strategies.json. Documentos de candidaturas não deferidas (renúncia, substituição) ficam preservados como contexto, sem nota.",
+    "party_label": "SG_PARTIDO do mesmo registro; exibido como 'candidatura — partido verificado na data de corte', nunca como mérito da sigla"
+  },
+  "weights": {
+    "historical_outcomes": 0.2,
+    "verified_execution": 0.2,
+    "fiscal_feasibility": 0.2,
+    "policy_evidence": 0.2,
+    "accountability": 0.2,
+    "justification": "Peso igual é escolha editorial do protocolo v1, não neutralidade demonstrada.",
+    "bias_risk": "Peso igual dá a dimensões com pouca evidência a mesma influência das bem medidas; a grade de sensibilidade existe para expor isso."
+  },
+  "aggregation": {
+    "indicator_to_dimension": "média simples das notas dos indicadores da dimensão (todos obrigatórios)",
+    "dimension_to_composite": "soma ponderada pelos pesos acima; nenhuma renormalização por candidatura",
+    "missing": "null; qualquer célula obrigatória null torna o ranking geral inelegível",
+    "ties": "notas compostas iguais após arredondamento a 1e-9 dividem a posição (ranking de competição); nunca desempate por nome, partido ou ordem",
+    "display": "X/100 com uma casa decimal; não é porcentagem de sucesso nem probabilidade"
+  },
+  "applicability_rules": {
+    "same_elected_executive_role_for_all": {
+      "definition": "Todos os participantes precisam ter sido eleitos (totalização oficial do TSE, research/mandate_history_v1.json) para o MESMO cargo executivo titular (PRESIDENTE, GOVERNADOR ou PREFEITO). Vice, legislativo e cargos de nomeação não contam como gestão executiva comparável.",
+      "if_not_met": "dimensão não comparável para o conjunto; ranking geral bloqueado. Ausência de mandato não vira zero, nem superioridade.",
+      "bias_risk": "Exigir o mesmo cargo exclui comparações informais (estado contra país) que seriam injustas, mas também impede medir quem nunca governou; não há solução neutra dentro do v1."
+    },
+    "program_document": {
+      "definition": "Aplicável a toda candidatura com plano de governo no arquivo oficial do TSE (research/program_manifest.json).",
+      "if_not_met": "célula null; não vira zero"
+    }
+  },
+  "indicators": [
+    {
+      "id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "applicability": "same_elected_executive_role_for_all",
+      "measure": "Variação da taxa de desocupação (PNAD Contínua, IBGE agregado 6468, variável 4099) na jurisdição governada, do último trimestre antes da posse ao último trimestre completo do período, MENOS a mesma variação no Brasil",
+      "unit": "pontos percentuais (p.p.)",
+      "direction": "menor é melhor",
+      "population": "pessoas de 14 anos ou mais na jurisdição",
+      "horizon": "mandatos executivos eleitos a partir de 2012 (início da série trimestral)",
+      "denominator": "força de trabalho (definição do IBGE)",
+      "source": "https://servicodados.ibge.gov.br/api/v3/agregados/6468",
+      "transformation": {"type": "linear_clip", "raw_at_0": 3.0, "raw_at_100": -3.0},
+      "uncertainty": "erro amostral da PNADC não publicado nesta API; diferença registrada como descritiva",
+      "justification": "Mede o mercado de trabalho com o mesmo questionário em todas as UFs; descontar o Brasil remove parte do ciclo nacional.",
+      "bias_risk": "Atribui ao governante tendências que não controla; diferença contra o país não é efeito causal. Para Presidente, a jurisdição é o próprio Brasil e a diferença é sempre 0 — mais uma razão para só comparar mesmo cargo."
+    },
+    {
+      "id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "applicability": "same_elected_executive_role_for_all",
+      "measure": "Variação percentual do rendimento médio mensal real habitual (IBGE agregado 6472, variável 5933) na jurisdição governada no mesmo intervalo de HO1, MENOS a do Brasil",
+      "unit": "pontos percentuais de variação percentual",
+      "direction": "maior é melhor",
+      "population": "pessoas ocupadas de 14 anos ou mais",
+      "horizon": "igual a HO1",
+      "denominator": "rendimento do trimestre-base",
+      "source": "https://servicodados.ibge.gov.br/api/v3/agregados/6472",
+      "transformation": {"type": "linear_clip", "raw_at_0": -10.0, "raw_at_100": 10.0},
+      "uncertainty": "idem HO1",
+      "justification": "Renda real é resultado social direto e comparável entre UFs na mesma pesquisa.",
+      "bias_risk": "Idem HO1; composição da ocupação muda a média sem mudar salários."
+    },
+    {
+      "id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "applicability": "same_elected_executive_role_for_all",
+      "measure": "Média, por exercício de mandato encerrado, do parecer prévio do tribunal de contas competente sobre as contas do chefe do Executivo",
+      "unit": "categoria por exercício",
+      "direction": "aprovação > aprovação com ressalvas > rejeição",
+      "population": "exercícios fiscais encerrados com parecer publicado",
+      "horizon": "todos os exercícios do mandato com parecer publicado até a data de corte",
+      "denominator": "número de exercícios com parecer",
+      "source": "TCU (Presidente) ou TCE da UF (Governador), página oficial de cada parecer",
+      "transformation": {"type": "categorical_mean", "map": {"aprovacao": 100, "aprovacao_com_ressalvas": 50, "rejeicao": 0}},
+      "uncertainty": "categorias grossas; rigor varia entre tribunais",
+      "justification": "É a avaliação institucional formal e independente da promessa sobre a execução orçamentária.",
+      "bias_risk": "TCU e TCEs têm critérios e independência distintos; só comparável entre tribunais da mesma esfera, e mesmo assim imperfeito."
+    },
+    {
+      "id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "applicability": "program_document",
+      "measure": "Entre os compromissos do plano que alteram despesa ou receita (codificação manual dupla do plano integral, com manual de codificação versionado), fração que declara custo em unidade monetária E fonte de financiamento",
+      "unit": "fração (0–1)",
+      "direction": "maior é melhor",
+      "population": "compromissos fiscais do plano integral",
+      "horizon": "mandato 2027–2030",
+      "denominator": "compromissos codificados como fiscais",
+      "source": "PDF oficial do plano (archive_member e sha256 em research/program_manifest.json)",
+      "transformation": {"type": "linear_clip", "raw_at_0": 0.0, "raw_at_100": 1.0},
+      "uncertainty": "concordância entre codificadores (kappa) obrigatória; intervalo pela discordância",
+      "justification": "Declarar custo e fonte é condição mínima para avaliar viabilidade.",
+      "bias_risk": "Premia transparência declarada, não custo correto; plano curto com poucos compromissos pode ter fração alta. Não é avaliação independente de custo."
+    },
+    {
+      "id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "applicability": "program_document",
+      "measure": "Para os compromissos de maior gasto declarado ou, se não houver gasto, os cinco primeiros por ordem no documento, fração com intervenção/população definidas e estudo verificável com desenho de identificação, revisado com a mesma busca de evidência contrária",
+      "unit": "fração (0–1)",
+      "direction": "maior é melhor",
+      "population": "compromissos selecionados pela regra acima",
+      "horizon": "literatura disponível na data de corte",
+      "denominator": "compromissos selecionados",
+      "source": "plano oficial + estudos primários localizados (DOI/URL e hash)",
+      "transformation": {"type": "linear_clip", "raw_at_0": 0.0, "raw_at_100": 1.0},
+      "uncertainty": "revisão dupla; discordância vira intervalo",
+      "justification": "Distingue proposta testada de proposta sem base, sem contar citações.",
+      "bias_risk": "Áreas com mais pesquisa (educação, saúde) favorecem planos focados nelas; a regra de seleção influencia o resultado."
+    },
+    {
+      "id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "applicability": "program_document",
+      "measure": "Fração dos compromissos do plano integral (codificação manual dupla) com linha de base, meta numérica e prazo",
+      "unit": "fração (0–1)",
+      "direction": "maior é melhor",
+      "population": "todos os compromissos codificados do plano",
+      "horizon": "mandato 2027–2030",
+      "denominator": "compromissos codificados",
+      "source": "PDF oficial do plano",
+      "transformation": {"type": "linear_clip", "raw_at_0": 0.0, "raw_at_100": 1.0},
+      "uncertainty": "kappa entre codificadores; intervalo pela discordância",
+      "justification": "Meta com base e prazo permite cobrança posterior.",
+      "bias_risk": "Premia formato de redação; detecção automática de números NÃO substitui a codificação (é só triagem)."
+    }
+  ],
+  "required_inputs_not_yet_available": {
+    "EX1_parecer_previo_contas": "coleta dos pareceres por exercício (TCU/TCE) — só aplicável se a regra de mesmo cargo for satisfeita",
+    "FF1_custo_e_fonte_declarados": "manual de codificação + dupla codificação humana dos 12 planos integrais",
+    "PE1_evidencia_verificavel": "dupla revisão humana com busca uniforme de evidência contrária",
+    "AC1_metas_verificaveis": "manual de codificação + dupla codificação humana dos 12 planos integrais"
+  },
+  "llm_policy": "Modelos de linguagem podem sugerir critérios e triagem; não preenchem raw_value nem notas. Toda célula exige evidência primária com hash e revisão humana registrada."
+}

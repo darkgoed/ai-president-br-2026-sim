@@ -1,0 +1,39 @@
+id,label,value,unit,definition,classification
+initial_debt,Dívida inicial,82.86999999999998,% PIB,Dívida no ano zero.,observed
+final_debt,Dívida final média,111.55616549605425,% PIB,Média entre trajetórias no último ano.,hypothetical_not_forecast
+final_median,Dívida final: mediana,109.19881523356526,% PIB,Distribuição artificial da dívida final.,hypothetical_not_forecast
+final_std,Dívida final: desvio amostral,13.841746585798795,% PIB,Distribuição artificial da dívida final.,hypothetical_not_forecast
+final_min,Dívida final: mínima,85.75195049391414,% PIB,Distribuição artificial da dívida final.,hypothetical_not_forecast
+final_max,Dívida final: máxima,155.38187508778597,% PIB,Distribuição artificial da dívida final.,hypothetical_not_forecast
+final_q2.5,Dívida final: percentil 2.5,91.46511584897489,% PIB,Quantil de stress; não é intervalo de confiança de previsão.,hypothetical_not_forecast
+final_q10,Dívida final: percentil 10,96.99425694433523,% PIB,Quantil de stress; não é intervalo de confiança de previsão.,hypothetical_not_forecast
+final_q25,Dívida final: percentil 25,102.28913214551531,% PIB,Quantil de stress; não é intervalo de confiança de previsão.,hypothetical_not_forecast
+final_q75,Dívida final: percentil 75,116.77273946353014,% PIB,Quantil de stress; não é intervalo de confiança de previsão.,hypothetical_not_forecast
+final_q90,Dívida final: percentil 90,136.58831946971785,% PIB,Quantil de stress; não é intervalo de confiança de previsão.,hypothetical_not_forecast
+final_q97.5,Dívida final: percentil 97.5,145.5540875440931,% PIB,Quantil de stress; não é intervalo de confiança de previsão.,hypothetical_not_forecast
+debt_change,Variação total da dívida,28.68616549605425,p.p. PIB,Média de dívida final menos inicial.,hypothetical_not_forecast
+annual_debt_change,Variação anual média da dívida,7.171541374013562,p.p. PIB/ano,Média das diferenças anuais.,hypothetical_not_forecast
+peak_debt,Pico médio da dívida,111.56191686630605,% PIB,"Média dos máximos por trajetória, incluindo ano zero.",hypothetical_not_forecast
+worst_tail,Dívida média na cauda superior de 10%,143.15757751483486,% PIB,Média das trajetórias com dívida final igual ou superior ao percentil 90; inclui empates.,hypothetical_not_forecast
+debt_increases,Trajetórias com dívida crescente no horizonte,100.0,% trajetórias,Frequência simulada de dívida final > inicial; não probabilidade do Brasil.,hypothetical_not_forecast
+debt_decreases,Trajetórias com dívida menor no horizonte,0.0,% trajetórias,Frequência simulada de dívida final < inicial.,hypothetical_not_forecast
+all_years_increase,Alta da dívida em todos os anos,94.1,% trajetórias,Todos os incrementos anuais estritamente positivos.,hypothetical_not_forecast
+end_above_80,Dívida final acima de 80% PIB,100.0,% trajetórias,"Frequência estritamente acima de 80% PIB no último ano; limiar ilustrativo, não limite legal.",hypothetical_not_forecast
+ever_above_80,Dívida supera 80% PIB durante o mandato,100.0,% trajetórias,"Considera anos simulados, excluindo ano zero; limiar ilustrativo.",hypothetical_not_forecast
+end_above_90,Dívida final acima de 90% PIB,98.2,% trajetórias,"Frequência estritamente acima de 90% PIB no último ano; limiar ilustrativo, não limite legal.",hypothetical_not_forecast
+ever_above_90,Dívida supera 90% PIB durante o mandato,98.2,% trajetórias,"Considera anos simulados, excluindo ano zero; limiar ilustrativo.",hypothetical_not_forecast
+end_above_100,Dívida final acima de 100% PIB,81.8,% trajetórias,"Frequência estritamente acima de 100% PIB no último ano; limiar ilustrativo, não limite legal.",hypothetical_not_forecast
+ever_above_100,Dívida supera 100% PIB durante o mandato,81.8,% trajetórias,"Considera anos simulados, excluindo ano zero; limiar ilustrativo.",hypothetical_not_forecast
+end_above_120,Dívida final acima de 120% PIB,18.6,% trajetórias,"Frequência estritamente acima de 120% PIB no último ano; limiar ilustrativo, não limite legal.",hypothetical_not_forecast
+ever_above_120,Dívida supera 120% PIB durante o mandato,18.6,% trajetórias,"Considera anos simulados, excluindo ano zero; limiar ilustrativo.",hypothetical_not_forecast
+interest_mean,Juros nominais efetivos médios,10.277835786744129,% a.a.,Média dos parâmetros efetivamente sorteados.,hypothetical_not_forecast
+growth_mean,Crescimento nominal médio,3.644082482213125,% a.a.,Média dos parâmetros efetivamente sorteados.,hypothetical_not_forecast
+primary_mean,Superávit primário médio,-1.0585153092350679,% PIB,Média dos parâmetros efetivamente sorteados.,hypothetical_not_forecast
+interest_growth_spread,Diferença juros–crescimento nominal,6.6337533045310035,p.p./ano,Média de juros nominais menos crescimento nominal.,hypothetical_not_forecast
+interest_cost,Juros sobre estoque inicial no primeiro ano,8.256144288857337,% PIB,i[1] × d[0] / (1 + g[1]) × 100.,hypothetical_not_forecast
+mean_interest_cost,Custo anual médio dos juros,9.260452299042408,% PIB,"Média dos juros sobre estoque anterior, em PIB corrente.",hypothetical_not_forecast
+stabilizing_primary,Primário estabilizador no primeiro ano,5.367945233673729,% PIB,((1+i)/(1+g) − 1) × dívida inicial × 100.,hypothetical_not_forecast
+mean_stabilizing_primary,Primário estabilizador médio,6.113026064778496,% PIB,Primário necessário para manter dívida/PIB de cada ano anterior.,hypothetical_not_forecast
+fiscal_gap,Ajuste primário médio para estabilizar dívida,7.171541374013564,p.p. PIB,Primário estabilizador menos primário sorteado; positivo indica ajuste necessário.,hypothetical_not_forecast
+primary_deficit_years,Anos com déficit primário,74.725,% anos-trajetória,Fração de observações anuais com primário negativo.,hypothetical_not_forecast
+snowball_positive_years,Anos com efeito bola de neve positivo,97.95,% anos-trajetória,Fração anual com contribuição juros/crescimento elevando dívida.,hypothetical_not_forecast

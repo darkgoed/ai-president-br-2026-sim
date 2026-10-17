@@ -1,0 +1,80 @@
+{
+  "regressions": {
+    "A01_corrected_counts": {
+      "declared_sampled_paths": 1000000,
+      "draws": 1000000,
+      "distinct_block_sequences": 999267,
+      "repeated_block_sequences": 733,
+      "status": "pass",
+      "note": "Repetição é esperada e não foi removida; contagens agora têm significados separados."
+    },
+    "independent_projection_oracle": {
+      "sampled_paths": 1000,
+      "years_per_path": 4,
+      "status": "pass",
+      "maximum_absolute_roundoff_error": 3.126388037344441e-13
+    },
+    "current_observed_series_identities": {
+      "checked": 12,
+      "mismatches": []
+    },
+    "current_public_data_comparison": {
+      "datasets_checked": 68,
+      "mismatches": []
+    },
+    "A02_modified_value_rejected": {
+      "status": "pass",
+      "error": "Observações normalizadas divergem da resposta original"
+    },
+    "A06_publication_gate": {
+      "status": "pass",
+      "error": "Gate de publicação: fontes obrigatórias ausentes"
+    },
+    "A03_identity_swap_rejected": {
+      "status": "pass",
+      "error": "Metadados de identidade da série não conferem com catálogo"
+    },
+    "A04_existing_output_preserved": {
+      "status": "pass",
+      "files_unchanged": true
+    },
+    "A05_both_verifier_modes": {
+      "status": "pass",
+      "default_and_legacy_verified": true
+    }
+  },
+  "integrated_verification": {
+    "status": "pass",
+    "records": 29467,
+    "source_hashes_verified": true,
+    "normalized_responses_revalidated": true,
+    "derived_metrics_and_multihorizon_backtests_reproduced": true,
+    "input_hashes_verified": true,
+    "jsonl_matches_sqlite": true,
+    "candidate_observed_or_simulated_impacts": 0,
+    "limits": "Integridade técnica não verifica a verdade das declarações nem prova ausência de viés."
+  },
+  "empirical_verification": {
+    "status": "pass",
+    "run_id": "2f64482822cb4cf85380263916ea8a2ab20fb3c6842fe9b6435ab4f70b39414e",
+    "all_paths_replayed_exactly": 1000000,
+    "seed_reproduced_across_different_batch_sizes": true,
+    "artifact_hashes_verified": true,
+    "backtest_reproduced": true,
+    "backtest_origins": 9,
+    "candidate_effects_invented": false,
+    "full_programs": 12,
+    "pages_scanned": 788,
+    "fiscal_reports": 9,
+    "source_errors": []
+  },
+  "analysis_counts": {
+    "validated_datasets": 68,
+    "series_groups": 308,
+    "same_period_yoy_comparisons": 9660,
+    "derived_simulated_metric_distributions": 48,
+    "duplicate_cells": 374,
+    "conflicting_cells": 0
+  },
+  "final_bundle": "ba6d43611fbffb6eade894c88d26b909b7523beb8a76542d920b664f33c083e5"
+}

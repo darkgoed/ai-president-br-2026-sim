@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://api.worldbank.org/v2/indicator/SE.XPD.TOTL.GD.ZS?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 2,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SE.XPD.TOTL.GD.ZS?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 3,
+      "url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.KD?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 4,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.KD?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 5,
+      "url": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.KD.ZG?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 6,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 7,
+      "url": "https://api.worldbank.org/v2/indicator/FP.CPI.TOTL.ZG?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 8,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 9,
+      "url": "https://api.worldbank.org/v2/indicator/SL.TLF.CACT.ZS?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 10,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SL.TLF.CACT.ZS?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 11,
+      "url": "https://api.worldbank.org/v2/indicator/SL.TLF.CACT.FE.ZS?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 12,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SL.TLF.CACT.FE.ZS?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 13,
+      "url": "https://api.worldbank.org/v2/indicator/SL.EMP.TOTL.SP.ZS?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 14,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SL.EMP.TOTL.SP.ZS?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 15,
+      "url": "https://api.worldbank.org/v2/indicator/SL.UEM.1524.ZS?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 16,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.1524.ZS?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 17,
+      "url": "https://api.worldbank.org/v2/indicator/SI.POV.DDAY?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 18,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SI.POV.DDAY?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 19,
+      "url": "https://api.worldbank.org/v2/indicator/SH.UHC.SRVS.CV.XD?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 20,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SH.UHC.SRVS.CV.XD?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 21,
+      "url": "https://api.worldbank.org/v2/indicator/SH.TBS.INCD?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 22,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SH.TBS.INCD?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 23,
+      "url": "https://api.worldbank.org/v2/indicator/EG.FEC.RNEW.ZS?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 24,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/EG.FEC.RNEW.ZS?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 25,
+      "url": "https://api.worldbank.org/v2/indicator/AG.LND.FRST.ZS?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 26,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/AG.LND.FRST.ZS?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 27,
+      "url": "https://api.worldbank.org/v2/indicator/BX.KLT.DINV.WD.GD.ZS?format=json",
+      "title": "",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 28,
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/BX.KLT.DINV.WD.GD.ZS?format=json&date=2000:2025&per_page=100",
+      "title": "",
+      "accessed": "2026-10-16"
+    }
+  ]
+}

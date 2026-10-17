@@ -1,0 +1,871 @@
+{
+  "schema_version": 1,
+  "plan_id": "plano-mensuracao-v1",
+  "protocol_id": "comparacao-politica-v1-criterios-explicitos",
+  "input_hashes": {
+    "measurement_plan_v1.json": "bf1257833e2c744538992d384b3434e7e2111f4d135a3842de796165a3b07e54",
+    "comparison_protocol_v1.json": "be5502738e4881657ecc2c6517274e0b89b0f3ab5ff86bf6078225ec5c5d23c1",
+    "mandate_history_v1.json": "633d9627f1308bf541f14ef1a84b8ccd0caff2062ea2421192563a90adeadae3",
+    "electoral_register.json": "126277c5ce946ba77aaadeb8430c8fdfa951e1252ccf1755500ab7582f5dad80",
+    "program_manifest.json": "5c6f57603e78b9ed9559b79571cd6d6f5d2100373081a95f72ab77c507a5be7d",
+    "strategies.json": "c36ff6657fab1eef6ed4de649d2f1242efa6ac8d05a91e0248b3451c7c77660e",
+    "comparison_evidence_v1.json": null
+  },
+  "participants": [
+    {
+      "candidate_id": "280002551547",
+      "ballot_name": "ESCRITOR AUGUSTO CURY",
+      "party_at_cutoff": "AVANTE"
+    },
+    {
+      "candidate_id": "280002552484",
+      "ballot_name": "CLARIANA BARAO",
+      "party_at_cutoff": "DC"
+    },
+    {
+      "candidate_id": "280002551975",
+      "ballot_name": "EDMILSON COSTA",
+      "party_at_cutoff": "PCB"
+    },
+    {
+      "candidate_id": "280002551544",
+      "ballot_name": "FLAVIO BOLSONARO",
+      "party_at_cutoff": "PL"
+    },
+    {
+      "candidate_id": "280002541457",
+      "ballot_name": "HERTZ DIAS",
+      "party_at_cutoff": "PSTU"
+    },
+    {
+      "candidate_id": "280002542548",
+      "ballot_name": "LULA",
+      "party_at_cutoff": "PT"
+    },
+    {
+      "candidate_id": "280002540694",
+      "ballot_name": "RENAN SANTOS",
+      "party_at_cutoff": "MISSÃO"
+    },
+    {
+      "candidate_id": "280002539826",
+      "ballot_name": "ZEMA",
+      "party_at_cutoff": "NOVO"
+    },
+    {
+      "candidate_id": "280002551932",
+      "ballot_name": "RONALDO CAIADO",
+      "party_at_cutoff": "PSD"
+    },
+    {
+      "candidate_id": "280002552487",
+      "ballot_name": "RUI COSTA PIMENTA",
+      "party_at_cutoff": "PCO"
+    },
+    {
+      "candidate_id": "280002538811",
+      "ballot_name": "SAMARA",
+      "party_at_cutoff": "UP"
+    },
+    {
+      "candidate_id": "280002548139",
+      "ballot_name": "VETERINÁRIO WILSON GRASSI",
+      "party_at_cutoff": "DEMOCRATA"
+    }
+  ],
+  "applicability": {
+    "same_elected_executive_role_for_all": {
+      "met": false,
+      "common_roles": [],
+      "per_candidate": {
+        "280002551547": [],
+        "280002552484": [],
+        "280002551975": [],
+        "280002551544": [],
+        "280002541457": [],
+        "280002542548": [
+          "PRESIDENTE"
+        ],
+        "280002540694": [],
+        "280002539826": [
+          "GOVERNADOR"
+        ],
+        "280002551932": [
+          "GOVERNADOR"
+        ],
+        "280002552487": [],
+        "280002538811": [],
+        "280002548139": []
+      },
+      "without_elected_executive": [
+        "280002538811",
+        "280002540694",
+        "280002541457",
+        "280002548139",
+        "280002551544",
+        "280002551547",
+        "280002551975",
+        "280002552484",
+        "280002552487"
+      ]
+    },
+    "program_document": {
+      "met": true,
+      "missing": []
+    }
+  },
+  "cells_total": 72,
+  "cells_scored": 0,
+  "coverage_by_dimension": {
+    "historical_outcomes": 0,
+    "verified_execution": 0,
+    "fiscal_feasibility": 0,
+    "policy_evidence": 0,
+    "accountability": 0
+  },
+  "cells": [
+    {
+      "candidate_id": "280002551547",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551547",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551547",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551547",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551547",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551547",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552484",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552484",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552484",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552484",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552484",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552484",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551975",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551975",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551975",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551975",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551975",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551975",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551544",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551544",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551544",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551544",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551544",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551544",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002541457",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002541457",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002541457",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002541457",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002541457",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002541457",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002542548",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002542548",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002542548",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002542548",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002542548",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002542548",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002540694",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002540694",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002540694",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002540694",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002540694",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002540694",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002539826",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002539826",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002539826",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002539826",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002539826",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002539826",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551932",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551932",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551932",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551932",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551932",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002551932",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552487",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552487",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552487",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552487",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552487",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002552487",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002538811",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002538811",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002538811",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002538811",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002538811",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002538811",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002548139",
+      "indicator_id": "HO1_desocupacao_relativa",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002548139",
+      "indicator_id": "HO2_rendimento_real_relativo",
+      "dimension": "historical_outcomes",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002548139",
+      "indicator_id": "EX1_parecer_previo_contas",
+      "dimension": "verified_execution",
+      "score": null,
+      "status": "not_comparable_for_set",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002548139",
+      "indicator_id": "FF1_custo_e_fonte_declarados",
+      "dimension": "fiscal_feasibility",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002548139",
+      "indicator_id": "PE1_evidencia_verificavel",
+      "dimension": "policy_evidence",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    },
+    {
+      "candidate_id": "280002548139",
+      "indicator_id": "AC1_metas_verificaveis",
+      "dimension": "accountability",
+      "score": null,
+      "status": "missing_evidence",
+      "evidence_ids": [],
+      "raw_value": null
+    }
+  ],
+  "dimension_scores": {
+    "280002551547": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002552484": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002551975": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002551544": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002541457": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002542548": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002540694": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002539826": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002551932": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002552487": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002538811": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    },
+    "280002548139": {
+      "historical_outcomes": null,
+      "verified_execution": null,
+      "fiscal_feasibility": null,
+      "policy_evidence": null,
+      "accountability": null
+    }
+  },
+  "overall_ranking_eligible": false,
+  "blockers": [
+    "Nenhum cargo executivo titular foi vencido por todos os 12 participantes; resultados históricos e execução verificada não são comparáveis para o conjunto.",
+    "Indicadores sem evidência revisada para todos: AC1_metas_verificaveis, FF1_custo_e_fonte_declarados, PE1_evidencia_verificavel"
+  ],
+  "winner": null,
+  "ranking": null,
+  "sensitivity": null,
+  "subcomparisons": "nenhuma publicada: nenhuma célula tem evidência revisada"
+}

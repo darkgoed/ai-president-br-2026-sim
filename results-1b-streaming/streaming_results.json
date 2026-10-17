@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "classification": "conditional_bootstrap_event_frequencies_not_real_world_probabilities",
+  "run_id": "8380a9336d8d8fe6fbac1ca07ef33e65bcae6520ddfb5d29b3be975ea1332df9",
+  "parameters": {
+    "runs": 1000000000,
+    "seed": 20261015,
+    "horizon_years": 4,
+    "snapshot_sha256": "6b05c02b2013c294051bb68f448c2ecef443fcf3c1606717188f31222ca68b8d",
+    "model": "joint-moving-block-v2-streaming-events-v1",
+    "code_sha256": {
+      "streaming.py": "8177f2ae5751dccd70c6f85216482e92c68e45babc00f4b29ce6bbd1fd1c8bf0",
+      "empirical.py": "b8364b32da59f20cdef484fe5bbfa590b9cfc645122d7ec018242bc1baa3014e",
+      "empirical_data.py": "d94518bf20eda6f45c716c5f93385fa996c9d7f2c7f8d71dbc70900b3e812f54"
+    }
+  },
+  "created_at": "2026-10-17T18:52:41.429884+00:00",
+  "counts": {
+    "sampled_paths": 1000000000,
+    "sampled_annual_blocks": 4000000000,
+    "available_annual_blocks": 162,
+    "historical_months": 174
+  },
+  "events": {
+    "debt_increase": "Dívida/PIB final maior que a inicial",
+    "unemployment_decrease": "Desocupação final menor que a inicial",
+    "activity_increase": "IBC-Br final maior que o inicial — não é PIB",
+    "prices_increase": "Nível de preços final maior que o inicial",
+    "inflation_annualized_above_6pct": "Inflação anualizada de quatro anos acima de 6%; limiar descritivo, não meta oficial",
+    "activity_up_and_unemployment_down": "IBC-Br cresce e desocupação diminui simultaneamente"
+  },
+  "event_counts": {
+    "debt_increase": 811043175,
+    "unemployment_decrease": 595980669,
+    "activity_increase": 680084641,
+    "prices_increase": 1000000000,
+    "inflation_annualized_above_6pct": 394176684,
+    "activity_up_and_unemployment_down": 508150934
+  },
+  "percentages": {
+    "debt_increase": 81.10431750000001,
+    "unemployment_decrease": 59.5980669,
+    "activity_increase": 68.0084641,
+    "prices_increase": 100.0,
+    "inflation_annualized_above_6pct": 39.4176684,
+    "activity_up_and_unemployment_down": 50.8150934
+  },
+  "numerical_mc_se_percentage_points": {
+    "debt_increase": 0.0012379504969340228,
+    "unemployment_decrease": 0.001551733582733558,
+    "activity_increase": 0.0014750238034550531,
+    "prices_increase": 0.0,
+    "inflation_annualized_above_6pct": 0.001545320115027188,
+    "activity_up_and_unemployment_down": 0.0015809287215903431
+  },
+  "indices_sha256": "99c4af474498c04df2b9ef411f0c96b1c7fe627301551c1acbc5505d0516ffc4",
+  "elapsed_seconds": 350.0688342710491,
+  "history_start": "2012-03",
+  "initial_reference": "2026-08",
+  "government_ranking": null,
+  "candidate_effects_identified": false,
+  "limitations": [
+    "Frequências condicionais às hipóteses e ao histórico, não probabilidades de governos, eleições ou mundo real.",
+    "Sorteios com reposição; não são trajetórias únicas nem observações independentes do Brasil.",
+    "Não guarda caminhos/quantis; guarda contagens inteiras, seed, hash de todos os índices e snapshot para replay.",
+    "Erro Monte Carlo mede apenas ruído de amostragem do modelo; não incerteza causal, viés ou erro preditivo.",
+    "Mesmo modelo histórico; o bilhão não melhora o backtest nem cria diferenças identificadas entre candidatos."
+  ]
+}

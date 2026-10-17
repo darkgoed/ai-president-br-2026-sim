@@ -7,3 +7,11 @@ __pycache__/
 *.mp3
 *.wav
 .env*
+# Saídas grandes regeneráveis (100 MB–300 MB cada); hashes e comandos em README/AUDIT. Não versionadas.
+results-100k/
+results-1m/
+results-1m-v2/
+results-integrated/
+results-integrated-v2/
+results-integrated-v3/
+results-integrated-v4/

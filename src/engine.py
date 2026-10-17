@@ -5,6 +5,7 @@ import hashlib
 import json
 import platform
 import numpy as np
+from .metrics import fiscal_metrics
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -33,7 +34,7 @@ def describe(values):
             'min': float(values.min()), 'max': float(values.max())}
 
 
-def simulate(config, profiles, runs=1000, seed=20261015, scenario='all',
+def simulate(config, profiles, runs=100_000, seed=20261015, scenario='all',
              shifts=None, uncertainty_scale=1.0, initial_debt=None, weights=None):
     """Um benchmark compartilhado; efeitos políticos desconhecidos continuam null.
 
@@ -110,6 +111,7 @@ def simulate(config, profiles, runs=1000, seed=20261015, scenario='all',
                           'scenarios_assessed': runs, 'reference_run_id': digest(params),
                           'outcomes': {key: None for key in p['axes']}} for p in profiles],
             'reference': {'unit': 'percent_gdp', 'horizon_years': years,
+                          'metrics': fiscal_metrics(debt, draws),
                           'summary': describe(end),
                           'by_scenario': {key: describe(end[labels == i]) for i, key in enumerate(keys)
                                           if (labels == i).sum() >= 2},
