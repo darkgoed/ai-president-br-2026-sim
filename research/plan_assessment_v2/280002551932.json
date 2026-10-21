@@ -1,0 +1,349 @@
+{
+ "candidate_id": "280002551932",
+ "assessor": "claude-opus-5-5",
+ "pages_read_in_full": [
+  2,
+  3,
+  5,
+  6,
+  12,
+  13,
+  14,
+  15,
+  16,
+  18,
+  32,
+  33,
+  50,
+  52,
+  75,
+  77,
+  79,
+  100
+ ],
+ "notes": "100 págs; cada tema tem sumário, diagnóstico, propostas, indicadores.",
+ "cells": [
+  {
+   "candidate_id": "280002551932",
+   "dimension": "economia",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 15,
+   "quote": "segurança para novas formas de trabalho e redução dos custos que empurram pessoas e empresas à informalidade",
+   "justification": "Doze linhas de proposta com escopo, majoritariamente diretrizes sem desenho operacional/responsável.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "economia",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 14,
+   "quote": "Entre 1981 e 2024, a produtividade por hora trabalhada cresceu apenas cerca de 0,5% ao ano.",
+   "justification": "Dados ligados ao objetivo (investimento 17%→25%); sem fonte nomeada (C3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "economia",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 14,
+   "quote": "A consolidação fiscal é condição necessária, mas não suficiente.",
+   "justification": "Restrição genérica; sem trade-off específico.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "saude",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 79,
+   "quote": "Organizar hemodinâmica regional 24/7, ECG conectado no SAMU e trombólise pré-hospitalar onde o acesso à angioplastia não ocorrer no tempo recomendado.",
+   "justification": "Conjunto articulado de redes com desenho operacional (rede infarto/AVC, fila por risco clínico, centrais de comando).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "saude",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 75,
+   "quote": "Em 2022, já éramos mais de 32 milhões de brasileiros com 60 anos ou mais.",
+   "justification": "Dado demográfico ligado às redes; sem fonte nomeada.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "saude",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 77,
+   "quote": "Usar análise de dados e inteligência artificial como apoio auditável",
+   "justification": "Risco do uso de IA tratado com salvaguarda (auditável); priorização explícita por gravidade.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "educacao",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 33,
+   "quote": "Cada escola terá plano de aprendizagem e apoio para resolver problemas, evitando responsabilização sem recursos.",
+   "justification": "Conjunto articulado com mecanismos e competência da União definidos (p32).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "educacao",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 32,
+   "quote": "Dados do Saeb indicam proporção muito menor de estudantes em nível adequado de matemática",
+   "justification": "Fonte nomeada (Saeb) sem número; diagnóstico ligado às medidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "educacao",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 33,
+   "quote": "sem punir famílias por falhas da oferta escolar",
+   "justification": "Riscos específicos (responsabilização sem recurso, punir famílias, rankings simplistas) com desenho mitigador.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "seguranca",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 18,
+   "quote": "Instituir o Fundo Nacional de Combate ao Terrorismo Doméstico e Ramificações, financiado majoritariamente pelos bens recuperados.",
+   "justification": "Conjunto com desenho operacional (fundo com regra de uso, Comando Nacional de Fronteiras com composição, centros integrados).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "seguranca",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 16,
+   "quote": "Esses grupos deixaram de atuar apenas nos mercados ilegais e passaram a controlar territórios",
+   "justification": "Diagnóstico qualitativo, sem dado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "seguranca",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 16,
+   "quote": "A firmeza será exercida dentro da Constituição, com devido processo legal, controle externo e proteção das liberdades.",
+   "justification": "Risco a liberdades reconhecido com salvaguardas institucionais (controle externo); diferencia lideranças de presos reinseríveis.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "ambiente",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 50,
+   "quote": "A agenda combinará segurança jurídica no licenciamento, cooperação federativa, ciência e tecnologia, mercado de carbono, pagamento por serviços ambientais",
+   "justification": "Medidas com escopo e instrumentos (PSA, carbono, CAR), em formato de diretrizes.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "ambiente",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 50,
+   "quote": "Mudanças climáticas aumentam secas, enchentes, calor, incêndios e perdas agrícolas.",
+   "justification": "Diagnóstico qualitativo, sem dados.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "ambiente",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 50,
+   "quote": "O modelo de comando e controle é necessário contra ilegalidades, mas tornou-se pouco eficiente quando não distingue risco, porte e comportamento.",
+   "justification": "Trade-off fiscalização × eficiência identificado e endereçado por gradação de risco.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "fiscal",
+   "criterion": "F1_custos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Nenhum valor de custo das propostas no plano integral (busca por R$/bilhões: 1 ocorrência, sobre subsídios na conta de luz).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "fiscal",
+   "criterion": "F2_financiamento",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 18,
+   "quote": "financiado majoritariamente pelos bens recuperados",
+   "justification": "Fontes nomeadas (bens recuperados, revisão de programas, teto remuneratório), sem quantificação.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "fiscal",
+   "criterion": "F3_consistencia",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 100,
+   "quote": "Toda proposta com impacto fiscal terá estimativa, fonte e compatibilidade com a trajetória de dívida.",
+   "justification": "Regra explícita (trajetória plurianual, metas anuais, compensação de novas despesas) e regra de compatibilização das promessas, sem números.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "execucao",
+   "criterion": "E1_metas",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 79,
+   "quote": "reduzir em 30% a mortalidade cardiovascular prematura até 2030",
+   "justification": "Metas quantificadas em vários temas (saúde 30%, investimento 25% PIB, saneamento 2033), não na maioria.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "execucao",
+   "criterion": "E2_prazos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 100,
+   "quote": "Os primeiros cem dias O governo encaminhará ao Congresso um pacote inicial de reformas",
+   "justification": "Prazos em vários compromissos (100 dias, 2030, 2033, PPA 2028–2031), sem cronograma por compromisso.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "execucao",
+   "criterion": "E3_instrumentos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 3,
+   "quote": "Ele será traduzido em projetos de lei, atos administrativos, pactos federativos, metas do Plano Plurianual",
+   "justification": "Instrumentos e competência federativa tratados de forma geral; poucos PEC/PL nomeados (busca: 2 ocorrências).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551932",
+   "dimension": "execucao",
+   "criterion": "E4_monitoramento",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 52,
+   "quote": "Indicadores de acompanhamento",
+   "justification": "Indicadores por tema + Painel Brasil 2030 + avaliação independente + PPA com indicador por compromisso (p100).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  }
+ ]
+}

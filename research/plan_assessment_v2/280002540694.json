@@ -1,0 +1,341 @@
+{
+ "candidate_id": "280002540694",
+ "assessor": "claude-opus-5-5",
+ "pages_read_in_full": [
+  9,
+  10,
+  11,
+  12,
+  13,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  31,
+  32
+ ],
+ "notes": "51 págs; capítulos de cada dimensão lidos nas páginas de maior densidade.",
+ "cells": [
+  {
+   "candidate_id": "280002540694",
+   "dimension": "economia",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 22,
+   "quote": "Família por um modelo de frentes de trabalho, em que os beneficiários participam de projetos para o bem público",
+   "justification": "Medidas com mecanismo (Frentes Cidadãs em vez do Bolsa Família, ZEEs, reformas microeconômicas CDPP).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "economia",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 21,
+   "quote": "com 73% dos estudantes sem o nível básico em matemática e 50% incapazes de ler textos de dificuldade média",
+   "justification": "Diagnóstico com dados e fontes nomeadas (CDPP, IFI) explicitamente ligado às reformas de produtividade.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "economia",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 10,
+   "quote": "É fato que essa PEC será um remédio amargo",
+   "justification": "Reconhece custo genérico (\"remédio amargo\") sem especificar perdedores/mitigação.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "saude",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 26,
+   "quote": "Criação do FNMA (Fundo Nacional de Modernização do Acesso) com repasses aos municípios condi- cionados ao desempenho.",
+   "justification": "Conjunto articulado com desenho (ENER com 5 critérios de fila, prontuário PRONTO, hub-and-spoke, fundo com repasse condicionado, piloto antes de escala).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "saude",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 25,
+   "quote": "Cerca de 75% da população não tem plano de saúde privado (ANS)",
+   "justification": "Dado com fonte nomeada e proposta (fila por risco) ligada ao problema de acesso.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "saude",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 26,
+   "quote": "Inicialmente, será adotado um piloto que poderá funcionar em algumas cidades cobertas pelo SUS e depois será implementado em âmbito nacional.",
+   "justification": "Faseamento por piloto mitiga risco implicitamente; risco não nomeado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "educacao",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 32,
+   "quote": "Estabelecer um ranking oficial de disciplina nas escolas que sirva para modular o VAAR (Valor Aluno Ano Resultado)",
+   "justification": "Conjunto com mecanismos (VAAR modulado, código disciplinar nacional, método fônico, modelo do Ceará, competência da União).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "educacao",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 31,
+   "quote": "Segundo notificações do SINAN, a violência registrada no ambiente escolar cresceu de forma expressiva entre 2013 e 2024 (parte do aumento reflete também a am- pliação da notificação).",
+   "justification": "Fontes nomeadas (SINAN, ONVE, TALIS) ligadas às medidas; ressalva própria sobre o dado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "educacao",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 31,
+   "quote": "As medidas sugeridas neste programa exigem uma reavaliação do papel do Estatuto da Criança e do Adolescente (ECA)",
+   "justification": "Reconhece restrição legal (ECA/competência), sem mitigação.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "seguranca",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 12,
+   "quote": "a concentração de competência em tribunais especializados com magistrados selecionados por critéri- os técnicos rigorosos e dotados de proteção especial",
+   "justification": "Conjunto com desenho operacional detalhado (Estado de Defesa, Lei Antifacção com 6 itens, prazos processuais, Comissão Nacional de Classificação).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "seguranca",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 11,
+   "quote": "exercendo controle territorial, governança e poder normativo sobre aproximadamente 20% da população",
+   "justification": "Dado quantitativo sem fonte nomeada nesta passagem (C3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "seguranca",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 12,
+   "quote": "Para garantir a aplicação efetiva dessas medidas diante da resistência institucional esperada, propomos um desenho processual estratégico",
+   "justification": "Identifica resistência institucional/constitucional e propõe resposta; não trata riscos a direitos como contrapartida.",
+   "limitation": "O avaliador não julga a compatibilidade constitucional, só se o plano a reconhece.",
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "ambiente",
+   "criterion": "T1_especificidade",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    0,
+    1
+   ],
+   "page": 24,
+   "quote": "licenciamento ambiental: implementação plena da Lei Geral do Licenciamento Ambiental (Lei nº 15.190/2025, oriunda do PL 2159/2021)",
+   "justification": "Sem capítulo ambiental; única medida é aceleração do licenciamento (instrumento de infraestrutura).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "ambiente",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 23,
+   "quote": "aproximadamente 95% do desmatamento ocorre nas proximidades de rodovias",
+   "justification": "Dado ambiental no diagnóstico de infraestrutura, não ligado a medida ambiental.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "ambiente",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas ambientais das obras propostas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "fiscal",
+   "criterion": "F1_custos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 24,
+   "quote": "aumento do investimento estatal em infraestrutura, condicionado à reforma administrativa e fiscal prévia",
+   "justification": "Ordem de grandeza para ajuste (R$250 bi/ano) e investimento (2%→4% do PIB); sem custos por proposta.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "fiscal",
+   "criterion": "F2_financiamento",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 10,
+   "quote": "com economia projetada de R$ 1,1 trilhão até 2031",
+   "justification": "Fontes específicas e quantificadas (desindexação, desvinculação, abono, renúncias).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "fiscal",
+   "criterion": "F3_consistencia",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 10,
+   "quote": "Essas propostas já deverão estar presentes no nosso projeto de PEC de Transição, que terá por objetivo substituir o arcabouço fiscal por um novo modelo mais inteligente.",
+   "justification": "Regra fiscal explícita e investimento condicionado ao ajuste prévio (p24).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "execucao",
+   "criterion": "E1_metas",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 24,
+   "quote": "Ferrovias: meta mínima de 40 mil km de malha",
+   "justification": "Metas quantificadas em vários temas (40 mil km, 4% PIB, 80% resolutividade APS, R$1,1 tri).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "execucao",
+   "criterion": "E2_prazos",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 12,
+   "quote": "prazos exíguos improrrogáveis (30 dias em primeira instância, 60 em tribunais)",
+   "justification": "Prazos em vários compromissos (PEC antes da posse, 2031, cronograma 2030–2036 de minerais).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "execucao",
+   "criterion": "E3_instrumentos",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 10,
+   "quote": "a chamada “PEC do Equilíbrio Fiscal”",
+   "justification": "Instrumentos e competências sistemáticos (PECs, Lei Antifacção, Estado de Defesa, GLO, lei complementar, competência da União).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002540694",
+   "dimension": "execucao",
+   "criterion": "E4_monitoramento",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 6,
+   "quote": "a Lei de Responsabilidade Gerencial, nosso projeto que condiciona recursos partidários e até a elegibilidade dos políticos a metas objetivas de desempenho em indicadores",
+   "justification": "Mecanismo específico de indicadores/condicionalidade; não é um sistema ligado às metas do próprio plano.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  }
+ ]
+}

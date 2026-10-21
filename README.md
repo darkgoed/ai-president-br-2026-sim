@@ -2,6 +2,41 @@
 
 Experimento educacional do Tour Cyber: pesquisa documental das 12 candidaturas com votos válidos no primeiro turno de 2026 e benchmark numérico reproduzível. Não é previsão eleitoral, avaliação causal de governos ou recomendação de voto.
 
+## Código e ranking do vídeo c6-cta2026
+
+O vídeo mostra o **ranking exploratório dos planos v2**, calculado por `src/plan_comparison_v2.py`.
+Ele compara características do texto dos 12 planos com 7 dimensões, 22 critérios e pesos iguais por dimensão.
+A avaliação foi feita em passagem única por IA, sem revisão humana. Não mede qualidade de governo nem viabilidade das propostas.
+
+Resultados completos: [ranking](results-plan-comparison-v2/ranking.csv),
+[evidências por célula](results-plan-comparison-v2/evidence_matrix.csv) e
+[relatório com método, incerteza e sensibilidade](research/RELATORIO-COMPARACAO-PLANOS-V2.md).
+Com os pesos padrão: Wilson Grassi (DEMOCRATA), 84,1; Renan Santos (MISSÃO), 70,6; Ronaldo Caiado (PSD), 67,9.
+Essas posições dependem da rubrica e dos pesos; não são recomendação de voto.
+
+Para reproduzir em uma cópia nova (Python 3.12 ou superior):
+
+```sh
+git clone https://github.com/darkgoed/ai-president-br-2026-sim.git
+cd ai-president-br-2026-sim
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements-dev.txt
+# Baixa os planos do TSE para .cache/programs.zip e confere hashes e excertos.
+.venv/bin/python tools/verify_sources.py
+.venv/bin/python -m src.plan_comparison_v2 --out results-plan-comparison-reproduced
+.venv/bin/python -m pytest -q
+```
+
+O protocolo está em `research/plan_comparison_protocol_v2.json`, com hash congelado em
+`research/plan_comparison_v2_freeze.json`; as avaliações ficam em `research/plan_assessment_v2/`.
+O cálculo confere 220 trechos nas páginas dos PDFs e reproduz os arquivos publicados.
+Se o TSE alterar os documentos, a checagem de hashes deve bloquear a reprodução, não trocar as fontes silenciosamente.
+Sem os PDFs, `--no-verify-pdf` permite recalcular as notas, mas não valida as citações.
+
+O bilhão de cenários mostrado no vídeo está em `results-1b-streaming-v2/`, com motor em `src/streaming.py`.
+É um experimento macroeconômico separado: nenhum candidato entra nessa conta e seus resultados não entram nas notas v2.
+A comparação política v1 abaixo continua bloqueada; a v2 não satisfaz nem substitui seus requisitos.
+
 ## Comparação política v1 (17/10/2026): ranking bloqueado
 
 Protocolo e plano de mensuração explícitos (`research/comparison_protocol_v1.json`,

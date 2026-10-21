@@ -1,0 +1,333 @@
+{
+ "candidate_id": "280002548139",
+ "assessor": "claude-opus-5-5",
+ "pages_read_in_full": [
+  3,
+  4,
+  5,
+  8,
+  9,
+  10,
+  12,
+  14,
+  23,
+  26,
+  27,
+  34,
+  36,
+  46,
+  47,
+  52,
+  54
+ ],
+ "notes": "58 págs; inclui governança (100 dias, painel, quadros instrumento/medida/prazo por eixo).",
+ "cells": [
+  {
+   "candidate_id": "280002548139",
+   "dimension": "economia",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 8,
+   "quote": "Substituir o conjunto de tributos federais que hoje incide sobre folha, faturamento e produção por um único tributo",
+   "justification": "Proposta central com desenho operacional completo (o que sai/fica, alíquotas, IRPF deslocado, transição em 3 movimentos).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "economia",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 12,
+   "quote": "O cálculo usa a distribuição real de contribuintes por faixa de renda, extraída dos Grandes Números do IRPF publicados pela Receita Federal",
+   "justification": "Dados com fontes nomeadas e ligados explicitamente à medida.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "economia",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 10,
+   "quote": "Há um custo nessa escolha, e não vou escondê-lo.",
+   "justification": "Contrapartida específica (renúncia crescente) e mitigação (gatilho automático de suspensão, p14).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "saude",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 34,
+   "quote": "Fila nacional única e pública por procedimento, com critério clínico de prioridade e posição consultável pelo próprio paciente.",
+   "justification": "Conjunto com desenho (fila única pública, mutirão contratualizado por resultado, cofinanciamento da APS, vigilância de zoonoses).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "saude",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 26,
+   "quote": "O grupo consultivo da Organização Mundial da Saúde para as origens de novos patógenos concluiu",
+   "justification": "Diagnóstico com fonte nomeada (OMS) ligado à vigilância de zoonoses; sem dado quantitativo do SUS.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "saude",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    0,
+    1
+   ],
+   "page": 34,
+   "quote": "Revisar a lista de medicamentos de dispensação gratuita por critério de evidência e de internação evitada.",
+   "justification": "Restrição implícita (priorização), sem risco nomeado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "educacao",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 36,
+   "quote": "apoio técnico e financeiro vinculado a resultado aferido em avaliação externa",
+   "justification": "Medidas com mecanismo e competência explícitos (condicionalidade, dado por escola, PEC da Pesquisa).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "educacao",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 36,
+   "quote": "O país paga a formação e o exterior colhe a produção.",
+   "justification": "Diagnóstico qualitativo, sem dado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "educacao",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 36,
+   "quote": "A União não administra escola de ensino fundamental.",
+   "justification": "Restrição de competência explícita que delimita o eixo.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "seguranca",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 23,
+   "quote": "Padrão nacional único e obrigatório de registro de ocorrência, com prazo de adequação e apoio técnico federal",
+   "justification": "Conjunto com desenho operacional (padrão de registro, auditoria anual, integração de bases, cadastro de maus-tratos).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "seguranca",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 23,
+   "quote": "A literatura internacional sobre a chamada Teoria do Elo aponta associação entre praticar violência contra animais e praticar depois violência contra pessoas",
+   "justification": "Evidência nomeada ligada à medida, com a própria ressalva de não-consenso.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "seguranca",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 23,
+   "quote": "porque cruzamento de base sem controle vira instrumento de perseguição",
+   "justification": "Risco específico e mitigação (lei, registro auditável, responsabilização).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "ambiente",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 47,
+   "quote": "Responsável nomeado para cada processo de licenciamento e para cada marco de obra",
+   "justification": "Medidas com mecanismo (responsável por processo, rastreabilidade); poucas medidas ambientais.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "ambiente",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 47,
+   "quote": "mercúrio no rio, pista clandestina, invasão armada, doença",
+   "justification": "Diagnóstico qualitativo.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "ambiente",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 47,
+   "quote": "A proibição no papel não protegeu ninguém; apenas entregou a atividade ao crime.",
+   "justification": "Trade-off específico identificado (proibição × clandestinidade); mitigação só como debate.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "fiscal",
+   "criterion": "F1_custos",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 12,
+   "quote": "TOTAL 20,9 milhões — R$ 266 bi",
+   "justification": "Quadro de custo da proposta central; o plano declara (p4) não orçar medida a medida.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "fiscal",
+   "criterion": "F2_financiamento",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 12,
+   "quote": "Nenhum plano de governo brasileiro que eu tenha lido mostra a conta.",
+   "justification": "Fontes específicas e quantificadas (alíquota do tributo único × base de movimentação).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "fiscal",
+   "criterion": "F3_consistencia",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 4,
+   "quote": "todo projeto enviado ao Congresso irá acompanhado de estimativa de impacto orçamentário e financeiro, na forma que a Lei de Responsabilidade Fiscal exige",
+   "justification": "Regra explícita (LRF) e compatibilização (gatilho de frustração de arrecadação, p14).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "execucao",
+   "criterion": "E1_metas",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 34,
+   "quote": "Expandir a cobertura de equipes de saúde da família com meta por município",
+   "justification": "Metas com indicador em quase todos os eixos; princípio \"nenhuma meta sem indicador\".",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "execucao",
+   "criterion": "E2_prazos",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 54,
+   "quote": "Dias 1 a 30 Publicação do painel aberto de acompanhamento deste plano",
+   "justification": "Cronograma explícito dos 100 dias + \"em quanto tempo\" por eixo.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "execucao",
+   "criterion": "E3_instrumentos",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 52,
+   "quote": "INSTRUMENTO Apoio à PEC nº 55/2023",
+   "justification": "Quadro \"instrumento\" por eixo e competência federativa tratada sistematicamente (p4).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002548139",
+   "dimension": "execucao",
+   "criterion": "E4_monitoramento",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 54,
+   "quote": "com meta, indicador e responsável nomeado",
+   "justification": "Painel público de indicadores ligado às metas e aos responsáveis.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  }
+ ]
+}

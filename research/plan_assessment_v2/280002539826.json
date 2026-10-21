@@ -1,0 +1,337 @@
+{
+ "candidate_id": "280002539826",
+ "assessor": "claude-opus-5-5",
+ "pages_read_in_full": [
+  5,
+  6,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  40,
+  47,
+  50,
+  57
+ ],
+ "notes": "81 págs; capítulos por dimensão lidos nas páginas de abertura; transversais por busca no texto integral.",
+ "cells": [
+  {
+   "candidate_id": "280002539826",
+   "dimension": "economia",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 19,
+   "quote": "com a Receita apurando o valor automaticamente a partir da nota fiscal eletrônica",
+   "justification": "Muitas medidas com mecanismo nomeado (IRPJ apurado pela Receita, REDESIM, concessões/PPPs), em formato de lista sem desenho articulado de responsável.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "economia",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 17,
+   "quote": "custa R$1,7 trilhão por ano",
+   "justification": "Diagnóstico com dados quantitativos; fontes não nomeadas nas passagens lidas (C3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "economia",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 21,
+   "quote": "à medida que o Custo Brasil for reduzido",
+   "justification": "Condiciona abertura comercial à redução do Custo Brasil (restrição de sequência), sem risco nomeado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "saude",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 57,
+   "quote": "Centralizar o histórico clínico de todos os pacientes em um registro nacional de saúde, com controle dos dados pelo cidadão",
+   "justification": "Medidas com mecanismo (registro nacional, telemedicina, uso da capacidade privada); sem responsável/desenho operacional.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "saude",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 57,
+   "quote": "Três em cada quatro brasileiros dependem exclusivamente do SUS",
+   "justification": "Dados quantitativos ligados ao problema, sem fonte nomeada (C3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "saude",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas das próprias medidas de saúde (páginas 57–60 lidas).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "educacao",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 50,
+   "quote": "por meio do fortalecimento das redes públicas e de parcerias com entidades privadas e comunitárias",
+   "justification": "Medidas com mecanismo (parcerias, avaliação da educação infantil), sem responsável/competência.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "educacao",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 50,
+   "quote": "apenas 13,3% dos alunos saem do ensino fundamental sabendo Português e Matemática de forma adequada",
+   "justification": "Dados específicos ligados às medidas; fonte só nomeada para PISA/OCDE de forma comparativa.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "educacao",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "seguranca",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 6,
+   "quote": "Prever em lei que bandidos presos em flagrante pela terceira vez tenham a prisão convertida em preventiva",
+   "justification": "Medidas com mecanismo/público definidos (prisão na 3ª reincidência, maioridade 16, presídios remotos).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "seguranca",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 5,
+   "quote": "Desde 1997, são registrados mais de 40 mil homicídios por ano.",
+   "justification": "Dados ligados às medidas; fontes como \"estudos recentes\", sem nomear (C3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "seguranca",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas/riscos (ex.: capacidade prisional, constitucionalidade) reconhecidos.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "ambiente",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 47,
+   "quote": "assegurando o cumprimento do Código Florestal e a análise do CAR",
+   "justification": "Medidas com mecanismo (licenciamento com CAR, grilagem, créditos de carbono, drenagem).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "ambiente",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 47,
+   "quote": "94,7% dos municípios não têm plano de drenagem",
+   "justification": "Dados específicos ligados às medidas, sem fonte nomeada (C3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "ambiente",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 47,
+   "quote": "CONSERVAR A NATUREZA SEM TRAVAR O DESENVOLVIMENTO",
+   "justification": "Trade-off conservação × desenvolvimento explicitado e tratado nas medidas de licenciamento.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "fiscal",
+   "criterion": "F1_custos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 18,
+   "quote": "Depositar R$1.000 para cada brasileiro ao nascer",
+   "justification": "Valor unitário de um programa; sem custos agregados.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "fiscal",
+   "criterion": "F2_financiamento",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 14,
+   "quote": "Reformar a Previdência de forma definitiva",
+   "justification": "Fontes específicas nomeadas (previdência, desvinculação, privatizações, venda de imóveis, supersalários R$20 bi), em geral sem quantificação.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "fiscal",
+   "criterion": "F3_consistencia",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 18,
+   "quote": "promovendo reformas e mantendo superávits primários que per- mitam o pagamento da dívida",
+   "justification": "Meta fiscal explícita (superávits, estabilizar dívida/PIB) e metas de redução de carga; sem compatibilização numérica.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "execucao",
+   "criterion": "E1_metas",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 16,
+   "quote": "Fixar metas progressivas de redução da carga tributária",
+   "justification": "Metas mencionadas sem valor; números concentrados em parâmetros (maioridade 16, R$1.000).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "execucao",
+   "criterion": "E2_prazos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Busca no plano integral: nenhum prazo de implementação (único ano futuro é projeção de mercado \"até 2032\").",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "execucao",
+   "criterion": "E3_instrumentos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 6,
+   "quote": "Prever em lei",
+   "justification": "Veículo genérico (\"prever em lei\", \"reformar o Código Penal\"); nenhuma PEC/PL/decreto nomeado no plano integral (busca).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002539826",
+   "dimension": "execucao",
+   "criterion": "E4_monitoramento",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 40,
+   "quote": "aplicando avaliações ex-ante e ex-post para todas as polí- ticas e condicionando o orçamento aos resultados",
+   "justification": "Mecanismo específico de avaliação/contratos de desempenho; não ligado a metas do plano.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  }
+ ]
+}

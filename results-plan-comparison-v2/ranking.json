@@ -1,0 +1,831 @@
+{
+  "schema_version": 2,
+  "title": "RANKING EXPLORATÓRIO DOS PLANOS — AVALIAÇÃO ASSISTIDA POR IA · não é previsão, não é recomendação de voto",
+  "protocol_id": "comparacao-planos-v2-rubrica-documental",
+  "protocol_sha256": "f907ac41dcf5a7b33b4e67f87606d69bcff39cbd5af402614191e25c995abdbe",
+  "review_status": "ai_single_pass_unreviewed",
+  "assessor": "claude-opus-5-5 (Anthropic), avaliação documental assistida por IA, passagem única",
+  "excluded_from_score": [
+    "superioridade geral do partido",
+    "previsão de desempenho de governo ou de impacto das propostas",
+    "recomendação de voto",
+    "se a proposta é boa ou ruim no mérito ideológico",
+    "histórico de gestão, experiência administrativa, mandatos, popularidade ou votos (excluídos da nota)",
+    "frequências do bilhão de cenários (results-1b-streaming-v2): contexto macro comum, nunca nota"
+  ],
+  "dimensions_common": [
+    "economia",
+    "saude",
+    "educacao",
+    "seguranca",
+    "ambiente",
+    "fiscal",
+    "execucao"
+  ],
+  "dimensions_dropped_for_all": [],
+  "weights": {
+    "economia": 0.142857,
+    "saude": 0.142857,
+    "educacao": 0.142857,
+    "seguranca": 0.142857,
+    "ambiente": 0.142857,
+    "fiscal": 0.142857,
+    "execucao": 0.142857
+  },
+  "ranking": [
+    {
+      "position": 1,
+      "tied": false,
+      "candidate_id": "280002548139",
+      "ballot_name": "VETERINÁRIO WILSON GRASSI",
+      "party": "DEMOCRATA",
+      "overall_0_100": 84.1,
+      "dimensions_0_100": {
+        "economia": 100.0,
+        "saude": 66.7,
+        "educacao": 66.7,
+        "seguranca": 100.0,
+        "ambiente": 55.6,
+        "fiscal": 100.0,
+        "execucao": 100.0
+      },
+      "uncertainty_band": [
+        76.6,
+        87.3
+      ],
+      "position_range_weight_grid": [
+        1,
+        6
+      ],
+      "first_in_weight_vectors": 7183,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "assessed": 15,
+          "uncertain": 7
+        },
+        "pages_read_in_full": 17
+      }
+    },
+    {
+      "position": 2,
+      "tied": false,
+      "candidate_id": "280002540694",
+      "ballot_name": "RENAN SANTOS",
+      "party": "MISSÃO",
+      "overall_0_100": 70.6,
+      "dimensions_0_100": {
+        "economia": 66.7,
+        "saude": 77.8,
+        "educacao": 77.8,
+        "seguranca": 77.8,
+        "ambiente": 22.2,
+        "fiscal": 88.9,
+        "execucao": 83.3
+      },
+      "uncertainty_band": [
+        59.9,
+        77.0
+      ],
+      "position_range_weight_grid": [
+        1,
+        10
+      ],
+      "first_in_weight_vectors": 221,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "uncertain": 11,
+          "assessed": 10,
+          "absent_after_review": 1
+        },
+        "pages_read_in_full": 13
+      }
+    },
+    {
+      "position": 3,
+      "tied": false,
+      "candidate_id": "280002551932",
+      "ballot_name": "RONALDO CAIADO",
+      "party": "PSD",
+      "overall_0_100": 67.9,
+      "dimensions_0_100": {
+        "economia": 55.6,
+        "saude": 77.8,
+        "educacao": 88.9,
+        "seguranca": 66.7,
+        "ambiente": 55.6,
+        "fiscal": 55.6,
+        "execucao": 75.0
+      },
+      "uncertainty_band": [
+        57.1,
+        75.4
+      ],
+      "position_range_weight_grid": [
+        1,
+        7
+      ],
+      "first_in_weight_vectors": 666,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "uncertain": 12,
+          "assessed": 9,
+          "absent_after_review": 1
+        },
+        "pages_read_in_full": 18
+      }
+    },
+    {
+      "position": 4,
+      "tied": false,
+      "candidate_id": "280002551547",
+      "ballot_name": "ESCRITOR AUGUSTO CURY",
+      "party": "AVANTE",
+      "overall_0_100": 59.5,
+      "dimensions_0_100": {
+        "economia": 77.8,
+        "saude": 55.6,
+        "educacao": 44.4,
+        "seguranca": 55.6,
+        "ambiente": 66.7,
+        "fiscal": 66.7,
+        "execucao": 50.0
+      },
+      "uncertainty_band": [
+        48.4,
+        67.5
+      ],
+      "position_range_weight_grid": [
+        1,
+        7
+      ],
+      "first_in_weight_vectors": 31,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "uncertain": 12,
+          "assessed": 9,
+          "absent_after_review": 1
+        },
+        "pages_read_in_full": 15
+      }
+    },
+    {
+      "position": 5,
+      "tied": false,
+      "candidate_id": "280002542548",
+      "ballot_name": "LULA",
+      "party": "PT",
+      "overall_0_100": 56.0,
+      "dimensions_0_100": {
+        "economia": 55.6,
+        "saude": 66.7,
+        "educacao": 44.4,
+        "seguranca": 66.7,
+        "ambiente": 66.7,
+        "fiscal": 33.3,
+        "execucao": 58.3
+      },
+      "uncertainty_band": [
+        45.2,
+        62.3
+      ],
+      "position_range_weight_grid": [
+        1,
+        9
+      ],
+      "first_in_weight_vectors": 34,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "uncertain": 11,
+          "assessed": 9,
+          "absent_after_review": 2
+        },
+        "pages_read_in_full": 10
+      }
+    },
+    {
+      "position": 6,
+      "tied": false,
+      "candidate_id": "280002551544",
+      "ballot_name": "FLAVIO BOLSONARO",
+      "party": "PL",
+      "overall_0_100": 55.6,
+      "dimensions_0_100": {
+        "economia": 55.6,
+        "saude": 66.7,
+        "educacao": 66.7,
+        "seguranca": 44.4,
+        "ambiente": 55.6,
+        "fiscal": 33.3,
+        "execucao": 66.7
+      },
+      "uncertainty_band": [
+        48.4,
+        66.7
+      ],
+      "position_range_weight_grid": [
+        2,
+        9
+      ],
+      "first_in_weight_vectors": 0,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "assessed": 8,
+          "uncertain": 12,
+          "absent_after_review": 2
+        },
+        "pages_read_in_full": 10
+      }
+    },
+    {
+      "position": 7,
+      "tied": false,
+      "candidate_id": "280002538811",
+      "ballot_name": "SAMARA",
+      "party": "UP",
+      "overall_0_100": 50.8,
+      "dimensions_0_100": {
+        "economia": 55.6,
+        "saude": 44.4,
+        "educacao": 55.6,
+        "seguranca": 55.6,
+        "ambiente": 66.7,
+        "fiscal": 44.4,
+        "execucao": 33.3
+      },
+      "uncertainty_band": [
+        39.7,
+        57.1
+      ],
+      "position_range_weight_grid": [
+        1,
+        11
+      ],
+      "first_in_weight_vectors": 7,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "assessed": 8,
+          "uncertain": 10,
+          "absent_after_review": 4
+        },
+        "pages_read_in_full": 11
+      }
+    },
+    {
+      "position": 8,
+      "tied": false,
+      "candidate_id": "280002539826",
+      "ballot_name": "ZEMA",
+      "party": "NOVO",
+      "overall_0_100": 49.2,
+      "dimensions_0_100": {
+        "economia": 55.6,
+        "saude": 44.4,
+        "educacao": 44.4,
+        "seguranca": 44.4,
+        "ambiente": 66.7,
+        "fiscal": 55.6,
+        "execucao": 33.3
+      },
+      "uncertainty_band": [
+        47.6,
+        63.1
+      ],
+      "position_range_weight_grid": [
+        1,
+        11
+      ],
+      "first_in_weight_vectors": 1,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "uncertain": 10,
+          "assessed": 8,
+          "absent_after_review": 4
+        },
+        "pages_read_in_full": 12
+      }
+    },
+    {
+      "position": 9,
+      "tied": false,
+      "candidate_id": "280002541457",
+      "ballot_name": "HERTZ DIAS",
+      "party": "PSTU",
+      "overall_0_100": 43.7,
+      "dimensions_0_100": {
+        "economia": 55.6,
+        "saude": 33.3,
+        "educacao": 33.3,
+        "seguranca": 44.4,
+        "ambiente": 55.6,
+        "fiscal": 33.3,
+        "execucao": 50.0
+      },
+      "uncertainty_band": [
+        32.1,
+        46.8
+      ],
+      "position_range_weight_grid": [
+        4,
+        11
+      ],
+      "first_in_weight_vectors": 0,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "assessed": 7,
+          "absent_after_review": 6,
+          "uncertain": 9
+        },
+        "pages_read_in_full": 12
+      }
+    },
+    {
+      "position": 10,
+      "tied": false,
+      "candidate_id": "280002551975",
+      "ballot_name": "EDMILSON COSTA",
+      "party": "PCB",
+      "overall_0_100": 38.9,
+      "dimensions_0_100": {
+        "economia": 33.3,
+        "saude": 33.3,
+        "educacao": 44.4,
+        "seguranca": 33.3,
+        "ambiente": 33.3,
+        "fiscal": 44.4,
+        "execucao": 50.0
+      },
+      "uncertainty_band": [
+        36.1,
+        45.2
+      ],
+      "position_range_weight_grid": [
+        5,
+        11
+      ],
+      "first_in_weight_vectors": 0,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "uncertain": 6,
+          "absent_after_review": 5,
+          "assessed": 11
+        },
+        "pages_read_in_full": 16
+      }
+    },
+    {
+      "position": 11,
+      "tied": false,
+      "candidate_id": "280002552487",
+      "ballot_name": "RUI COSTA PIMENTA",
+      "party": "PCO",
+      "overall_0_100": 30.2,
+      "dimensions_0_100": {
+        "economia": 33.3,
+        "saude": 33.3,
+        "educacao": 33.3,
+        "seguranca": 33.3,
+        "ambiente": 11.1,
+        "fiscal": 33.3,
+        "execucao": 33.3
+      },
+      "uncertainty_band": [
+        23.0,
+        31.7
+      ],
+      "position_range_weight_grid": [
+        8,
+        12
+      ],
+      "first_in_weight_vectors": 0,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "assessed": 9,
+          "absent_after_review": 8,
+          "uncertain": 5
+        },
+        "pages_read_in_full": 7
+      }
+    },
+    {
+      "position": 12,
+      "tied": false,
+      "candidate_id": "280002552484",
+      "ballot_name": "CLARIANA BARAO",
+      "party": "DC",
+      "overall_0_100": 22.6,
+      "dimensions_0_100": {
+        "economia": 11.1,
+        "saude": 33.3,
+        "educacao": 11.1,
+        "seguranca": 22.2,
+        "ambiente": 0.0,
+        "fiscal": 22.2,
+        "execucao": 58.3
+      },
+      "uncertainty_band": [
+        18.7,
+        22.6
+      ],
+      "position_range_weight_grid": [
+        5,
+        12
+      ],
+      "first_in_weight_vectors": 0,
+      "coverage": {
+        "cells": 22,
+        "by_status": {
+          "assessed": 8,
+          "absent_after_review": 11,
+          "uncertain": 3
+        },
+        "pages_read_in_full": 15
+      }
+    }
+  ],
+  "sensitivity": {
+    "weight_grid": {
+      "vectors": 8008,
+      "step": 0.1,
+      "tie_policy": "empate na liderança conta para todos os empatados",
+      "first_place_counts": {
+        "280002538811": 7,
+        "280002539826": 1,
+        "280002540694": 221,
+        "280002541457": 0,
+        "280002542548": 34,
+        "280002548139": 7183,
+        "280002551544": 0,
+        "280002551547": 31,
+        "280002551932": 666,
+        "280002551975": 0,
+        "280002552484": 0,
+        "280002552487": 0
+      },
+      "reading": "robustez da ordenação a pesos; não é probabilidade de bom governo"
+    },
+    "leave_one_dimension_out": {
+      "economia": {
+        "scores": {
+          "280002538811": 50.0,
+          "280002539826": 48.1,
+          "280002540694": 71.3,
+          "280002541457": 41.7,
+          "280002542548": 56.0,
+          "280002548139": 81.5,
+          "280002551544": 55.6,
+          "280002551547": 56.5,
+          "280002551932": 69.9,
+          "280002551975": 39.8,
+          "280002552484": 24.5,
+          "280002552487": 29.6
+        },
+        "ranks": {
+          "280002538811": 7,
+          "280002539826": 8,
+          "280002540694": 2,
+          "280002541457": 9,
+          "280002542548": 5,
+          "280002548139": 1,
+          "280002551544": 6,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      },
+      "saude": {
+        "scores": {
+          "280002538811": 51.9,
+          "280002539826": 50.0,
+          "280002540694": 69.4,
+          "280002541457": 45.4,
+          "280002542548": 54.2,
+          "280002548139": 87.0,
+          "280002551544": 53.7,
+          "280002551547": 60.2,
+          "280002551932": 66.2,
+          "280002551975": 39.8,
+          "280002552484": 20.8,
+          "280002552487": 29.6
+        },
+        "ranks": {
+          "280002538811": 7,
+          "280002539826": 8,
+          "280002540694": 2,
+          "280002541457": 9,
+          "280002542548": 5,
+          "280002548139": 1,
+          "280002551544": 6,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      },
+      "educacao": {
+        "scores": {
+          "280002538811": 50.0,
+          "280002539826": 50.0,
+          "280002540694": 69.4,
+          "280002541457": 45.4,
+          "280002542548": 57.9,
+          "280002548139": 87.0,
+          "280002551544": 53.7,
+          "280002551547": 62.0,
+          "280002551932": 64.4,
+          "280002551975": 38.0,
+          "280002552484": 24.5,
+          "280002552487": 29.6
+        },
+        "ranks": {
+          "280002538811": 7,
+          "280002539826": 7,
+          "280002540694": 2,
+          "280002541457": 9,
+          "280002542548": 5,
+          "280002548139": 1,
+          "280002551544": 6,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      },
+      "seguranca": {
+        "scores": {
+          "280002538811": 50.0,
+          "280002539826": 50.0,
+          "280002540694": 69.4,
+          "280002541457": 43.5,
+          "280002542548": 54.2,
+          "280002548139": 81.5,
+          "280002551544": 57.4,
+          "280002551547": 60.2,
+          "280002551932": 68.1,
+          "280002551975": 39.8,
+          "280002552484": 22.7,
+          "280002552487": 29.6
+        },
+        "ranks": {
+          "280002538811": 7,
+          "280002539826": 7,
+          "280002540694": 2,
+          "280002541457": 9,
+          "280002542548": 6,
+          "280002548139": 1,
+          "280002551544": 5,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      },
+      "ambiente": {
+        "scores": {
+          "280002538811": 48.1,
+          "280002539826": 46.3,
+          "280002540694": 78.7,
+          "280002541457": 41.7,
+          "280002542548": 54.2,
+          "280002548139": 88.9,
+          "280002551544": 55.6,
+          "280002551547": 58.3,
+          "280002551932": 69.9,
+          "280002551975": 39.8,
+          "280002552484": 26.4,
+          "280002552487": 33.3
+        },
+        "ranks": {
+          "280002538811": 7,
+          "280002539826": 8,
+          "280002540694": 2,
+          "280002541457": 9,
+          "280002542548": 6,
+          "280002548139": 1,
+          "280002551544": 5,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      },
+      "fiscal": {
+        "scores": {
+          "280002538811": 51.9,
+          "280002539826": 48.1,
+          "280002540694": 67.6,
+          "280002541457": 45.4,
+          "280002542548": 59.7,
+          "280002548139": 81.5,
+          "280002551544": 59.3,
+          "280002551547": 58.3,
+          "280002551932": 69.9,
+          "280002551975": 38.0,
+          "280002552484": 22.7,
+          "280002552487": 29.6
+        },
+        "ranks": {
+          "280002538811": 7,
+          "280002539826": 8,
+          "280002540694": 3,
+          "280002541457": 9,
+          "280002542548": 4,
+          "280002548139": 1,
+          "280002551544": 5,
+          "280002551547": 6,
+          "280002551932": 2,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      },
+      "execucao": {
+        "scores": {
+          "280002538811": 53.7,
+          "280002539826": 51.9,
+          "280002540694": 68.5,
+          "280002541457": 42.6,
+          "280002542548": 55.6,
+          "280002548139": 81.5,
+          "280002551544": 53.7,
+          "280002551547": 61.1,
+          "280002551932": 66.7,
+          "280002551975": 37.0,
+          "280002552484": 16.7,
+          "280002552487": 29.6
+        },
+        "ranks": {
+          "280002538811": 6,
+          "280002539826": 8,
+          "280002540694": 2,
+          "280002541457": 9,
+          "280002542548": 5,
+          "280002548139": 1,
+          "280002551544": 6,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      }
+    },
+    "uncertain_cells_min_max": {
+      "min": {
+        "scores": {
+          "280002538811": 39.7,
+          "280002539826": 47.6,
+          "280002540694": 59.9,
+          "280002541457": 32.1,
+          "280002542548": 45.2,
+          "280002548139": 76.6,
+          "280002551544": 48.4,
+          "280002551547": 48.4,
+          "280002551932": 57.1,
+          "280002551975": 36.1,
+          "280002552484": 18.7,
+          "280002552487": 23.0
+        },
+        "ranks": {
+          "280002538811": 8,
+          "280002539826": 6,
+          "280002540694": 2,
+          "280002541457": 10,
+          "280002542548": 7,
+          "280002548139": 1,
+          "280002551544": 4,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 9,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      },
+      "max": {
+        "scores": {
+          "280002538811": 57.1,
+          "280002539826": 63.1,
+          "280002540694": 77.0,
+          "280002541457": 46.8,
+          "280002542548": 62.3,
+          "280002548139": 87.3,
+          "280002551544": 66.7,
+          "280002551547": 67.5,
+          "280002551932": 75.4,
+          "280002551975": 45.2,
+          "280002552484": 22.6,
+          "280002552487": 31.7
+        },
+        "ranks": {
+          "280002538811": 8,
+          "280002539826": 6,
+          "280002540694": 2,
+          "280002541457": 9,
+          "280002542548": 7,
+          "280002548139": 1,
+          "280002551544": 5,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      }
+    },
+    "blocks": {
+      "so_tematicas": {
+        "dimensions": [
+          "economia",
+          "saude",
+          "educacao",
+          "seguranca",
+          "ambiente"
+        ],
+        "scores": {
+          "280002538811": 55.6,
+          "280002539826": 51.1,
+          "280002540694": 64.4,
+          "280002541457": 44.4,
+          "280002542548": 60.0,
+          "280002548139": 77.8,
+          "280002551544": 57.8,
+          "280002551547": 60.0,
+          "280002551932": 68.9,
+          "280002551975": 35.6,
+          "280002552484": 15.6,
+          "280002552487": 28.9
+        },
+        "ranks": {
+          "280002538811": 7,
+          "280002539826": 8,
+          "280002540694": 3,
+          "280002541457": 9,
+          "280002542548": 4,
+          "280002548139": 1,
+          "280002551544": 6,
+          "280002551547": 4,
+          "280002551932": 2,
+          "280002551975": 10,
+          "280002552484": 12,
+          "280002552487": 11
+        }
+      },
+      "so_transversais": {
+        "dimensions": [
+          "fiscal",
+          "execucao"
+        ],
+        "scores": {
+          "280002538811": 38.9,
+          "280002539826": 44.4,
+          "280002540694": 86.1,
+          "280002541457": 41.7,
+          "280002542548": 45.8,
+          "280002548139": 100.0,
+          "280002551544": 50.0,
+          "280002551547": 58.3,
+          "280002551932": 65.3,
+          "280002551975": 47.2,
+          "280002552484": 40.3,
+          "280002552487": 33.3
+        },
+        "ranks": {
+          "280002538811": 11,
+          "280002539826": 8,
+          "280002540694": 2,
+          "280002541457": 9,
+          "280002542548": 7,
+          "280002548139": 1,
+          "280002551544": 5,
+          "280002551547": 4,
+          "280002551932": 3,
+          "280002551975": 6,
+          "280002552484": 10,
+          "280002552487": 12
+        }
+      }
+    }
+  },
+  "quote_verification": {
+    "quotes_checked": 220,
+    "failures": []
+  },
+  "billion_scenarios_used_in_score": false,
+  "mandate_history_used_in_score": false
+}

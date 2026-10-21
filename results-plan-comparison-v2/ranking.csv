@@ -1,0 +1,13 @@
+position,tied,candidate_id,ballot_name,party,overall_0_100,economia,saude,educacao,seguranca,ambiente,fiscal,execucao,band_min,band_max,grid_pos_min,grid_pos_max,first_in_weight_vectors,review_status
+1,False,280002548139,VETERINÁRIO WILSON GRASSI,DEMOCRATA,84.1,100.0,66.7,66.7,100.0,55.6,100.0,100.0,76.6,87.3,1,6,7183,ai_single_pass_unreviewed
+2,False,280002540694,RENAN SANTOS,MISSÃO,70.6,66.7,77.8,77.8,77.8,22.2,88.9,83.3,59.9,77.0,1,10,221,ai_single_pass_unreviewed
+3,False,280002551932,RONALDO CAIADO,PSD,67.9,55.6,77.8,88.9,66.7,55.6,55.6,75.0,57.1,75.4,1,7,666,ai_single_pass_unreviewed
+4,False,280002551547,ESCRITOR AUGUSTO CURY,AVANTE,59.5,77.8,55.6,44.4,55.6,66.7,66.7,50.0,48.4,67.5,1,7,31,ai_single_pass_unreviewed
+5,False,280002542548,LULA,PT,56.0,55.6,66.7,44.4,66.7,66.7,33.3,58.3,45.2,62.3,1,9,34,ai_single_pass_unreviewed
+6,False,280002551544,FLAVIO BOLSONARO,PL,55.6,55.6,66.7,66.7,44.4,55.6,33.3,66.7,48.4,66.7,2,9,0,ai_single_pass_unreviewed
+7,False,280002538811,SAMARA,UP,50.8,55.6,44.4,55.6,55.6,66.7,44.4,33.3,39.7,57.1,1,11,7,ai_single_pass_unreviewed
+8,False,280002539826,ZEMA,NOVO,49.2,55.6,44.4,44.4,44.4,66.7,55.6,33.3,47.6,63.1,1,11,1,ai_single_pass_unreviewed
+9,False,280002541457,HERTZ DIAS,PSTU,43.7,55.6,33.3,33.3,44.4,55.6,33.3,50.0,32.1,46.8,4,11,0,ai_single_pass_unreviewed
+10,False,280002551975,EDMILSON COSTA,PCB,38.9,33.3,33.3,44.4,33.3,33.3,44.4,50.0,36.1,45.2,5,11,0,ai_single_pass_unreviewed
+11,False,280002552487,RUI COSTA PIMENTA,PCO,30.2,33.3,33.3,33.3,33.3,11.1,33.3,33.3,23.0,31.7,8,12,0,ai_single_pass_unreviewed
+12,False,280002552484,CLARIANA BARAO,DC,22.6,11.1,33.3,11.1,22.2,0.0,22.2,58.3,18.7,22.6,5,12,0,ai_single_pass_unreviewed

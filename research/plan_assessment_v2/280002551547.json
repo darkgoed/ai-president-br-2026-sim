@@ -1,0 +1,346 @@
+{
+ "candidate_id": "280002551547",
+ "assessor": "claude-opus-5-5",
+ "pages_read_in_full": [
+  36,
+  39,
+  40,
+  43,
+  44,
+  45,
+  46,
+  70,
+  108,
+  110,
+  126,
+  161,
+  166,
+  182,
+  186
+ ],
+ "notes": "200 págs (23 de imagem/vazias); 18 projetos localizados por cabeçalho; lidos os de cada dimensão + teses p36–60.",
+ "cells": [
+  {
+   "candidate_id": "280002551547",
+   "dimension": "economia",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 108,
+   "quote": "Poderá existir uma escada de crédito",
+   "justification": "Projetos com desenho operacional (escada de crédito em 4 etapas, fundo rotativo com garantia, 10 mil agroindústrias com 100 usinas de etanol).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "economia",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 126,
+   "quote": "O Brasil já demonstrou extraordinária competência para produzir milho, soja, carnes",
+   "justification": "Diagnóstico majoritariamente qualitativo nas seções econômicas lidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "economia",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 108,
+   "quote": "O governo assumirá apenas parte dos riscos, mantendo incentivos para que as instituições financeiras façam análise responsável das operações.",
+   "justification": "Risco específico (inadimplência/risco moral) com mitigação; idem especulação imobiliária p110.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "saude",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 161,
+   "quote": "Crianças em situação de vulnerabilidade; • Idosos com dificuldade de locomoção",
+   "justification": "Projetos com público e mecanismo (telessaúde com prioridades, SEA de câncer com comitês regionais).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "saude",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 166,
+   "quote": "Cerca de 700 mil novos casos por ano",
+   "justification": "Dados ligados ao projeto; fonte genérica (\"dados mundiais\").",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "saude",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 161,
+   "quote": "sem perder aquilo que nenhuma máquina poderá substituir: o cuidado humano",
+   "justification": "Limite genérico da telemedicina.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "educacao",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 43,
+   "quote": "Ampliaremos significativamente a oferta de ensino técnico integrado ao ensino médio",
+   "justification": "Medidas com escopo (técnico integrado, gestão da emoção nas escolas, Projeto 1), sem desenho operacional na p43; Projeto 1 (p68–80) predominantemente conceitual.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "educacao",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 70,
+   "quote": "O Brasil ocupa uma posição dramática no Programa Internacional de Avaliação de Estudantes — PISA",
+   "justification": "Fonte nomeada sem dado numérico.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "educacao",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas nas seções de educação lidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "seguranca",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 45,
+   "quote": "onde 5% dos colaboradores dos municípios devem ser convertidos na polícia FOCO, sem aumento, portanto, do efetivo municipal",
+   "justification": "Desenho operacional (FOCO com regra de 5%, mandato e lista tríplice do DG da PF, programa FATO).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "seguranca",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 186,
+   "quote": "Nosso país possui dimensões continentais, mais de 200 milhões de habitantes",
+   "justification": "Diagnóstico de contexto, sem dado sobre o problema na seção.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "seguranca",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 186,
+   "quote": "respeitando as competências constitucionais de cada instituição",
+   "justification": "Limite genérico.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "ambiente",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 182,
+   "quote": "Satélites + IA para identificar focos de calor em estágio inicial",
+   "justification": "Projeto com desenho operacional (IA + satélite, sala 24/7 Federal+Estados, drones, sensores).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "ambiente",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 182,
+   "quote": "A década mais quente da história recente",
+   "justification": "Diagnóstico declarado como a evidenciar, sem dado apresentado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "ambiente",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 182,
+   "quote": "Uso de agentes supressores (químicos e biológicos) de baixa toxicidade, com protocolos ambientais rigorosos",
+   "justification": "Risco específico (toxicidade) com salvaguarda.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "fiscal",
+   "criterion": "F1_custos",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 110,
+   "quote": "10. CUSTO ESTIMADO PARA DEZ ANOS",
+   "justification": "Quadros de custo por projeto em vários programas (fundo R$30–50 bi; blocos de custo em 10 anos).",
+   "limitation": "Custos por projeto em faixas e horizonte de 10 anos, sem soma do plano.",
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "fiscal",
+   "criterion": "F2_financiamento",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 36,
+   "quote": "por meio do crescimento econômico, da responsabilidade fiscal, do equilíbrio das contas públicas e da modernização do Estado",
+   "justification": "Fontes genéricas; fundo rotativo explica retorno, não origem do dinheiro.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "fiscal",
+   "criterion": "F3_consistencia",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 36,
+   "quote": "Nossa meta será perseguir o déficit próximo de zero",
+   "justification": "Meta fiscal explícita sem compatibilização com custos dos projetos (que somam centenas de bilhões).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "execucao",
+   "criterion": "E1_metas",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 108,
+   "quote": "META: Financiar pelo menos 2 milhões de pequenos empreendedores e negócios em dez anos.",
+   "justification": "Metas quantificadas em vários projetos (2 mi empreendedores, 10 mil agroindústrias, hidrogênio top 3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "execucao",
+   "criterion": "E2_prazos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 108,
+   "quote": "em dez anos",
+   "justification": "Poucos prazos, majoritariamente além do mandato (10 anos, 2035).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "execucao",
+   "criterion": "E3_instrumentos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 151,
+   "quote": "o Projeto de Lei Augusto Cury",
+   "justification": "Instrumentos raros (1 PL nomeado, ministério/secretaria); competência tratada genericamente.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551547",
+   "dimension": "execucao",
+   "criterion": "E4_monitoramento",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 110,
+   "quote": "Cada comunidade terá um painel público mostrando: valor destinado; obras contratadas; empresas responsáveis; cronograma; percentual executado",
+   "justification": "Mecanismo específico (painel por comunidade, metas por ministério p39), não sistema ligado a todas as metas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  }
+ ]
+}

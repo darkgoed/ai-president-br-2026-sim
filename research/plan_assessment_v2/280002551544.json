@@ -1,0 +1,341 @@
+{
+ "candidate_id": "280002551544",
+ "assessor": "claude-opus-5-5",
+ "pages_read_in_full": [
+  13,
+  14,
+  21,
+  26,
+  30,
+  33,
+  35,
+  57,
+  58,
+  71
+ ],
+ "notes": "76 págs; índice temático (p5–6) usado para localizar todas as seções.",
+ "cells": [
+  {
+   "candidate_id": "280002551544",
+   "dimension": "economia",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 30,
+   "quote": "Vamos promover a revisão e o redimensionamento da reforma tributária em curso",
+   "justification": "Medidas com mecanismo/escopo (revisão da reforma, voucher-creche, prioridade de beneficiário em qualificação, revogaço), sem desenho operacional articulado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "economia",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 30,
+   "quote": "projetado em torno de 30%, contra uma média de 19% nos países da OCDE",
+   "justification": "Dados ligados à medida; fontes não nomeadas (C3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "economia",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    0,
+    1
+   ],
+   "page": 30,
+   "quote": "preservando a simplificação e a aderência às melhores práticas internacionais",
+   "justification": "Reconhece a necessidade de preservar a simplificação ao revisar; sem risco específico.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "saude",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 26,
+   "quote": "Vamos implantar o prontuário eletrônico único, vinculado ao CPF e integrado ao Gov.br, interoperável entre as redes pública e privada",
+   "justification": "Medidas com desenho (prontuário único com CPF/Gov.br, IA no agendamento, unidades móveis).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "saude",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 26,
+   "quote": "espalhada em papéis, sistemas e unidades que não conversam entre si",
+   "justification": "Diagnóstico qualitativo.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "saude",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 26,
+   "quote": "sempre observados o consentimento do paciente, a LGPD, o sigilo médico e os protocolos de segurança",
+   "justification": "Risco de privacidade identificado com salvaguardas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "educacao",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 35,
+   "quote": "um aluno com bom desempenho é remunerado para dar reforço aos colegas que precisam",
+   "justification": "Medidas com mecanismo desenhado (método fônico, Programa Acolher, repasse vinculado a metas, cívico-militares).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "educacao",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 35,
+   "quote": "o Brasil aparece na 65ª posição entre 81 países em matemática",
+   "justification": "Dado ligado à medida; método fônico citado como \"comprovado pela ciência\" sem fonte nomeada.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "educacao",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 35,
+   "quote": "sem abandonar regiões que enfrentam maiores dificuldades",
+   "justification": "Reconhece risco genérico do financiamento por resultado sem mecanismo de mitigação.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "seguranca",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 13,
+   "quote": "PCC, CV, milícias e todas as outras facções serão declaradas como organizações narcoterroristas.",
+   "justification": "Medidas com público/mecanismo (narcoterrorismo, maioridade 16, Sistema Nacional de Fronteira, 500 mil vagas).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "seguranca",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 13,
+   "quote": "Hoje, temos 16 mil quilômetros de fronteiras abertas e um efetivo de 1 policial para cada 100 quilômetros.",
+   "justification": "Dado ligado à medida (fronteira), sem fonte nomeada (C3).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "seguranca",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem riscos/contrapartidas das medidas (ex.: uso letal da força, capacidade prisional).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "ambiente",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 58,
+   "quote": "utilizando informações fundiárias e ambientais e monitoramento por satélite para tornar a fiscalização mais eficiente e direcionada",
+   "justification": "Medidas com mecanismo (integração de bases, satélite, pagamento por serviços ambientais).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "ambiente",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 58,
+   "quote": "Preservar tem que compensar para quem preserva.",
+   "justification": "Diagnóstico qualitativo.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "ambiente",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 58,
+   "quote": "sem criar novas obrigações ou custos desnecessários para o produtor rural que atua dentro da lei",
+   "justification": "Trade-off fiscalização × custo ao produtor identificado e endereçado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "fiscal",
+   "criterion": "F1_custos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Nenhum custo das propostas (R$1 tri/R$500 bi referem-se à reforma vigente; 500 mil vagas sem custo).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "fiscal",
+   "criterion": "F2_financiamento",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 71,
+   "quote": "Vamos fazer o oposto: faremos nossos gastos caberem no orçamento",
+   "justification": "Fontes genéricas (gestão, desestatização) sem ligação a gastos.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "fiscal",
+   "criterion": "F3_consistencia",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 71,
+   "quote": "Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública",
+   "justification": "Regra fiscal explícita (superávits, controle de discricionárias, dívida/PIB), sem compatibilização com as promessas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "execucao",
+   "criterion": "E1_metas",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 14,
+   "quote": "vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário",
+   "justification": "Metas quantificadas em ≥2 temas (vagas prisionais, desmatamento ilegal zero, 100% serviços digitais).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "execucao",
+   "criterion": "E2_prazos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 58,
+   "quote": "Teremos a meta de zerar o desmatamento ilegal até 2029",
+   "justification": "Prazos em alguns compromissos (2029, 4 anos, primeiro dia).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "execucao",
+   "criterion": "E3_instrumentos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 13,
+   "quote": "Vamos fazer consórcios e convênios com estados e municípios",
+   "justification": "Instrumentos e competência federativa em vários itens (convênios, apoio a PEC da maioridade, Lei das Estatais); sem PEC/PL próprio nomeado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002551544",
+   "dimension": "execucao",
+   "criterion": "E4_monitoramento",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 71,
+   "quote": "uma agenda permanente de transparência e avaliação de políticas públicas, identificando quem são os beneficiários de cada programa e medindo o impacto real de cada gasto",
+   "justification": "Mecanismo específico de avaliação; não ligado às metas do plano.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  }
+ ]
+}

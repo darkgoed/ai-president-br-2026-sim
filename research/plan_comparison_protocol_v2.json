@@ -1,0 +1,75 @@
+{
+  "protocol_id": "comparacao-planos-v2-rubrica-documental",
+  "version": "2.0.0",
+  "fixed_at": "2026-10-17",
+  "supersedes": null,
+  "relation_to_v1": "Não substitui nem satisfaz o protocolo v1 (research/comparison_protocol_v1.json), que continua bloqueado: v1 exige histórico de gestão comparável e dupla revisão humana. v2 tem outro propósito: comparar só o TEXTO dos planos entregues ao TSE. Histórico de gestão foi retirado por decisão do usuário (nem todas as candidaturas governaram).",
+  "purpose": "Ranking exploratório dos planos — avaliação assistida por IA. Mede características verificáveis do texto dos planos (clareza, diagnóstico, contrapartidas, custos, financiamento, metas, prazos, instrumentos, monitoramento).",
+  "does_not_measure": [
+    "superioridade geral do partido",
+    "previsão de desempenho de governo ou de impacto das propostas",
+    "recomendação de voto",
+    "se a proposta é boa ou ruim no mérito ideológico",
+    "histórico de gestão, experiência administrativa, mandatos, popularidade ou votos (excluídos da nota)",
+    "frequências do bilhão de cenários (results-1b-streaming-v2): contexto macro comum, nunca nota"
+  ],
+  "editorial_choices": "Dimensões, critérios, âncoras e pesos são escolhas editoriais, não neutralidade científica. Planos mais detalhados pontuam mais em especificação; isso favorece planos técnicos sobre manifestos programáticos por construção.",
+  "universe": {
+    "rule": "Candidaturas DEFERIDAS no snapshot do registro TSE de 15/10/2026 (research/electoral_register.json), mesmo universo da v1 (12). Leonardo Avalanche (RENÚNCIA) e Pablo Marçal (#NULO) ficam fora.",
+    "unit": "candidatura — partido do registro na data de corte (SG_PARTIDO). O partido identifica a candidatura; não é nota do partido.",
+    "corpus": "PDF integral de cada candidatura em proposta_governo_2026_BR.zip do TSE, verificado por sha256 em research/program_manifest.json."
+  },
+  "dimensions": [
+    {"id": "economia", "label": "Economia, renda e emprego", "kind": "tematica"},
+    {"id": "saude", "label": "Saúde", "kind": "tematica"},
+    {"id": "educacao", "label": "Educação", "kind": "tematica"},
+    {"id": "seguranca", "label": "Segurança pública", "kind": "tematica"},
+    {"id": "ambiente", "label": "Meio ambiente e sustentabilidade", "kind": "tematica"},
+    {"id": "fiscal", "label": "Viabilidade fiscal (plano inteiro)", "kind": "transversal"},
+    {"id": "execucao", "label": "Execução e transparência (plano inteiro)", "kind": "transversal"}
+  ],
+  "criteria": {
+    "tematica": [
+      {"id": "T1_especificidade", "question": "As medidas do tema dizem o quê, para quem e por qual mecanismo?",
+       "anchors": {"0": "tema ausente ou só declaração de valor/intenção sem medida", "1": "medidas nomeadas sem desenho (ex.: 'fortalecer o SUS')", "2": "pelo menos duas medidas com público, escopo ou mecanismo definidos", "3": "conjunto de medidas com desenho operacional (público + mecanismo + responsável) articuladas entre si"}},
+      {"id": "T2_diagnostico_evidencia", "question": "O tema parte de um diagnóstico sustentado e liga a proposta ao problema?",
+       "anchors": {"0": "sem diagnóstico", "1": "diagnóstico só qualitativo/retórico", "2": "diagnóstico com ao menos um dado quantitativo atribuível ou fonte nomeada", "3": "dados com fonte nomeada E proposta explicitamente ligada ao problema ou a evidência de efetividade"}},
+      {"id": "T3_contrapartidas_riscos", "question": "O tema reconhece trade-offs, riscos, restrições ou efeitos colaterais?",
+       "anchors": {"0": "nenhum", "1": "menção genérica a limites/desafios", "2": "risco, restrição ou contrapartida específica identificada", "3": "risco/contrapartida específica identificada E mitigação proposta"}}
+    ],
+    "fiscal": [
+      {"id": "F1_custos", "question": "O plano estima custos das propostas?", "anchors": {"0": "nenhum valor de custo", "1": "custo de algum item isolado ou ordem de grandeza genérica", "2": "valores para várias propostas principais", "3": "quadro de custos agregado das propostas"}},
+      {"id": "F2_financiamento", "question": "O plano diz de onde vem o dinheiro?", "anchors": {"0": "não diz", "1": "fonte genérica ('eficiência', 'combate à corrupção', 'taxar os ricos' sem desenho)", "2": "fontes específicas nomeadas para algumas propostas (tributo, corte, fundo)", "3": "fontes específicas e quantificadas"}},
+      {"id": "F3_consistencia", "question": "O plano compatibiliza promessas com uma regra ou meta fiscal explícita?", "anchors": {"0": "sem menção a regra/meta/equilíbrio fiscal", "1": "compromisso genérico com responsabilidade/equilíbrio", "2": "regra ou meta fiscal explícita (ex.: arcabouço, resultado primário, teto, auditoria da dívida como política declarada)", "3": "regra explícita E compatibilização das promessas com ela"}}
+    ],
+    "execucao": [
+      {"id": "E1_metas", "question": "Há metas quantificadas?", "anchors": {"0": "nenhuma", "1": "uma ou poucas, isoladas", "2": "várias, em pelo menos dois temas", "3": "metas quantificadas na maioria das áreas"}},
+      {"id": "E2_prazos", "question": "Há prazos ou cronograma?", "anchors": {"0": "nenhum", "1": "um ou poucos prazos", "2": "prazos em vários compromissos", "3": "cronograma/faseamento explícito"}},
+      {"id": "E3_instrumentos", "question": "O plano indica instrumento legal/administrativo ou competência (PEC, PL, decreto, programa, ente federativo)?", "anchors": {"0": "nenhum", "1": "instrumento genérico ou isolado", "2": "instrumentos nomeados para vários compromissos", "3": "instrumentos e competência federativa tratados de forma sistemática"}},
+      {"id": "E4_monitoramento", "question": "O plano prevê indicadores, avaliação ou prestação de contas da própria execução?", "anchors": {"0": "nada", "1": "menção genérica a transparência/avaliação", "2": "mecanismo específico (indicador, painel, órgão, avaliação de política)", "3": "sistema de monitoramento com indicadores ligados às metas"}}
+    ]
+  },
+  "anti_duplication": "T1 avalia o conteúdo da medida (o quê/para quem/como); custo e financiamento só em F; metas, prazos e instrumento legal só em E. Uma mesma frase pode servir de evidência a mais de um critério apenas quando cada critério avalia um atributo distinto dela.",
+  "cell_status": {
+    "assessed": "nota pela âncora, com página e trecho literal verificados no PDF",
+    "absent_after_review": "o plano foi lido/buscado e não traz o atributo; vale 0 SÓ porque as âncoras definem 0 como ausência de especificação. Não é estimativa de impacto negativo.",
+    "unavailable": "documento ou trecho ilegível/indisponível; nota null",
+    "not_applicable": "critério não se aplica; nota null",
+    "uncertain": "interpretação ambígua; nota registrada com faixa [min,max] para sensibilidade"
+  },
+  "formulas": {
+    "dimension_score": "média das notas dos critérios da dimensão / 3 × 100 (0–100)",
+    "overall_score": "soma(peso_d × nota_d) com pesos iguais 1/7 entre as 7 dimensões; dimensões com mais critérios não pesam mais",
+    "missing_rule": "qualquer nota null em uma dimensão para QUALQUER candidatura remove essa dimensão de TODAS e o título do ranking passa a declarar o conjunto comum; não há renormalização por candidatura",
+    "ties": "notas gerais arredondadas a 1 casa decimal; iguais dividem a posição (ranking 1,2,2,4)",
+    "sensitivity": "(a) grade simplex de pesos com passo 0,1 nas 7 dimensões (8.008 vetores; empate na liderança conta para todos os empatados); (b) retirada de uma dimensão por vez com pesos iguais nas restantes; (c) células uncertain no mínimo e no máximo da faixa; (d) só temas × só transversais"
+  },
+  "assessment_method": {
+    "assessor": "claude-opus-5-5 (Anthropic), avaliação documental assistida por IA, passagem única",
+    "navigation": "tools/navigate_plans_v2.py aplica o MESMO léxico por dimensão a todas as páginas de todos os planos e lista as páginas de maior densidade; o modelo lê essas páginas inteiras e, nos transversais, todas as linhas com valores (R$/bilhões), anos-meta e instrumentos. Ausência é afirmada só após busca no texto integral.",
+    "automatic_verification": "src/plan_comparison_v2.py confere que cada trecho citado existe literalmente (espaços normalizados) na página indicada do PDF com o sha256 do manifesto.",
+    "human_review": "nenhuma. review_status = ai_single_pass_unreviewed. Não equivale à dupla codificação humana independente exigida na v1.",
+    "known_exposure": "O avaliador conhece candidatos e partidos pelo treinamento; nome e partido não entram no cálculo, mas não há cegamento real do julgamento."
+  },
+  "label": "RANKING EXPLORATÓRIO DOS PLANOS — AVALIAÇÃO ASSISTIDA POR IA · não é previsão, não é recomendação de voto"
+}

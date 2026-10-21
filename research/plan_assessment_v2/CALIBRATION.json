@@ -1,0 +1,14 @@
+{
+ "protocol_sha256_at_start": "f907ac41dcf5a7b33b4e67f87606d69bcff39cbd5af402614191e25c995abdbe",
+ "note": "Regras de desempate de âncora registradas DURANTE a avaliação, antes de qualquer agregado/ranking ser calculado. C7 e C8 surgiram no 5º e 8º planos; C7 foi reaplicada aos anteriores (PCO E3 0→1, faixa [0,1]; Edmilson E3 marcado uncertain [1,2]). C8 só tinha efeito em planos com balanço de mandato (Lula); Flávio/Caiado foram revistos e não tinham crédito por resultado passado.",
+ "rules": [
+  "C1 'imediato/imediata/emergencial' sem data = prazo vago; E2 no máximo 1.",
+  "C2 número na promessa (%, R$ de piso, horas, quantidade) conta como meta quantificada em E1; o mérito da meta não é avaliado.",
+  "C3 dado quantitativo específico sobre o problema, mesmo sem fonte, sustenta T2=2; fonte nomeada + ligação explícita à medida é exigida para 3.",
+  "C4 tributo/corte/fundo NOMEADO ligado a gasto específico = F2 2; sem alíquota/base/valor fica uncertain [1,2].",
+  "C5 rejeição declarada de regra fiscal (fim do teto/LRF/arcabouço, cancelar dívida) sem regra substituta = F3 1, uncertain [0,2]: é posição fiscal explícita, mas não compatibiliza promessas.",
+  "C6 páginas lidas inteiras ficam em pages_read_in_full; demais páginas cobertas só pela busca de linhas (--lines) do léxico fiscal/execução.",
+  "C7 norma específica citada para revogar/criar (ex.: 'Lei Antidrogas', 'LRF') sem veículo/órgão = E3 1; E3 2 exige veículo (PEC, PL/lei nova nomeada, decreto, MP, Constituinte) ou órgão/ente responsável para vários compromissos.",
+  "C8 resultados de mandato atual/anterior citados no plano contam só como diagnóstico (T2); não contam como medida (T1), meta, prazo, custo ou financiamento das propostas — só compromissos futuros contam nesses critérios."
+ ]
+}

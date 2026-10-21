@@ -1,0 +1,334 @@
+{
+ "candidate_id": "280002541457",
+ "assessor": "claude-opus-5-5",
+ "pages_read_in_full": [
+  2,
+  7,
+  8,
+  11,
+  12,
+  15,
+  16,
+  18,
+  19,
+  20,
+  27,
+  28
+ ],
+ "notes": "33 págs; lidas inteiras as de maior densidade por dimensão + seção de financiamento (27–28); demais por busca de linhas.",
+ "cells": [
+  {
+   "candidate_id": "280002541457",
+   "dimension": "economia",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 8,
+   "quote": "Redução da jornada de trabalho para 36 horas, sem redução dos salários e sem flexibilização de direitos",
+   "justification": "Medidas com mecanismo (36h, fim da 6×1, +100% no mínimo, isenção de IR até 10 SM).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "economia",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 2,
+   "quote": "Mais de 60% dos trabalhadores formais se submetem à escala 6×1 e bem acima de 40 horas semanais (dados do Anuário Estatístico do Ilaese-2025)",
+   "justification": "Dado com fonte nomeada ligado à medida (fim da 6×1).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "economia",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas nas páginas lidas nem na busca de linhas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "saude",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 11,
+   "quote": "Proibição da transferência de leitos públicos para planos privados",
+   "justification": "Lista com algumas medidas de escopo definido (leitos, comunidades terapêuticas, produção pública).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "saude",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 2,
+   "quote": "Filas extensas, exames e agendamento com especialistas são hoje um verdadeiro calvário",
+   "justification": "Diagnóstico qualitativo.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "saude",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "educacao",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 12,
+   "quote": "Garantia de permanência estudantil (transporte, alimentação, bolsas)",
+   "justification": "Medidas com escopo (revogar BNCC/Novo Ensino Médio, permanência, vagas).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "educacao",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 12,
+   "quote": "Cada vez mais se aprofunda a desigualdade educacional no país",
+   "justification": "Diagnóstico qualitativo.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "educacao",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "seguranca",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 19,
+   "quote": "Implantação de câmeras corporais para todos os agentes de segurança pública, com gravação ininterrupta e armazenamento das imagens sob controle de órgãos civis",
+   "justification": "Conjunto articulado com desenho operacional (câmeras com custódia civil, unificação civil das polícias, asfixia financeira do crime).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "seguranca",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 18,
+   "quote": "A população trabalhadora convive diariamente com diferentes formas de violência",
+   "justification": "Diagnóstico qualitativo, sem dado.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "seguranca",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas das próprias medidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "ambiente",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 16,
+   "quote": "Planos de emergência e defesa civil: alertas e evacuação, com participação comunitária",
+   "justification": "Medidas com escopo (fim de subsídios ao agro, recuperação de biomas, defesa civil).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "ambiente",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 15,
+   "quote": "a temperatura média global deve aumentar entre 2,5°C e 2,9°C até o fim do século",
+   "justification": "Dados com fonte nomeada (Pnuma) e medida ligada ao problema (emissões do agronegócio → fim de subsídios).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "ambiente",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas das próprias medidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "fiscal",
+   "criterion": "F1_custos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Nenhuma estimativa de custo das propostas (R$ 1 trilhão é estoque de dívida ativa, não custo).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "fiscal",
+   "criterion": "F2_financiamento",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 27,
+   "quote": "Imposto progressivo sobre as verdadeiras grandes fortunas, o topo da pirâmide, os que possuem de R$ 1 bilhão para cima.",
+   "justification": "Seção própria de financiamento com fontes específicas e base definida; sem arrecadação estimada.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "fiscal",
+   "criterion": "F3_consistencia",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    0,
+    2
+   ],
+   "page": 28,
+   "quote": "Fim a Lei de Responsabilidade Fiscal",
+   "justification": "Rejeita regra fiscal e propõe suspender dívida, sem regra substituta (C5).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "execucao",
+   "criterion": "E1_metas",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 27,
+   "quote": "Limitação em 25% da distribuição de dividendos das grandes empresas privadas remanescentes",
+   "justification": "Metas numéricas (36h, +100% mínimo, 25% dividendos, IR 10 SM), concentradas em economia.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "execucao",
+   "criterion": "E2_prazos",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    0,
+    1
+   ],
+   "page": 20,
+   "quote": "Restituição imediata de valores desviados em casos de fraude eletrônica.",
+   "justification": "Só prazos vagos \"imediato\" (C1).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "execucao",
+   "criterion": "E3_instrumentos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 27,
+   "quote": "Criação de fundos públicos de investimento produtivo, abastecidos pelos excedentes das empresas expropriadas",
+   "justification": "Órgãos/veículos nomeados (fundos públicos, banco único, empresa pública de obras) e normas a revogar (C7).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002541457",
+   "dimension": "execucao",
+   "criterion": "E4_monitoramento",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 20,
+   "quote": "com controle popular sobre essas instituições",
+   "justification": "Controle social genérico; sem indicadores de execução.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  }
+ ]
+}

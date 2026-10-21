@@ -1,0 +1,338 @@
+{
+ "candidate_id": "280002542548",
+ "assessor": "claude-opus-5-5",
+ "pages_read_in_full": [
+  11,
+  27,
+  28,
+  31,
+  36,
+  38,
+  48,
+  49,
+  69,
+  70
+ ],
+ "notes": "84 págs; ~1/3 do texto é balanço do mandato (C8).",
+ "cells": [
+  {
+   "candidate_id": "280002542548",
+   "dimension": "economia",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 49,
+   "quote": "aprimorando o uso das debêntures de infraestrutura, dos fundos de investimento em participações e do mercado secundário de recebíveis",
+   "justification": "Compromissos futuros com mecanismo nomeado (debêntures, fundos garantidores, PTE), maioria em formato de continuidade sem desenho novo (C8).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "economia",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 11,
+   "quote": "cerca de 140 mil contribuintes do topo da pirâmide social passaram a contribuir mais",
+   "justification": "Diagnóstico com dados (resultados do mandato, C8), fontes em geral não nomeadas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "economia",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 48,
+   "quote": "Nosso desafio é sustentar taxas robustas de crescimento",
+   "justification": "Desafio genérico; sem trade-off específico.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "saude",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 38,
+   "quote": "com fila única digital e ordenada pelo risco clínico, com transporte sanitário em todas as regiões de saúde",
+   "justification": "Conjunto articulado com desenho (fila única por risco clínico, Supercentro de telediagnóstico, Farmácia Popular com exames, UNACONs).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "saude",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 36,
+   "quote": "A UNICEF mostrou que o Brasil foi o país que registrou um dos maiores avanços mundiais na recuperação da cobertura vacinal infantil entre 2023 e 2025.",
+   "justification": "Dados com fonte nomeada ligados à continuidade das medidas (C8).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "saude",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas nas páginas 34–38 lidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "educacao",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 31,
+   "quote": "vamos instituir uma estratégia nacional permanente de recomposição e aceleração das aprendizagens",
+   "justification": "Medidas futuras com escopo (recomposição, tempo integral via Fundeb, creches no Novo PAC 2), sem desenho operacional.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "educacao",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 31,
+   "quote": "66% das crianças alfabetizadas na idade certa em 2025 - superaram a meta prevista de 64%",
+   "justification": "Dados de resultado ligados à meta (C8), sem fonte nomeada.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "educacao",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 0,
+   "status": "absent_after_review",
+   "uncertain_range": null,
+   "page": null,
+   "quote": null,
+   "justification": "Sem contrapartidas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "seguranca",
+   "criterion": "T1_especificidade",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 28,
+   "quote": "Consolidaremos o Sistema de Inteligência de Segurança Pública e Justiça Criminal, modernizaremos o SINESP e a Infoseg e ampliaremos as Forças Integradas de Combate ao Crime Organizado (FICCOs).",
+   "justification": "Conjunto articulado com mecanismo e responsável (PEC de atribuições, FICCOs, rastreabilidade de armas pela PF/Exército, urbanização).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "seguranca",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 27,
+   "quote": "que já permitiu, desde 2023, causar R$ 35,8 bilhões de prejuízos às organizações criminosas",
+   "justification": "Dado de resultado (C8) sem fonte nomeada.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "seguranca",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 27,
+   "quote": "nos marcos da Constituição e do Estado Democrático de Direito",
+   "justification": "Limite genérico.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "ambiente",
+   "criterion": "T1_especificidade",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 70,
+   "quote": "continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030",
+   "justification": "Compromissos com instrumentos nomeados (Plano Clima, SBCE, Fundo Clima/TFFF), em grande parte continuidade (C8).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "ambiente",
+   "criterion": "T2_diagnostico_evidencia",
+   "score": 3,
+   "status": "uncertain",
+   "uncertain_range": [
+    2,
+    3
+   ],
+   "page": 69,
+   "quote": "estabeleceu uma meta de redução de 59% a 67% das emissões líquidas de gases de efeito estufa até 2035, em relação a 2005",
+   "justification": "Dados e instrumentos institucionais nomeados (NDC, Plano Clima) ligados às metas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "ambiente",
+   "criterion": "T3_contrapartidas_riscos",
+   "score": 1,
+   "status": "uncertain",
+   "uncertain_range": [
+    0,
+    1
+   ],
+   "page": 70,
+   "quote": "A transformação ecológica é uma oportunidade histórica do Brasil no século XXI. Não é um custo",
+   "justification": "Nega o custo em vez de tratá-lo; contrapartida não reconhecida.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "fiscal",
+   "criterion": "F1_custos",
+   "score": 0,
+   "status": "uncertain",
+   "uncertain_range": [
+    0,
+    1
+   ],
+   "page": null,
+   "quote": null,
+   "justification": "Nenhum custo de proposta futura (valores do plano são resultados do mandato, C8; R$10 bi do Brasil contra o Crime Organizado é programa já lançado).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "fiscal",
+   "criterion": "F2_financiamento",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 49,
+   "quote": "O resultado fiscal virá, como fizemos até aqui, da retomada do crescimento econômico",
+   "justification": "Fontes genéricas (crescimento, eficiência, justiça tributária).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "fiscal",
+   "criterion": "F3_consistencia",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 49,
+   "quote": "manteremos o novo arcabouço fiscal",
+   "justification": "Regra fiscal explícita, sem compatibilização das promessas com ela.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "execucao",
+   "criterion": "E1_metas",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 31,
+   "quote": "para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa",
+   "justification": "Metas quantificadas futuras em ≥2 temas (alfabetização 80%, desmatamento zero, NDC 59–67%).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "execucao",
+   "criterion": "E2_prazos",
+   "score": 2,
+   "status": "uncertain",
+   "uncertain_range": [
+    1,
+    2
+   ],
+   "page": 70,
+   "quote": "alcançar o desmatamento líquido zero até 2030",
+   "justification": "Prazos em alguns compromissos (2030, 2035, PNE 2026–2036).",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "execucao",
+   "criterion": "E3_instrumentos",
+   "score": 2,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 27,
+   "quote": "Enviamos ao Congresso Nacional proposta de emenda constitucional para revisar as atribuições dos entes da Federação",
+   "justification": "Instrumentos nomeados para vários compromissos (PEC, Fundeb, Novo PAC, programas) e cooperação federativa.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  },
+  {
+   "candidate_id": "280002542548",
+   "dimension": "execucao",
+   "criterion": "E4_monitoramento",
+   "score": 1,
+   "status": "assessed",
+   "uncertain_range": null,
+   "page": 49,
+   "quote": "seguiremos monitorando a evolução do endividamento das famílias e das empresas",
+   "justification": "Monitoramento genérico; sem sistema ligado às metas.",
+   "limitation": null,
+   "review_status": "ai_single_pass_unreviewed"
+  }
+ ]
+}
